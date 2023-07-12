@@ -3,17 +3,13 @@
   display: flex;
 }
 
-.index .iphone-pro-max {
-  position: relative;
-}
-
 .index .frame {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
 }
 
-.index .text-wrapper {
+.index .professional {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-weight: 700;
@@ -49,9 +45,12 @@
 }
 
 .index .vector {
+  height: 182px;
+  left: 13px;
   object-fit: cover;
   position: absolute;
   top: 30px;
+  width: 122px;
 }
 
 .index .overlap {
@@ -79,4 +78,94 @@
 
 .index .vector-2 {
   position: absolute;
+}
+
+.index .div {
+  height: 810px;
+  left: 21px;
+  position: relative;
+  top: 89px;
+  width: 387px;
+}
+
+.index .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 82px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.index .text-wrapper {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 43.8px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -11.94px;
+  margin-top: -0.8px;
+  position: relative;
+  width: 398.94px;
+}
+
+.index .p {
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 33.4px;
+  margin-right: -43px;
+  position: relative;
+  width: 430px;
+}
+
+.index .overlap-group-wrapper {
+  height: 43.8px;
+  min-width: 268.76px;
+  position: relative;
+}
+
+.index .talk-to-an-expert-wrapper {
+  background-color: #c8982a;
+  height: 44px;
+  position: relative;
+  width: 267px;
+}
+
+.index .talk-to-an-expert-2 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 10.4px;
+  font-weight: 800;
+  height: 7px;
+  left: 50px;
+  letter-spacing: 0.8px;
+  line-height: 10.4px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+  width: 166px;
+}
+
+.index .group-2 {
+  height: 365px;
+  left: 41px;
+  position: absolute;
+  top: 445px;
+  width: 305px;
+}
+
+.index .vector-3 {
+  height: 311px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 475px;
+  width: 208px;
 }
