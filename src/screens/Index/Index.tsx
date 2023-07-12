@@ -1,8 +1,9 @@
 import React from "react";
 import { useWindowWidth } from "../../breakpoints";
+import { Group } from "../../components/Group";
 import "./style.css";
 
-export const Index = () => {
+export const Index = (): JSX.Element => {
   const screenWidth = useWindowWidth();
 
   return (
@@ -155,115 +156,15 @@ export const Index = () => {
             <br />
             Easy, Technological, Professional
           </p>
-          <div
-            className="group"
-            style={{
-              height:
-                screenWidth < 430
-                  ? "31.6px"
-                  : screenWidth >= 430 && screenWidth < 1200
-                  ? "43.8px"
-                  : (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310
-                  ? "55px"
-                  : undefined,
-              minWidth:
-                screenWidth < 430
-                  ? "194.47px"
-                  : screenWidth >= 430 && screenWidth < 1200
-                  ? "268.76px"
-                  : (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310
-                  ? "337px"
-                  : undefined,
-            }}
-          >
-            <div
-              className="overlap-group"
-              style={{
-                height:
-                  screenWidth < 430
-                    ? "32px"
-                    : screenWidth >= 430 && screenWidth < 1200
-                    ? "44px"
-                    : (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310
-                    ? "55px"
-                    : undefined,
-                width:
-                  screenWidth < 430
-                    ? "192px"
-                    : screenWidth >= 430 && screenWidth < 1200
-                    ? "267px"
-                    : (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310
-                    ? "335px"
-                    : undefined,
-              }}
-            >
-              <div
-                className="talk-to-an-expert"
-                style={{
-                  fontSize:
-                    screenWidth < 430
-                      ? "7.5px"
-                      : screenWidth >= 430 && screenWidth < 1200
-                      ? "10.4px"
-                      : screenWidth >= 1200 && screenWidth < 1310
-                      ? "15px"
-                      : screenWidth >= 1310
-                      ? "13px"
-                      : undefined,
-                  height:
-                    screenWidth < 430
-                      ? "5px"
-                      : screenWidth >= 430 && screenWidth < 1200
-                      ? "7px"
-                      : (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310
-                      ? "9px"
-                      : undefined,
-                  left:
-                    screenWidth < 430
-                      ? "36px"
-                      : screenWidth >= 430 && screenWidth < 1200
-                      ? "50px"
-                      : (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310
-                      ? "63px"
-                      : undefined,
-                  letterSpacing:
-                    screenWidth < 430
-                      ? "0.57px"
-                      : screenWidth >= 430 && screenWidth < 1200
-                      ? "0.80px"
-                      : (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310
-                      ? "1.00px"
-                      : undefined,
-                  lineHeight:
-                    screenWidth < 430
-                      ? "7.5px"
-                      : screenWidth >= 430 && screenWidth < 1200
-                      ? "10.4px"
-                      : (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310
-                      ? "13px"
-                      : undefined,
-                  top:
-                    screenWidth < 430
-                      ? "13px"
-                      : screenWidth >= 430 && screenWidth < 1200
-                      ? "18px"
-                      : (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310
-                      ? "23px"
-                      : undefined,
-                  width:
-                    screenWidth < 430
-                      ? "120px"
-                      : screenWidth >= 430 && screenWidth < 1200
-                      ? "166px"
-                      : (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310
-                      ? "209px"
-                      : undefined,
-                }}
-              >
-                TALK TO AN EXPERT
-              </div>
-            </div>
-          </div>
+          <Group
+            className={`${screenWidth < 430 && "class-2"} ${
+              ((screenWidth >= 1200 && screenWidth < 1310) ||
+                screenWidth >= 1310 ||
+                (screenWidth >= 430 && screenWidth < 1200)) &&
+              "class-3"
+            }`}
+            talkToAnExpertClassName={`${screenWidth < 430 && "class"}`}
+          />
         </div>
         <div
           className="overlap_group"
@@ -316,7 +217,7 @@ export const Index = () => {
           )}
 
           {((screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310) && (
-            <div className="overlap">
+            <div className="overlap-group">
               <img className="rectangle" alt="Rectangle" src="/img/rectangle-5.png" />
               <img
                 className="img"
