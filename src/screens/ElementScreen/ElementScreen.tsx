@@ -1,15 +1,14 @@
 import React from "react";
 import { useWindowWidth } from "../../breakpoints";
 import { Group } from "../../components/Group";
-import { Vector } from "../../components/Vector";
 import "./style.css";
 
-export const Index = (): JSX.Element => {
+export const ElementScreen = (): JSX.Element => {
   const screenWidth = useWindowWidth();
 
   return (
     <div
-      className="index"
+      className="element-screen"
       style={{
         alignItems: (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310 ? "flex-start" : undefined,
         border: (screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310 ? "1px none" : undefined,
@@ -48,7 +47,7 @@ export const Index = (): JSX.Element => {
         }}
       >
         <div
-          className="frame"
+          className="frame-2"
           style={{
             gap:
               screenWidth < 430
@@ -77,7 +76,7 @@ export const Index = (): JSX.Element => {
           }}
         >
           <h1
-            className="text-wrapper"
+            className="h-1"
             style={{
               fontSize:
                 screenWidth < 430
@@ -116,7 +115,7 @@ export const Index = (): JSX.Element => {
             Professional Translation Services
           </h1>
           <p
-            className="element-languages-that"
+            className="p"
             style={{
               fontSize:
                 screenWidth < 430
@@ -159,17 +158,17 @@ export const Index = (): JSX.Element => {
             Easy, Technological, Professional
           </p>
           <Group
-            className={`${screenWidth < 430 && "class"} ${
+            className={`${screenWidth < 430 && "class-2"} ${
               ((screenWidth >= 1200 && screenWidth < 1310) ||
                 screenWidth >= 1310 ||
                 (screenWidth >= 430 && screenWidth < 1200)) &&
-              "class-2"
+              "class-3"
             }`}
-            talkToAnExpertClassName={`${screenWidth < 430 && "class-3"}`}
+            talkToAnExpertClassName={`${screenWidth < 430 && "class"}`}
           />
         </div>
         <div
-          className="div"
+          className="group-3"
           style={{
             backgroundImage: screenWidth >= 430 && screenWidth < 1200 ? "url(/img/group-1.png)" : undefined,
             backgroundSize: screenWidth >= 430 && screenWidth < 1200 ? "100% 100%" : undefined,
@@ -238,15 +237,16 @@ export const Index = (): JSX.Element => {
                 }
               />
               {((screenWidth >= 1200 && screenWidth < 1310) || screenWidth >= 1310) && (
-                <Vector
-                  className={`${screenWidth >= 1200 && screenWidth < 1310 && "class-4"} ${
-                    screenWidth >= 1310 && "class-5"
-                  }`}
+                <div
+                  className="vector"
+                  style={{
+                    top: screenWidth >= 1200 && screenWidth < 1310 ? "42px" : screenWidth >= 1310 ? "31px" : undefined,
+                  }}
                 />
               )}
 
               <img
-                className="img"
+                className="rectangle-2"
                 style={{
                   height:
                     screenWidth < 430
@@ -277,7 +277,7 @@ export const Index = (): JSX.Element => {
                 }
               />
               <img
-                className="rectangle-2"
+                className="rectangle-3"
                 style={{
                   height:
                     screenWidth < 430
@@ -307,12 +307,12 @@ export const Index = (): JSX.Element => {
                     : undefined
                 }
               />
-              {screenWidth < 430 && <Vector className="vector-1" />}
+              {screenWidth < 430 && <div className="vector-2" />}
             </div>
           )}
 
           {screenWidth >= 430 && screenWidth < 1200 && (
-            <img className="vector-2" alt="Vector" src="/img/vector-4.png" />
+            <img className="vector-3" alt="Vector" src="/img/vector-4.png" />
           )}
         </div>
       </div>
