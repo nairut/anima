@@ -1,11 +1,21 @@
 import React from "react";
+import { useWindowWidth } from "../../breakpoints";
 import "./style.css";
 
-export const Frame = () => {
+export const Element = (): JSX.Element => {
+  const screenWidth = useWindowWidth();
+
   return (
-    <div className="frame">
-      <div className="div">
-        <div className="div-2">
+    <div
+      className="element"
+      style={{
+        minWidth: screenWidth < 1310 ? "1200px" : screenWidth >= 1310 ? "1310px" : undefined,
+        padding:
+          screenWidth < 1310 ? "100px 174px 100px 85px" : screenWidth >= 1310 ? "100px 198px 100px 217px" : undefined,
+      }}
+    >
+      <div className="frame">
+        <div className="div">
           <h1 className="text-wrapper">Professional Translation Services</h1>
           <p className="element-languages-that">
             120 languages that fits in your budget
