@@ -1,0 +1,216 @@
+.frame-screen {
+  background-color: #ffffff;
+  display: flex;
+}
+
+.frame-screen .iphone-mini {
+  background-color: #ffffff;
+}
+
+.frame-screen .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.frame-screen .h-1 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26.3px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.48px;
+  position: relative;
+}
+
+.frame-screen .p {
+  align-self: stretch;
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20.1px;
+  position: relative;
+}
+
+.frame-screen .boto {
+  align-items: center;
+  display: flex;
+  height: 26.26px;
+  justify-content: flex-end;
+  position: relative;
+  width: 169.52px;
+}
+
+.frame-screen .rectangle {
+  background-color: #c8982a;
+  height: 26.26px;
+  min-width: 159.97px;
+  position: relative;
+}
+
+.frame-screen .talk-to-an-expert-2 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 6.2px;
+  font-weight: 800;
+  height: 4.3px;
+  letter-spacing: 0.48px;
+  line-height: 6.2px;
+  margin-left: -112.22px;
+  position: relative;
+  white-space: nowrap;
+  width: 121.77px;
+}
+
+.frame-screen .whatsapp-image {
+  height: 373px;
+  min-width: 288.23px;
+  object-fit: cover;
+  position: relative;
+}
+
+.frame-screen .frame-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 139.1px;
+  padding: 23.88px 33.96px;
+  position: relative;
+}
+
+.frame-screen .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 28.97px;
+  position: relative;
+}
+
+.frame-screen .text-wrapper-2 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 23.8px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.43px;
+  position: relative;
+}
+
+.frame-screen .element-languages-that-2 {
+  align-self: stretch;
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 9.1px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  position: relative;
+}
+
+.frame-screen .boto-2 {
+  align-items: center;
+  display: flex;
+  height: 23.78px;
+  justify-content: flex-end;
+  margin-right: -84.49px;
+  position: relative;
+  width: 153.5px;
+}
+
+.frame-screen .rectangle-2 {
+  background-color: #c8982a;
+  height: 23.78px;
+  min-width: 144.86px;
+  position: relative;
+}
+
+.frame-screen .talk-to-an-expert-3 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 5.6px;
+  font-weight: 800;
+  height: 3.89px;
+  letter-spacing: 0.43px;
+  line-height: 5.6px;
+  margin-left: -101.62px;
+  position: relative;
+  white-space: nowrap;
+  width: 110.26px;
+}
+
+.frame-screen .whatsapp-image-2 {
+  height: 197.95px;
+  min-width: 152.96px;
+  object-fit: cover;
+  position: relative;
+}
+
+.frame-screen .frame-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 54.59px;
+  position: relative;
+}
+
+.frame-screen .text-wrapper-3 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 44.8px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.81px;
+  position: relative;
+}
+
+.frame-screen .element-languages-that-3 {
+  align-self: stretch;
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 17.1px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  position: relative;
+}
+
+.frame-screen .boto-3 {
+  align-items: center;
+  display: flex;
+  height: 44.81px;
+  justify-content: flex-end;
+  margin-right: -57.59px;
+  position: relative;
+  width: 289.25px;
+}
+
+.frame-screen .rectangle-3 {
+  background-color: #c8982a;
+  height: 44.81px;
+  min-width: 272.95px;
+  position: relative;
+}
+
+.frame-screen .talk-to-an-expert-4 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 10.6px;
+  font-weight: 800;
+  height: 7.33px;
+  letter-spacing: 0.81px;
+  line-height: 10.6px;
+  margin-left: -191.48px;
+  position: relative;
+  white-space: nowrap;
+  width: 207.77px;
+}
