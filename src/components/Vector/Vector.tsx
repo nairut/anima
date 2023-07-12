@@ -6,6 +6,10 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 import React from "react";
 import "./style.css";
 
-export const Rectangle = ({ className }) => {
-  return <div className={`rectangle ${className}`} />;
+interface Props {
+  className: any;
+}
+
+export const Vector = ({ className }: Props): JSX.Element => {
+  return <div className={`vector ${className}`} />;
 };
