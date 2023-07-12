@@ -1,0 +1,140 @@
+.index {
+  background-color: #ffffff;
+  display: flex;
+}
+
+.index .iphone-mini {
+  background-color: #ffffff;
+  border: 1px none;
+}
+
+.index .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 31.99px;
+  left: 32px;
+  position: relative;
+  top: 97px;
+  width: 328px;
+}
+
+.index .text-wrapper {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 26.3px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.48px;
+  position: relative;
+}
+
+.index .p {
+  align-self: stretch;
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20.1px;
+  position: relative;
+}
+
+.index .boto {
+  align-items: center;
+  display: flex;
+  height: 26.26px;
+  justify-content: flex-end;
+  position: relative;
+  width: 169.52px;
+}
+
+.index .rectangle-2 {
+  background-color: #c8982a;
+  height: 26.26px;
+  min-width: 159.97px;
+  position: relative;
+}
+
+.index .talk-to-an-expert-2 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 6.2px;
+  font-weight: 800;
+  height: 4.3px;
+  letter-spacing: 0.48px;
+  line-height: 6.2px;
+  margin-left: -112.22px;
+  position: relative;
+  white-space: nowrap;
+  width: 121.77px;
+}
+
+.index .img {
+  height: 373px;
+  min-width: 288.23px;
+  object-fit: cover;
+  position: relative;
+}
+
+.index .frame-14 {
+  gap: 5.31px !important;
+  height: 548px !important;
+  left: 73px !important;
+  top: 173px !important;
+  width: 429px !important;
+}
+
+.index .frame-instance {
+  gap: 139.1px !important;
+  margin-bottom: unset !important;
+  padding: 23.88px 33.96px !important;
+}
+
+.index .frame-14-instance {
+  gap: 28.97px !important;
+}
+
+.index .instance-node {
+  font-size: 23.8px !important;
+  margin-top: -0.43px !important;
+}
+
+.index .frame-3 {
+  font-size: 9.1px !important;
+  line-height: 18.2px !important;
+}
+
+.index .frame-4 {
+  height: 23.78px !important;
+  margin-right: -84.49px !important;
+  width: 153.5px !important;
+}
+
+.index .frame-5 {
+  height: 23.78px !important;
+  min-width: 144.86px !important;
+}
+
+.index .frame-6 {
+  font-size: 5.6px !important;
+  height: 3.89px !important;
+  letter-spacing: 0.43px !important;
+  line-height: 5.6px !important;
+  margin-left: -101.62px !important;
+  width: 110.26px !important;
+}
+
+.index .frame-7 {
+  height: 197.95px !important;
+  min-width: 152.96px !important;
+}
+
+.index .frame-8 {
+  align-self: stretch !important;
+  left: unset !important;
+  top: unset !important;
+  width: unset !important;
+}

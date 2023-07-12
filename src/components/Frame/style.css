@@ -1,0 +1,92 @@
+.frame {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 540px;
+  left: 163px;
+  position: relative;
+  top: 103px;
+  width: 910px;
+}
+
+.frame .div {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 262.11px;
+  margin-bottom: -92px;
+  padding: 45px 64px;
+  position: relative;
+}
+
+.frame .div-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 54.59px;
+  position: relative;
+}
+
+.frame .professional {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 44.8px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.81px;
+  position: relative;
+}
+
+.frame .element-languages-that {
+  align-self: stretch;
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 17.1px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 34.2px;
+  position: relative;
+}
+
+.frame .bot-o {
+  align-items: center;
+  display: flex;
+  height: 44.81px;
+  justify-content: flex-end;
+  margin-right: -57.59px;
+  position: relative;
+  width: 289.25px;
+}
+
+.frame .rectangle {
+  background-color: #c8982a;
+  height: 44.81px;
+  min-width: 272.95px;
+  position: relative;
+}
+
+.frame .talk-to-an-expert {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 10.6px;
+  font-weight: 800;
+  height: 7.33px;
+  letter-spacing: 0.81px;
+  line-height: 10.6px;
+  margin-left: -191.48px;
+  position: relative;
+  white-space: nowrap;
+  width: 207.77px;
+}
+
+.frame .whatsapp-image {
+  height: 373px;
+  min-width: 288.23px;
+  object-fit: cover;
+  position: relative;
+}
