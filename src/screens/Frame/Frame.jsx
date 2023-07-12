@@ -12,7 +12,7 @@ export const Frame = () => {
             <br />
             11,000+ translators
             <br />
-            Easy, Technological, Professional&nbsp;&nbsp;AAAAAAAAAAA
+            Easy, Technological, Professional
           </p>
           <div className="group">
             <div className="overlap-group">
