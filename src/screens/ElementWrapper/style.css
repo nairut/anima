@@ -1,16 +1,16 @@
-.element-screen {
+.element-wrapper {
   align-items: flex-start;
   background-color: #ffffff;
   border: 1px none;
   display: flex;
   flex-direction: column;
   gap: 10px;
-  min-width: 1310px;
-  padding: 100px 198px 100px 217px;
+  min-width: 1200px;
+  padding: 100px 174px 100px 85px;
   position: relative;
 }
 
-.element-screen .frame-2 {
+.element-wrapper .frame-5 {
   align-items: flex-end;
   align-self: stretch;
   display: flex;
@@ -18,7 +18,7 @@
   position: relative;
 }
 
-.element-screen .frame-3 {
+.element-wrapper .frame-6 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -27,7 +27,7 @@
   width: 486px;
 }
 
-.element-screen .h-1 {
+.element-wrapper .text-wrapper-3 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 55px;
@@ -40,7 +40,7 @@
   width: 501px;
 }
 
-.element-screen .p {
+.element-wrapper .element-languages-that-3 {
   color: #383836;
   font-family: "Lato", Helvetica;
   font-size: 21px;
@@ -52,26 +52,26 @@
   width: 540px;
 }
 
-.element-screen .group-instance {
+.element-wrapper .design-component-instance-node {
   left: unset !important;
   min-width: 335px !important;
   top: unset !important;
   width: unset !important;
 }
 
-.element-screen .overlap-group-wrapper {
+.element-wrapper .div-wrapper {
   height: 365px;
   min-width: 305px;
   position: relative;
 }
 
-.element-screen .overlap-group {
+.element-wrapper .overlap-group-2 {
   height: 365px;
   position: relative;
   width: 305px;
 }
 
-.element-screen .rectangle {
+.element-wrapper .rectangle-4 {
   height: 341px;
   left: 24px;
   position: absolute;
@@ -79,18 +79,18 @@
   width: 281px;
 }
 
-.element-screen .vector {
+.element-wrapper .vector-3 {
   background-image: url(../../../static/img/vector-1.png);
   background-position: 50% 50%;
   background-size: cover;
   height: 311px;
   left: 24px;
   position: absolute;
-  top: 31px;
+  top: 42px;
   width: 208px;
 }
 
-.element-screen .rectangle-2 {
+.element-wrapper .rectangle-5 {
   height: 244px;
   left: 0;
   position: absolute;
@@ -98,7 +98,7 @@
   width: 24px;
 }
 
-.element-screen .rectangle-3 {
+.element-wrapper .rectangle-6 {
   height: 24px;
   left: 0;
   position: absolute;
