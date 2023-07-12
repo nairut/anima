@@ -47,3 +47,106 @@
   text-align: center;
   white-space: nowrap;
 }
+
+.element .overlap {
+  position: relative;
+}
+
+.element .rectangle {
+  position: absolute;
+  top: 0;
+}
+
+.element .class {
+  background-image: url(../../../static/img/vector-1.png) !important;
+  height: 179px !important;
+  left: 15px !important;
+  position: absolute !important;
+  top: 33px !important;
+  width: 122px !important;
+}
+
+.element .class-2 {
+  left: 23px !important;
+  position: absolute !important;
+  top: 30px !important;
+}
+
+.element .img {
+  left: 0;
+  position: absolute;
+}
+
+.element .rectangle-2 {
+  left: 0;
+  position: absolute;
+}
+
+.element .div {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  position: relative;
+  width: 486px;
+}
+
+.element .h-1 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 55px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -15px;
+  margin-top: -1px;
+  position: relative;
+  width: 501px;
+}
+
+.element .p {
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 21px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-right: -54px;
+  position: relative;
+  width: 540px;
+}
+
+.element .overlap-group-wrapper {
+  height: 55px;
+  min-width: 337px;
+  position: relative;
+}
+
+.element .talk-to-an-expert-wrapper {
+  background-color: #c8982a;
+  height: 55px;
+  position: relative;
+  width: 335px;
+}
+
+.element .talk-to-an-expert-2 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 13px;
+  font-weight: 800;
+  height: 9px;
+  left: 63px;
+  letter-spacing: 1px;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  white-space: nowrap;
+  width: 209px;
+}
+
+.element .group-2 {
+  height: 365px;
+  min-width: 305px;
+  position: relative;
+}
