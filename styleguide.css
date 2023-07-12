@@ -4,11 +4,13 @@
   --onyx: #383836;
   --white: #ffffff;
  
-  --font-size-l: 43.8px;
+  --font-size-l: 31.6px;
   --font-size-m: 21px;
   --font-size-s: 20px;
-  --font-size-xl: 55px;
+  --font-size-xl: 43.8px;
   --font-size-xs: 16.7px;
+  --font-size-xxl: 55px;
+  --font-size-xxs: 12.1px;
  
   --font-family-lato: "Lato", Helvetica;
   --font-family-manrope: "Manrope", Helvetica;
@@ -24,7 +26,7 @@
 .lato-bold-black-55px {
   color: var(--black);
   font-family: var(--font-family-lato);
-  font-size: var(--font-size-xl);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 700;
 }

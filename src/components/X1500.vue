@@ -1,6 +1,6 @@
 <template>
   <div class="x1500 screen">
-    <div class="frame-11-1">
+    <div class="frame-11">
       <frame10 />
       <div class="group-1">
         <div class="overlap-group">
@@ -42,7 +42,7 @@ export default {
   position: relative;
 }
 
-.frame-11-1 {
+.frame-11 {
   align-items: flex-end;
   align-self: stretch;
   display: flex;

@@ -21,6 +21,13 @@ export default {
 }
 
 .vector-1.vector-1-1 {
+  height: 194px;
+  left: 15px;
+  top: 18px;
+  width: 130px;
+}
+
+.vector-1.vector-1-2 {
   top: 42px;
 }
 </style>

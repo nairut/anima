@@ -1,15 +1,15 @@
 <template>
   <div class="x1501 screen">
-    <div class="frame-11-2">
+    <div class="frame-11-1">
       <frame10 />
       <div class="group-1-2">
         <div class="overlap-group-2">
-          <img class="rectangle-5-1" :src="rectangle5" alt="Rectangle 5" /><vector1
+          <img class="rectangle-5-2" :src="rectangle5" alt="Rectangle 5" /><vector1
             :src="vector1Props.src"
             :className="vector1Props.className"
           />
-          <img class="rectangle-2-1" :src="rectangle2" alt="Rectangle 2" /><img
-            class="rectangle-3-1"
+          <img class="rectangle-2-2" :src="rectangle2" alt="Rectangle 2" /><img
+            class="rectangle-3-2"
             :src="rectangle3"
             alt="Rectangle 3"
           />
@@ -45,7 +45,7 @@ export default {
   position: relative;
 }
 
-.frame-11-2 {
+.frame-11-1 {
   align-items: flex-end;
   align-self: stretch;
   display: flex;
@@ -65,7 +65,7 @@ export default {
   width: 305px;
 }
 
-.rectangle-5-1 {
+.rectangle-5-2 {
   height: 341px;
   left: 24px;
   position: absolute;
@@ -73,7 +73,7 @@ export default {
   width: 281px;
 }
 
-.rectangle-2-1 {
+.rectangle-2-2 {
   height: 244px;
   left: 0;
   position: absolute;
@@ -81,7 +81,7 @@ export default {
   width: 24px;
 }
 
-.rectangle-3-1 {
+.rectangle-3-2 {
   height: 24px;
   left: 0;
   position: absolute;

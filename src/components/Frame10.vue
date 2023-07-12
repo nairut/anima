@@ -20,8 +20,7 @@ export default {
 
 <style>
 .frame-10,
-.frame-10-1,
-.frame-10-2 {
+.frame-10-1 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -31,8 +30,7 @@ export default {
 }
 
 .title,
-.title-1,
-.title-2 {
+.title-1 {
   letter-spacing: 0;
   line-height: normal;
   margin-right: -15px;
@@ -42,8 +40,7 @@ export default {
 }
 
 .address,
-.address-1,
-.address-2 {
+.address-1 {
   letter-spacing: 0;
   line-height: 42px;
   margin-right: -54px;

@@ -6,7 +6,7 @@
         <p class="address-3 valign-text-middle" v-html="address"></p>
         <group2 />
       </div>
-      <div class="overlap-group-1" :style="{ 'background-image': 'url(' + overlapGroup + ')' }">
+      <div class="overlap-group-3" :style="{ 'background-image': 'url(' + overlapGroup + ')' }">
         <img class="vector-4" :src="vector4" alt="Vector 4" />
       </div>
     </div>
@@ -50,7 +50,7 @@ export default {
 .title-3 {
   color: var(--black);
   font-family: var(--font-family-lato);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-weight: 700;
   letter-spacing: 0;
   line-height: normal;
@@ -72,7 +72,7 @@ export default {
   width: 430px;
 }
 
-.overlap-group-1 {
+.overlap-group-3 {
   align-items: flex-end;
   align-self: center;
   background-size: 100% 100%;
