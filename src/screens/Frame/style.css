@@ -1,92 +1,88 @@
 .frame {
   align-items: flex-start;
   background-color: #ffffff;
+  border: 1px none;
   display: flex;
   flex-direction: column;
   gap: 10px;
-  height: 540px;
-  left: 163px;
+  min-width: 1200px;
+  padding: 100px 85px;
   position: relative;
-  top: 103px;
-  width: 910px;
 }
 
 .frame .div {
-  align-items: flex-start;
+  align-items: flex-end;
   align-self: stretch;
   display: flex;
-  gap: 262.11px;
-  margin-bottom: -92px;
-  padding: 45px 64px;
+  justify-content: space-between;
   position: relative;
 }
 
 .frame .div-2 {
   align-items: flex-start;
   display: flex;
-  flex: 1;
   flex-direction: column;
-  gap: 54.59px;
+  gap: 27px;
   position: relative;
+  width: 486px;
 }
 
-.frame .professional {
-  align-self: stretch;
+.frame .text-wrapper {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 44.8px;
+  font-size: 55px;
   font-weight: 700;
   letter-spacing: 0;
   line-height: normal;
-  margin-top: -0.81px;
+  margin-right: -15px;
+  margin-top: -1px;
   position: relative;
+  width: 501px;
 }
 
 .frame .element-languages-that {
-  align-self: stretch;
   color: #383836;
   font-family: "Lato", Helvetica;
-  font-size: 17.1px;
+  font-size: 21px;
   font-weight: 700;
   letter-spacing: 0;
-  line-height: 34.2px;
+  line-height: 42px;
+  margin-right: -54px;
+  position: relative;
+  width: 540px;
+}
+
+.frame .group {
+  height: 55px;
+  min-width: 337px;
   position: relative;
 }
 
-.frame .bot-o {
-  align-items: center;
-  display: flex;
-  height: 44.81px;
-  justify-content: flex-end;
-  margin-right: -57.59px;
-  position: relative;
-  width: 289.25px;
-}
-
-.frame .rectangle {
+.frame .overlap-group {
   background-color: #c8982a;
-  height: 44.81px;
-  min-width: 272.95px;
+  height: 55px;
   position: relative;
+  width: 335px;
 }
 
 .frame .talk-to-an-expert {
   color: #ffffff;
   font-family: "Manrope", Helvetica;
-  font-size: 10.6px;
+  font-size: 13px;
   font-weight: 800;
-  height: 7.33px;
-  letter-spacing: 0.81px;
-  line-height: 10.6px;
-  margin-left: -191.48px;
-  position: relative;
+  height: 9px;
+  left: 63px;
+  letter-spacing: 1px;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
   white-space: nowrap;
-  width: 207.77px;
+  width: 209px;
 }
 
-.frame .whatsapp-image {
-  height: 373px;
-  min-width: 288.23px;
-  object-fit: cover;
+.frame .img {
+  height: 365px;
+  min-width: 305px;
   position: relative;
 }
