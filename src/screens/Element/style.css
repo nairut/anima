@@ -1,0 +1,54 @@
+.element {
+  background-color: #ffffff;
+  display: flex;
+}
+
+.element .iphone-pro-max {
+  position: relative;
+}
+
+.element .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.element .text-wrapper {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.element .element-languages-that {
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  position: relative;
+}
+
+.element .class {
+  height: 69px !important;
+  min-width: 256px !important;
+  width: unset !important;
+}
+
+.element .class-2 {
+  min-width: 335px !important;
+  width: unset !important;
+}
+
+.element .class-3 {
+  height: 11px !important;
+  left: 48px !important;
+  line-height: 25.5px !important;
+  top: 28px !important;
+  width: 160px !important;
+}
+
+.element .img {
+  object-fit: cover;
+}
