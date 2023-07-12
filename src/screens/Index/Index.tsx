@@ -2,7 +2,7 @@ import React from "react";
 import { useWindowWidth } from "../../breakpoints";
 import "./style.css";
 
-export const Index = () => {
+export const Index = (): JSX.Element => {
   const screenWidth = useWindowWidth();
 
   return (
