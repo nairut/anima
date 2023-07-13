@@ -1,0 +1,106 @@
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #ffffff;
+  border: 0.99px none;
+  height: 1395px;
+  position: relative;
+  width: 1201px;
+}
+
+.index .group-2 {
+  height: 404px;
+  left: 64px;
+  position: absolute;
+  top: 161px;
+  width: 693px;
+}
+
+.index .text-wrapper {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 59.8px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 2.39px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 599px;
+}
+
+.index .element-languages-that {
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 21.5px;
+  font-weight: 700;
+  height: 130px;
+  left: 0;
+  letter-spacing: 0.65px;
+  line-height: 43.1px;
+  position: absolute;
+  top: 181px;
+  width: 689px;
+}
+
+.index .group-instance {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 348px !important;
+  width: 366px !important;
+}
+
+.index .group-2-instance {
+  font-size: 20.5px !important;
+  left: 69px !important;
+  letter-spacing: 1.03px !important;
+  line-height: 13.3px !important;
+  width: 228px !important;
+}
+
+.index .lady-instance {
+  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1-5.png) !important;
+  height: 364px !important;
+  left: 857px !important;
+  position: absolute !important;
+  top: 201px !important;
+  width: 280px !important;
+}
+
+.index .magma-translation-png {
+  background-image: url(../../../static/img/magma-translation-png-5.png) !important;
+  height: 62px !important;
+  left: 64px !important;
+  position: absolute !important;
+  top: 54px !important;
+  width: 224px !important;
+}
+
+.index .p {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 37.7px;
+  font-weight: 700;
+  left: 248px;
+  letter-spacing: 1.51px;
+  line-height: normal;
+  position: absolute;
+  top: 674px;
+  width: 706px;
+}
+
+.index .img {
+  height: 186px;
+  left: 102px;
+  position: absolute;
+  top: 789px;
+  width: 997px;
+}

@@ -6,103 +6,91 @@
   width: 100%;
 }
 
-.desktop .div {
+.desktop .frame-wrapper {
   background-color: #ffffff;
-  border: 0.99px none;
-  height: 1395px;
+  border: 1px none;
+  height: 1024px;
+  width: 1440px;
+}
+
+.desktop .frame {
+  align-items: center;
+  display: flex;
+  gap: 29px;
+  left: 64px;
   position: relative;
-  width: 1201px;
+  top: 125px;
+  width: 1312px;
 }
 
-.desktop .group-2 {
-  height: 358px;
-  left: 62px;
-  position: absolute;
-  top: 161px;
-  width: 616px;
+.desktop .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 37px;
+  position: relative;
 }
 
-.desktop .text-wrapper {
+.desktop .h-1 {
+  align-self: stretch;
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 53.1px;
+  font-size: 59.8px;
   font-weight: 700;
-  left: 0;
-  letter-spacing: 2.12px;
+  letter-spacing: 2.39px;
   line-height: normal;
-  position: absolute;
-  top: 0;
-  width: 532px;
+  margin-top: -1.03px;
+  position: relative;
 }
 
-.desktop .element-languages-that {
+.desktop .element-languages-that-2 {
+  align-self: stretch;
   color: #383836;
   font-family: "Lato", Helvetica;
-  font-size: 19.1px;
+  font-size: 21.5px;
   font-weight: 700;
-  height: 115px;
-  left: 8px;
-  letter-spacing: 0.57px;
-  line-height: 38.2px;
-  position: absolute;
-  top: 161px;
-  width: 604px;
+  letter-spacing: 0.65px;
+  line-height: 43.1px;
+  position: relative;
 }
 
-.desktop .group-instance {
-  border-radius: 25px !important;
-  height: 50px !important;
-  left: 6px !important;
-  position: absolute !important;
-  top: 309px !important;
-  width: 326px !important;
+.desktop .design-component-instance-node {
+  align-self: stretch !important;
+  border-radius: 28.16px !important;
+  height: 1px !important;
+  left: unset !important;
+  margin-bottom: -1px !important;
+  min-width: 641.5px !important;
+  top: unset !important;
+  width: unset !important;
 }
 
-.desktop .group-2-instance {
-  font-size: 18.2px !important;
-  height: 8px !important;
-  left: 61px !important;
-  letter-spacing: 0.91px !important;
-  line-height: 11.8px !important;
-  top: 20px !important;
-  width: 203px !important;
+.desktop .group-3 {
+  font-size: 20.5px !important;
+  height: 1px !important;
+  left: 121px !important;
+  letter-spacing: 1.03px !important;
+  line-height: 13.3px !important;
+  top: -1px !important;
+  width: 400px !important;
 }
 
-.desktop .lady-instance {
-  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1.png) !important;
-  height: 323px !important;
-  left: 796px !important;
-  position: absolute !important;
-  top: 196px !important;
-  width: 250px !important;
+.desktop .lady-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 10px;
+  position: relative;
 }
 
-.desktop .magma-translation-png {
-  background-image: url(../../../static/img/magma-translation-png.png) !important;
-  height: 61px !important;
-  left: 62px !important;
-  position: absolute !important;
-  top: 61px !important;
-  width: 219px !important;
-}
-
-.desktop .p {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 37.7px;
-  font-weight: 700;
-  left: 247px;
-  letter-spacing: 1.51px;
-  line-height: normal;
-  position: absolute;
-  top: 674px;
-  white-space: nowrap;
-}
-
-.desktop .img {
-  height: 159px;
-  left: 106px;
-  position: absolute;
-  top: 810px;
-  width: 989px;
+.desktop .lady-2 {
+  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1-4.png) !important;
+  height: 564px !important;
+  left: unset !important;
+  min-width: 434px !important;
+  top: unset !important;
+  width: unset !important;
 }

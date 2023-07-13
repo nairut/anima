@@ -1,0 +1,108 @@
+.desktop-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop-screen .desktop-2 {
+  background-color: #ffffff;
+  border: 0.99px none;
+  height: 1395px;
+  position: relative;
+  width: 1201px;
+}
+
+.desktop-screen .group-4 {
+  height: 358px;
+  left: 62px;
+  position: absolute;
+  top: 161px;
+  width: 616px;
+}
+
+.desktop-screen .text-wrapper-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 53.1px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 2.12px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 532px;
+}
+
+.desktop-screen .element-languages-that-3 {
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 19.1px;
+  font-weight: 700;
+  height: 115px;
+  left: 8px;
+  letter-spacing: 0.57px;
+  line-height: 38.2px;
+  position: absolute;
+  top: 161px;
+  width: 604px;
+}
+
+.desktop-screen .group-5 {
+  border-radius: 25px !important;
+  height: 50px !important;
+  left: 6px !important;
+  position: absolute !important;
+  top: 309px !important;
+  width: 326px !important;
+}
+
+.desktop-screen .group-6 {
+  font-size: 18.2px !important;
+  height: 8px !important;
+  left: 61px !important;
+  letter-spacing: 0.91px !important;
+  line-height: 11.8px !important;
+  top: 20px !important;
+  width: 203px !important;
+}
+
+.desktop-screen .lady-3 {
+  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1.png) !important;
+  height: 323px !important;
+  left: 796px !important;
+  position: absolute !important;
+  top: 196px !important;
+  width: 250px !important;
+}
+
+.desktop-screen .magma-translation-instance {
+  background-image: url(../../../static/img/magma-translation-png.png) !important;
+  height: 61px !important;
+  left: 62px !important;
+  position: absolute !important;
+  top: 61px !important;
+  width: 219px !important;
+}
+
+.desktop-screen .text-wrapper-3 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 37.7px;
+  font-weight: 700;
+  left: 247px;
+  letter-spacing: 1.51px;
+  line-height: normal;
+  position: absolute;
+  top: 674px;
+  white-space: nowrap;
+}
+
+.desktop-screen .group-7 {
+  height: 159px;
+  left: 106px;
+  position: absolute;
+  top: 810px;
+  width: 989px;
+}
