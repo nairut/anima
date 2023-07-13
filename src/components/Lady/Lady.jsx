@@ -6,10 +6,6 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 import React from "react";
 import "./style.css";
 
-interface Props {
-  className: any;
-}
-
-export const MagmaTranslation = ({ className }: Props): JSX.Element => {
-  return <div className={`magma-translation ${className}`} />;
+export const Lady = ({ className }) => {
+  return <div className={`lady ${className}`} />;
 };
