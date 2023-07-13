@@ -73,7 +73,7 @@ export const IphoneProMax = (): JSX.Element => {
               </p>
               <Group className="group-2-instance" />
             </div>
-            <img className="img" alt="Group" src="/img/group-1-2.png" />
+            <img className="img" alt="Group" src="/img/group-1-1.webp" />
           </>
         )}
       </div>
