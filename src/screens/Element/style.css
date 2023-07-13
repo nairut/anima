@@ -22,6 +22,20 @@
   position: relative;
 }
 
+
+/* fonts.css */
+
+@font-face {
+  font-family: 'MinhaFontePersonalizada';
+  src: url('caminho-da-fonte.woff2') format('woff2');
+  font-display: swap;
+}
+
+
+
+
+
+
 .element .element-languages-that {
   color: #383836;
   font-family: "Lato", Helvetica;
