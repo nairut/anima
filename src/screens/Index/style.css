@@ -8,79 +8,48 @@
 
 .index .div {
   background-color: #ffffff;
+  border: 0.99px none;
+  height: 1957px;
   position: relative;
+  width: 1201px;
 }
 
 .index .group-2 {
+  height: 404px;
+  left: 64px;
   position: absolute;
+  top: 187px;
+  width: 693px;
 }
 
-.index .text-wrapper {
+.index .h-1 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 59.8px;
   font-weight: 700;
   left: 0;
+  letter-spacing: 2.39px;
   line-height: normal;
   position: absolute;
   top: 0;
+  width: 599px;
 }
 
 .index .element-languages-that {
   color: #383836;
   font-family: "Lato", Helvetica;
+  font-size: 21.5px;
   font-weight: 700;
+  height: 130px;
   left: 0;
+  letter-spacing: 0.65px;
+  line-height: 43.1px;
   position: absolute;
+  top: 181px;
+  width: 689px;
 }
 
-.index .class {
-  font-size: 17.9px !important;
-  height: 8px !important;
-  left: 60px !important;
-  letter-spacing: 0.9px !important;
-  line-height: 11.7px !important;
-  top: 20px !important;
-  width: 200px !important;
-}
-
-.index .class-2 {
-  font-size: 20.5px !important;
-  left: 69px !important;
-  letter-spacing: 1.03px !important;
-  line-height: 13.3px !important;
-  width: 228px !important;
-}
-
-.index .class-3 {
-  font-size: 22px !important;
-  height: 10px !important;
-  left: 74px !important;
-  letter-spacing: 1.1px !important;
-  line-height: 14.3px !important;
-  top: 24px !important;
-  width: 245px !important;
-}
-
-.index .class-4 {
-  font-size: 24.3px !important;
-  height: 11px !important;
-  left: 82px !important;
-  letter-spacing: 1.22px !important;
-  line-height: 15.8px !important;
-  top: 27px !important;
-  width: 271px !important;
-}
-
-.index .class-5 {
-  border-radius: 24.62px !important;
-  height: 49px !important;
-  left: 0 !important;
-  position: absolute !important;
-  top: 304px !important;
-  width: 320px !important;
-}
-
-.index .class-6 {
+.index .group-instance {
   border-radius: 28.16px !important;
   height: 56px !important;
   left: 0 !important;
@@ -89,34 +58,15 @@
   width: 366px !important;
 }
 
-.index .class-7 {
-  border-radius: 30.15px !important;
-  height: 60px !important;
-  left: 0 !important;
-  position: absolute !important;
-  top: 373px !important;
-  width: 392px !important;
+.index .group-2-instance {
+  font-size: 20.5px !important;
+  left: 69px !important;
+  letter-spacing: 1.03px !important;
+  line-height: 13.3px !important;
+  width: 228px !important;
 }
 
-.index .class-8 {
-  border-radius: 33.36px !important;
-  height: 66px !important;
-  left: 0 !important;
-  position: absolute !important;
-  top: 412px !important;
-  width: 434px !important;
-}
-
-.index .class-9 {
-  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1-3.png) !important;
-  height: 318px !important;
-  left: 749px !important;
-  position: absolute !important;
-  top: 198px !important;
-  width: 245px !important;
-}
-
-.index .class-10 {
+.index .lady-instance {
   background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1.png) !important;
   height: 364px !important;
   left: 857px !important;
@@ -125,34 +75,7 @@
   width: 280px !important;
 }
 
-.index .class-11 {
-  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1-4.png) !important;
-  height: 390px !important;
-  left: 918px !important;
-  position: absolute !important;
-  top: 243px !important;
-  width: 300px !important;
-}
-
-.index .class-12 {
-  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1-2.png) !important;
-  height: 431px !important;
-  left: 1015px !important;
-  position: absolute !important;
-  top: 269px !important;
-  width: 332px !important;
-}
-
-.index .class-13 {
-  background-image: url(../../../static/img/magma-translation-png-3.png) !important;
-  height: 55px !important;
-  left: 56px !important;
-  position: absolute !important;
-  top: 47px !important;
-  width: 196px !important;
-}
-
-.index .class-14 {
+.index .magma-translation-png {
   background-image: url(../../../static/img/magma-translation-png.png) !important;
   height: 62px !important;
   left: 64px !important;
@@ -161,244 +84,318 @@
   width: 224px !important;
 }
 
-.index .class-15 {
-  background-image: url(../../../static/img/magma-translation-png-4.png) !important;
-  height: 67px !important;
-  left: 69px !important;
-  position: absolute !important;
-  top: 58px !important;
-  width: 240px !important;
-}
-
-.index .class-16 {
-  background-image: url(../../../static/img/magma-translation-png-2.png) !important;
-  height: 74px !important;
-  left: 76px !important;
-  position: absolute !important;
-  top: 64px !important;
-  width: 266px !important;
-}
-
 .index .p {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 37.7px;
   font-weight: 700;
+  left: 248px;
+  letter-spacing: 1.51px;
   line-height: normal;
   position: absolute;
+  top: 736px;
+  width: 706px;
 }
 
 .index .text-wrapper-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 37px;
   font-weight: 700;
+  left: 188px;
+  letter-spacing: 1.48px;
   line-height: normal;
   position: absolute;
+  top: 1215px;
+  width: 853px;
 }
 
 .index .img {
+  height: 186px;
+  left: 102px;
   position: absolute;
+  top: 851px;
+  width: 997px;
 }
 
 .index .overlap {
+  background-image: url(../../../static/img/rectangle-19.svg);
   background-size: 100% 100%;
+  height: 139px;
+  left: 64px;
   position: absolute;
+  top: 1362px;
+  width: 152px;
 }
 
 .index .text-wrapper-3 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 700;
+  left: 51px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
+  top: 99px;
+  white-space: nowrap;
 }
 
 .index .law {
+  height: 38px;
+  left: 57px;
   position: absolute;
+  top: 31px;
+  width: 38px;
 }
 
 .index .overlap-group {
+  background-image: url(../../../static/img/rectangle-19.svg);
   background-size: 100% 100%;
+  height: 139px;
+  left: 64px;
   position: absolute;
+  top: 1569px;
+  width: 152px;
 }
 
 .index .media-films {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 700;
+  left: 8px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
+  top: 95px;
+  white-space: nowrap;
 }
 
 .index .next {
+  height: 38px;
+  left: 57px;
   position: absolute;
+  top: 28px;
+  width: 38px;
 }
 
 .index .overlap-2 {
+  border: 1px solid;
   border-color: #c8982a;
+  height: 139px;
+  left: 248px;
   position: absolute;
+  top: 1362px;
+  width: 152px;
 }
 
 .index .text-wrapper-4 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 700;
+  left: 37px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
+  top: 98px;
+  white-space: nowrap;
 }
 
-.index .medical-bag {
+.index .img-2 {
+  height: 38px;
+  left: 56px;
   position: absolute;
+  top: 27px;
+  width: 38px;
 }
 
 .index .overlap-3 {
+  border: 1px solid;
   border-color: #c8982a;
+  height: 139px;
+  left: 248px;
   position: absolute;
+  top: 1569px;
+  width: 152px;
 }
 
 .index .text-wrapper-5 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 700;
+  left: 24px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-}
-
-.index .MBA {
-  position: absolute;
+  top: 98px;
+  white-space: nowrap;
 }
 
 .index .overlap-4 {
+  border: 1px solid;
   border-color: #c8982a;
+  height: 139px;
+  left: 432px;
   position: absolute;
+  top: 1362px;
+  width: 152px;
 }
 
 .index .text-wrapper-6 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 700;
+  left: 4px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
+  top: 98px;
+  white-space: nowrap;
 }
 
-.index .manufacturing {
-  position: absolute;
-}
-
-.index .overlap-5 {
+.index .overlap-group-2 {
+  border: 1px solid;
   border-color: #c8982a;
+  height: 139px;
+  left: 432px;
   position: absolute;
+  top: 1569px;
+  width: 152px;
 }
 
 .index .text-wrapper-7 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 700;
+  left: 19px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
+  top: 98px;
+  white-space: nowrap;
 }
 
-.index .tesla-model-x {
-  position: absolute;
-}
-
-.index .overlap-6 {
+.index .overlap-5 {
+  border: 1px solid;
   border-color: #c8982a;
+  height: 139px;
+  left: 616px;
   position: absolute;
+  top: 1362px;
+  width: 152px;
 }
 
 .index .text-wrapper-8 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 700;
+  left: 32px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
+  top: 98px;
+  white-space: nowrap;
 }
 
 .index .money-bag-pounds {
+  height: 38px;
+  left: 49px;
   position: absolute;
+  top: 27px;
+  width: 38px;
 }
 
-.index .overlap-7 {
+.index .overlap-6 {
+  border: 1px solid;
   border-color: #c8982a;
+  height: 139px;
+  left: 616px;
   position: absolute;
+  top: 1569px;
+  width: 152px;
 }
 
 .index .text-wrapper-9 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 700;
+  left: 26px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
+  top: 102px;
+  white-space: nowrap;
 }
 
-.index .commercial {
+.index .overlap-7 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  left: 800px;
   position: absolute;
+  top: 1362px;
+  width: 152px;
 }
 
 .index .overlap-8 {
+  border: 1px solid;
   border-color: #c8982a;
+  height: 139px;
+  left: 800px;
   position: absolute;
-}
-
-.index .IT-software {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-weight: 700;
-  line-height: normal;
-  position: absolute;
-}
-
-.index .programming-flag {
-  position: absolute;
-}
-
-.index .overlap-9 {
-  border-color: #c8982a;
-  position: absolute;
+  top: 1569px;
+  width: 152px;
 }
 
 .index .text-wrapper-10 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 700;
+  left: 12px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
+  top: 98px;
+  white-space: nowrap;
 }
 
-.index .biotech {
+.index .overlap-9 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  left: 984px;
   position: absolute;
+  top: 1362px;
+  width: 152px;
 }
 
 .index .overlap-10 {
+  border: 1px solid;
   border-color: #c8982a;
+  height: 139px;
+  left: 984px;
   position: absolute;
+  top: 1569px;
+  width: 152px;
 }
 
 .index .text-wrapper-11 {
   color: #000000;
   font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 700;
+  left: 16px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-}
-
-.index .plane {
-  position: absolute;
-}
-
-.index .overlap-group-2 {
-  border-color: #c8982a;
-  position: absolute;
-}
-
-.index .text-wrapper-12 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-weight: 700;
-  line-height: normal;
-  position: absolute;
-}
-
-.index .buy {
-  position: absolute;
+  top: 98px;
+  white-space: nowrap;
 }
