@@ -6,7 +6,12 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 import React from "react";
 import "./style.css";
 
-export const Group = ({ className, talkToAnExpertClassName }) => {
+interface Props {
+  className: any;
+  talkToAnExpertClassName: any;
+}
+
+export const Group = ({ className, talkToAnExpertClassName }: Props): JSX.Element => {
   return (
     <div className={`group ${className}`}>
       <div className={`talk-to-an-expert ${talkToAnExpertClassName}`}>TALK TO AN EXPERT</div>
