@@ -1,9 +1,3 @@
-@font-face {
-  font-family: 'MinhaFontePersonalizada';
-  src: url('/static/caminho-da-fonte.woff2') format('woff2');
-  font-display: fallback;
-}
-
 .element {
   background-color: #ffffff;
   display: flex;
