@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOMClient from "react-dom/client";
-import { IphoneProMax } from "./screens/IphoneProMax";
+import { Desktop } from "./screens/Desktop";
 
 const app = document.getElementById("app");
 const root = ReactDOMClient.createRoot(app);
-root.render(<IphoneProMax />);
+root.render(<Desktop />);
