@@ -21,7 +21,26 @@ export const Index = () => {
         <Lady className="lady-instance" />
         <MagmaTranslation className="magma-translation-png" />
         <p className="p">Trusted by Elite Businesses Worldwide</p>
-        <img className="img" alt="Group" src="/img/group-6-4.png" />
+        <p className="text-wrapper-2">Costumized to Fit your Specific Industry Needs</p>
+        <img className="img" alt="Group" src="/img/group-6.png" />
+        <div className="overlap-group">
+          <div className="text-wrapper-3">Legal</div>
+          <img className="law" alt="Law" src="/img/law.png" />
+        </div>
+        <div className="overlap">
+          <div className="text-wrapper-4">Medical</div>
+          <img className="img-2" alt="Medical bag" src="/img/medical-bag.png" />
+        </div>
+        <div className="overlap-2">
+          <div className="text-wrapper-5">Manufacturing</div>
+          <img className="img-2" alt="Manufacturing" src="/img/manufacturing.png" />
+        </div>
+        <div className="rectangle" />
+        <div className="rectangle-2" />
+        <div className="rectangle-3" />
+        <div className="rectangle-4" />
+        <div className="rectangle-5" />
+        <div className="rectangle-6" />
       </div>
     </div>
   );

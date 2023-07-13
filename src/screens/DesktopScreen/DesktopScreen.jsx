@@ -9,7 +9,7 @@ export const DesktopScreen = () => {
     <div className="desktop-screen">
       <div className="desktop-2">
         <div className="group-4">
-          <h1 className="text-wrapper-2">Professional Translation Services</h1>
+          <h1 className="text-wrapper-6">Professional Translation Services</h1>
           <p className="element-languages-that-3">
             120 languages that fits in your budget
             <br />
@@ -20,8 +20,8 @@ export const DesktopScreen = () => {
         </div>
         <Lady className="lady-3" />
         <MagmaTranslation className="magma-translation-instance" />
-        <p className="text-wrapper-3">Trusted by Elite Businesses Worldwide</p>
-        <img className="group-7" alt="Group" src="/img/group-6.png" />
+        <p className="text-wrapper-7">Trusted by Elite Businesses Worldwide</p>
+        <img className="group-7" alt="Group" src="/img/image.png" />
       </div>
     </div>
   );

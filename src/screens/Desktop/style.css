@@ -59,10 +59,8 @@
   align-self: stretch !important;
   border-radius: 28.16px !important;
   height: 1px !important;
-  left: unset !important;
   margin-bottom: -1px !important;
   min-width: 641.5px !important;
-  top: unset !important;
   width: unset !important;
 }
 
@@ -89,8 +87,7 @@
 .desktop .lady-2 {
   background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1-4.png) !important;
   height: 564px !important;
-  left: unset !important;
   min-width: 434px !important;
-  top: unset !important;
+  position: relative !important;
   width: unset !important;
 }
