@@ -4,7 +4,6 @@ import { Group } from "../../components/Group";
 import "./style.css";
 
 
-export { Element } from "./Element";
 import React from "react";
 import TagManager from 'react-gtm-module'
 
@@ -13,9 +12,6 @@ const tagManagerArgs = {
 }
 
 TagManager.initialize(tagManagerArgs)
-
-
-
 
 
 export const IphoneProMax = (): JSX.Element => {
