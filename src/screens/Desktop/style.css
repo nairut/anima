@@ -14,73 +14,76 @@
   width: 1201px;
 }
 
+.desktop .group-2 {
+  height: 358px;
+  left: 62px;
+  position: absolute;
+  top: 161px;
+  width: 616px;
+}
+
 .desktop .text-wrapper {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 54.5px;
+  font-size: 53.1px;
   font-weight: 700;
-  left: 131px;
-  letter-spacing: 2.18px;
+  left: 0;
+  letter-spacing: 2.12px;
   line-height: normal;
   position: absolute;
-  top: 213px;
+  top: 0;
   width: 532px;
 }
 
 .desktop .element-languages-that {
   color: #383836;
   font-family: "Lato", Helvetica;
-  font-size: 20.8px;
+  font-size: 19.1px;
   font-weight: 700;
-  height: 125px;
-  left: 131px;
-  letter-spacing: 0;
-  line-height: 41.6px;
+  height: 115px;
+  left: 8px;
+  letter-spacing: 0.57px;
+  line-height: 38.2px;
   position: absolute;
-  top: 370px;
-  width: 573px;
-}
-
-.desktop .group-2 {
-  height: 54px !important;
-  left: 131px !important;
-  position: absolute !important;
-  top: 523px !important;
-  width: 355px !important;
+  top: 161px;
+  width: 604px;
 }
 
 .desktop .group-instance {
-  font-size: 19.8px !important;
-  left: 67px !important;
-  letter-spacing: 0.99px !important;
-  line-height: 12.9px !important;
-  width: 221px !important;
+  border-radius: 25px !important;
+  height: 50px !important;
+  left: 6px !important;
+  position: absolute !important;
+  top: 309px !important;
+  width: 326px !important;
+}
+
+.desktop .group-2-instance {
+  font-size: 18.2px !important;
+  height: 8px !important;
+  left: 61px !important;
+  letter-spacing: 0.91px !important;
+  line-height: 11.8px !important;
+  top: 20px !important;
+  width: 203px !important;
 }
 
 .desktop .lady-instance {
   background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1.png) !important;
-  height: 365px !important;
-  left: 790px !important;
+  height: 323px !important;
+  left: 796px !important;
   position: absolute !important;
-  top: 213px !important;
-  width: 282px !important;
+  top: 196px !important;
+  width: 250px !important;
 }
 
 .desktop .magma-translation-png {
   background-image: url(../../../static/img/magma-translation-png.png) !important;
   height: 61px !important;
-  left: 131px !important;
+  left: 62px !important;
   position: absolute !important;
-  top: 50px !important;
+  top: 61px !important;
   width: 219px !important;
-}
-
-.desktop .img {
-  height: 171px;
-  left: 157px;
-  position: absolute;
-  top: 791px;
-  width: 889px;
 }
 
 .desktop .p {
@@ -94,4 +97,12 @@
   position: absolute;
   top: 674px;
   white-space: nowrap;
+}
+
+.desktop .img {
+  height: 159px;
+  left: 106px;
+  position: absolute;
+  top: 810px;
+  width: 989px;
 }
