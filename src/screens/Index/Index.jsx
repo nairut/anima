@@ -1,6 +1,5 @@
 import React from "react";
 import { Group } from "../../components/Group";
-import { Lady } from "../../components/Lady";
 import { MagmaTranslation } from "../../components/MagmaTranslation";
 import "./style.css";
 
@@ -18,7 +17,9 @@ export const Index = () => {
           </p>
           <Group className="group-instance" talkToAnExpertClassName="group-2-instance" />
         </div>
-        <Lady className="lady-instance" />
+        <div className="lady">
+          <img className="whatsapp-image" alt="Whatsapp image" src="/img/whatsapp-image-2023-07-12-at-12-41-1.png" />
+        </div>
         <MagmaTranslation className="magma-translation-png" />
         <p className="p">Trusted by Elite Businesses Worldwide</p>
         <p className="text-wrapper-2">Costumized to Fit your Specific Industry Needs</p>
