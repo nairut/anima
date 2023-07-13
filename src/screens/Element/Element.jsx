@@ -86,7 +86,7 @@ export const Element = () => {
             width: screenWidth < 1200 ? "153px" : undefined,
           }}
           alt="Group"
-          src={screenWidth < 1200 ? "/img/group-1-1.png" : screenWidth >= 1200 ? "/img/group-1-2.png" : undefined}
+          src={screenWidth < 1200 ? "/img/Vector.webp" : screenWidth >= 1200 ? "/img/Vector.webp" : undefined}
         />
       </div>
     </div>
