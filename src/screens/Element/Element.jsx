@@ -3,19 +3,6 @@ import { useWindowWidth } from "../../breakpoints";
 import { Group } from "../../components/Group";
 import "./style.css";
 
-
-import React, { lazy } from 'react';
-
-const AvatarComponent = lazy(() => import('./AvatarComponent'));
-
-const DetailsComponent = () => (
-  <div>
-    <AvatarComponent />
-  </div>
-)
-
-
-
 export const Element = () => {
   const screenWidth = useWindowWidth();
 
