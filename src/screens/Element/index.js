@@ -1,4 +1,5 @@
 export { Element } from "./Element";
+import React from "react";
 import TagManager from 'react-gtm-module'
 
 const tagManagerArgs = {
@@ -6,3 +7,11 @@ const tagManagerArgs = {
 }
 
 TagManager.initialize(tagManagerArgs)
+
+
+ReactDOM.render(
+    <React.StrictMode>
+        <App />
+    </React.StrictMode>
+    document.getElementById('root')
+)
