@@ -12,16 +12,6 @@ const tagManagerArgs = {
 TagManager.initialize(tagManagerArgs)
 
 
-ReactDOM.render(
-    <React.StrictMode>
-        <App />
-    </React.StrictMode>
-    document.getElementById('root')
-)
-
-
-
-
 export const Element = () => {
   const screenWidth = useWindowWidth();
 
