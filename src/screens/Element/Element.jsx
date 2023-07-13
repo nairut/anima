@@ -12,6 +12,26 @@ const tagManagerArgs = {
 TagManager.initialize(tagManagerArgs)
 
 
+
+
+const LCPComponent = () => {
+  return (
+    <div>
+      {/* Seu conteúdo LCP */}
+      <img src="/img/Vector.webp" alt="Imagem LCP" />
+    </div>
+  );
+};
+
+export default LCPComponent;
+
+
+
+
+
+
+
+
 export const Element = () => {
   const screenWidth = useWindowWidth();
 
