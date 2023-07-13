@@ -1,0 +1,23 @@
+.frame-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame-screen .div-wrapper {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 281px;
+  width: 490px;
+}
+
+.frame-screen .div {
+  background-color: #d9d9d9;
+  height: 39px;
+  left: 33px;
+  position: relative;
+  top: 52px;
+  width: 180px;
+}

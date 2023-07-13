@@ -1,25 +1,20 @@
 import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { Index } from "./screens/Index";
-import { ThankYou } from "./screens/ThankYou";
-import { Desktop } from "./screens/Desktop";
+import { FrameScreen } from "./screens/FrameScreen";
+import { Frame } from "./screens/Frame";
 
 const router = createBrowserRouter([
   {
     path: "/*",
-    element: <Index />,
+    element: <FrameScreen />,
   },
   {
-    path: "/index",
-    element: <Index />,
+    path: "/frame-1",
+    element: <FrameScreen />,
   },
   {
-    path: "/thank-you",
-    element: <ThankYou />,
-  },
-  {
-    path: "/desktop-1",
-    element: <Desktop />,
+    path: "/frame-2",
+    element: <Frame />,
   },
 ]);
 
