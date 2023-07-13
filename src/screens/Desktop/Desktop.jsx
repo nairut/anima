@@ -9,7 +9,7 @@ export const Desktop = () => {
         <div className="name-wrapper">
           <input className="name" />
         </div>
-        <Group className="design-component-instance-node" talkToAnExpertClassName="group-3" />
+        <Group className="group-instance" talkToAnExpertClassName="group-2-instance" />
       </div>
     </div>
   );

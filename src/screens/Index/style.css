@@ -49,21 +49,45 @@
   width: 689px;
 }
 
-.index .group-instance {
-  border-radius: 28.16px !important;
-  height: 56px !important;
-  left: 0 !important;
-  position: absolute !important;
-  top: 348px !important;
-  width: 366px !important;
+.index .overlap-group-wrapper {
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 348px;
+  transition: all 0.2s ease;
+  width: 366px;
 }
 
-.index .group-2-instance {
-  font-size: 20.5px !important;
-  left: 69px !important;
-  letter-spacing: 1.03px !important;
-  line-height: 13.3px !important;
-  width: 228px !important;
+.index .overlap-group {
+  border-radius: 28.16px;
+  height: 56px;
+  position: relative;
+}
+
+.index .rectangle {
+  background-color: #0536a8;
+  border-radius: 28.16px;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 366px;
+}
+
+.index .talk-to-an-expert-2 {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 20.5px;
+  font-weight: 300;
+  height: 9px;
+  left: 69px;
+  letter-spacing: 1.03px;
+  line-height: 13.3px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 228px;
 }
 
 .index .lady {
@@ -92,7 +116,7 @@
   width: 224px !important;
 }
 
-.index .p {
+.index .TESTE-trusted-by {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 37.7px;
@@ -105,7 +129,7 @@
   width: 706px;
 }
 
-.index .text-wrapper-2 {
+.index .p {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 37px;
@@ -136,7 +160,7 @@
   width: 152px;
 }
 
-.index .text-wrapper-3 {
+.index .text-wrapper-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -157,7 +181,7 @@
   width: 38px;
 }
 
-.index .overlap-group {
+.index .overlap-2 {
   background-image: url(../../../static/img/rectangle-19.svg);
   background-size: 100% 100%;
   height: 139px;
@@ -188,7 +212,7 @@
   width: 38px;
 }
 
-.index .overlap-2 {
+.index .overlap-3 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -198,7 +222,7 @@
   width: 152px;
 }
 
-.index .text-wrapper-4 {
+.index .text-wrapper-3 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -219,7 +243,7 @@
   width: 38px;
 }
 
-.index .overlap-3 {
+.index .overlap-4 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -229,7 +253,7 @@
   width: 152px;
 }
 
-.index .text-wrapper-5 {
+.index .text-wrapper-4 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -242,7 +266,7 @@
   white-space: nowrap;
 }
 
-.index .overlap-4 {
+.index .overlap-5 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -252,7 +276,7 @@
   width: 152px;
 }
 
-.index .text-wrapper-6 {
+.index .text-wrapper-5 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -265,7 +289,7 @@
   white-space: nowrap;
 }
 
-.index .overlap-group-2 {
+.index .overlap-6 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -275,7 +299,7 @@
   width: 152px;
 }
 
-.index .text-wrapper-7 {
+.index .text-wrapper-6 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -288,7 +312,7 @@
   white-space: nowrap;
 }
 
-.index .overlap-5 {
+.index .overlap-7 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -298,7 +322,7 @@
   width: 152px;
 }
 
-.index .text-wrapper-8 {
+.index .text-wrapper-7 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -319,7 +343,7 @@
   width: 38px;
 }
 
-.index .overlap-6 {
+.index .overlap-8 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -329,7 +353,7 @@
   width: 152px;
 }
 
-.index .text-wrapper-9 {
+.index .text-wrapper-8 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -342,7 +366,7 @@
   white-space: nowrap;
 }
 
-.index .overlap-7 {
+.index .overlap-9 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -352,7 +376,7 @@
   width: 152px;
 }
 
-.index .overlap-8 {
+.index .overlap-10 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -362,7 +386,7 @@
   width: 152px;
 }
 
-.index .text-wrapper-10 {
+.index .text-wrapper-9 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -375,7 +399,7 @@
   white-space: nowrap;
 }
 
-.index .overlap-9 {
+.index .overlap-11 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -385,7 +409,7 @@
   width: 152px;
 }
 
-.index .overlap-10 {
+.index .overlap-12 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -395,7 +419,7 @@
   width: 152px;
 }
 
-.index .text-wrapper-11 {
+.index .text-wrapper-10 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
