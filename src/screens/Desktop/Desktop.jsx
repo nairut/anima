@@ -5,11 +5,11 @@ import "./style.css";
 export const Desktop = () => {
   return (
     <div className="desktop">
-      <div className="div-2">
-        <div className="name-wrapper">
+      <div className="div">
+        <div className="overlap-group">
           <input className="name" />
         </div>
-        <Group className="design-component-instance-node" talkToAnExpertClassName="group-3" />
+        <Group className="group-2" talkToAnExpertClassName="group-instance" />
       </div>
     </div>
   );

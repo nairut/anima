@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.index .div {
+.index .div-2 {
   background-color: #ffffff;
   border: 0.99px none;
   height: 1957px;
@@ -14,7 +14,7 @@
   width: 1201px;
 }
 
-.index .group-2 {
+.index .group-3 {
   height: 404px;
   left: 64px;
   position: absolute;
@@ -24,7 +24,7 @@
 
 .index .h-1 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 59.8px;
   font-weight: 700;
   left: 0;
@@ -37,7 +37,7 @@
 
 .index .element-languages-that {
   color: #383836;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 21.5px;
   font-weight: 700;
   height: 130px;
@@ -49,7 +49,7 @@
   width: 689px;
 }
 
-.index .group-instance {
+.index .group-2-instance {
   border-radius: 28.16px !important;
   height: 56px !important;
   left: 0 !important;
@@ -58,7 +58,7 @@
   width: 366px !important;
 }
 
-.index .group-2-instance {
+.index .design-component-instance-node {
   font-size: 20.5px !important;
   left: 69px !important;
   letter-spacing: 1.03px !important;
@@ -66,27 +66,30 @@
   width: 228px !important;
 }
 
-.index .lady-instance {
-  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1.png) !important;
-  height: 364px !important;
-  left: 857px !important;
-  position: absolute !important;
-  top: 227px !important;
-  width: 280px !important;
+.index .lady {
+  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 364px;
+  left: 857px;
+  position: absolute;
+  top: 227px;
+  width: 280px;
 }
 
-.index .magma-translation-png {
-  background-image: url(../../../static/img/magma-translation-png.png) !important;
-  height: 62px !important;
-  left: 64px !important;
-  position: absolute !important;
-  top: 54px !important;
-  width: 224px !important;
+.index .magma-translation {
+  background-image: url(../../../static/img/magma-translation-png.png);
+  background-size: 100% 100%;
+  height: 62px;
+  left: 64px;
+  position: absolute;
+  top: 54px;
+  width: 224px;
 }
 
 .index .p {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 37.7px;
   font-weight: 700;
   left: 248px;
@@ -99,7 +102,7 @@
 
 .index .text-wrapper-2 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 37px;
   font-weight: 700;
   left: 188px;
@@ -130,7 +133,7 @@
 
 .index .text-wrapper-3 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 20px;
   font-weight: 700;
   left: 51px;
@@ -149,7 +152,7 @@
   width: 38px;
 }
 
-.index .overlap-group {
+.index .overlap-2 {
   background-image: url(../../../static/img/rectangle-19.svg);
   background-size: 100% 100%;
   height: 139px;
@@ -161,7 +164,7 @@
 
 .index .media-films {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 20px;
   font-weight: 700;
   left: 8px;
@@ -180,7 +183,7 @@
   width: 38px;
 }
 
-.index .overlap-2 {
+.index .overlap-3 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -192,7 +195,7 @@
 
 .index .text-wrapper-4 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 20px;
   font-weight: 700;
   left: 37px;
@@ -211,7 +214,7 @@
   width: 38px;
 }
 
-.index .overlap-3 {
+.index .overlap-4 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -223,7 +226,7 @@
 
 .index .text-wrapper-5 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 20px;
   font-weight: 700;
   left: 24px;
@@ -234,7 +237,7 @@
   white-space: nowrap;
 }
 
-.index .overlap-4 {
+.index .overlap-5 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -246,7 +249,7 @@
 
 .index .text-wrapper-6 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 20px;
   font-weight: 700;
   left: 4px;
@@ -269,7 +272,7 @@
 
 .index .text-wrapper-7 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 20px;
   font-weight: 700;
   left: 19px;
@@ -280,7 +283,7 @@
   white-space: nowrap;
 }
 
-.index .overlap-5 {
+.index .overlap-6 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -292,7 +295,7 @@
 
 .index .text-wrapper-8 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 20px;
   font-weight: 700;
   left: 32px;
@@ -311,7 +314,7 @@
   width: 38px;
 }
 
-.index .overlap-6 {
+.index .overlap-7 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -323,7 +326,7 @@
 
 .index .text-wrapper-9 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 20px;
   font-weight: 700;
   left: 26px;
@@ -334,7 +337,7 @@
   white-space: nowrap;
 }
 
-.index .overlap-7 {
+.index .overlap-8 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -344,7 +347,7 @@
   width: 152px;
 }
 
-.index .overlap-8 {
+.index .overlap-9 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -356,7 +359,7 @@
 
 .index .text-wrapper-10 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 20px;
   font-weight: 700;
   left: 12px;
@@ -367,7 +370,7 @@
   white-space: nowrap;
 }
 
-.index .overlap-9 {
+.index .overlap-10 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -377,7 +380,7 @@
   width: 152px;
 }
 
-.index .overlap-10 {
+.index .overlap-11 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -389,7 +392,7 @@
 
 .index .text-wrapper-11 {
   color: #000000;
-  font-family: "Lato", Helvetica;
+  font-family: "Lato-Bold", Helvetica;
   font-size: 20px;
   font-weight: 700;
   left: 16px;
