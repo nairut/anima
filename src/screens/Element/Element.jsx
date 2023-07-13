@@ -3,6 +3,25 @@ import { useWindowWidth } from "../../breakpoints";
 import { Group } from "../../components/Group";
 import "./style.css";
 
+import TagManager from 'react-gtm-module'
+
+const tagManagerArgs = {
+    gtmId: 'GTM-K3GKPJ5'
+}
+
+TagManager.initialize(tagManagerArgs)
+
+
+ReactDOM.render(
+    <React.StrictMode>
+        <App />
+    </React.StrictMode>
+    document.getElementById('root')
+)
+
+
+
+
 export const Element = () => {
   const screenWidth = useWindowWidth();
 
