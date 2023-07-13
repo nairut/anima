@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.desktop .div {
+.desktop .div-2 {
   background-color: #ffffff;
   border: 1px none;
   height: 1024px;
@@ -14,7 +14,7 @@
   width: 1440px;
 }
 
-.desktop .overlap-group {
+.desktop .name-wrapper {
   background-color: #d9d9d9;
   height: 62px;
   left: 351px;
@@ -41,7 +41,7 @@
   width: 101px;
 }
 
-.desktop .group-2 {
+.desktop .design-component-instance-node {
   border-radius: 28.16px !important;
   height: 56px !important;
   left: 660px !important;
@@ -50,7 +50,7 @@
   width: 366px !important;
 }
 
-.desktop .group-instance {
+.desktop .group-3 {
   font-size: 20.5px !important;
   left: 69px !important;
   letter-spacing: 1.03px !important;
