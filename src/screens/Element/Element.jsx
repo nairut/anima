@@ -15,6 +15,11 @@ TagManager.initialize(tagManagerArgs)
 
 
 const LCPComponent = () => {
+  useEffect(() => {
+    const image = new Image();
+    image.src = '/img/Vector.webp';
+  }, []);
+
   return (
     <div>
       {/* Seu conteúdo LCP */}
@@ -24,6 +29,8 @@ const LCPComponent = () => {
 };
 
 export default LCPComponent;
+
+
 
 
 
