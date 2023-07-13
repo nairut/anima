@@ -25,13 +25,11 @@
 
 /* fonts.css */
 
-@font-face {
+.element {
   font-family: 'MinhaFontePersonalizada';
   src: url('caminho-da-fonte.woff2') format('woff2');
   font-display: swap;
 }
-
-
 
 
 
