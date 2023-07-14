@@ -44,9 +44,14 @@ export const Desktop = () => {
       </div>
 
 
-      <Group className="overlap-group rectangle" property1="default" onSubmit={handleSubmit}>
-      <button>TALK TO AN EXPERT</button>
+      <link rel="stylesheet" href="estilobom.css">
+      <Group className="overlap-group"  className="rectangle" property1="default" to="/thank-you">
+        <button>TALK TO AN EXPERTQUEM MANDA AQUI SOU </button>
       </Group>
+
+      <div class="group overlap-group rectangle" property1="default" to="/thank-you">
+  <button class="talk-to-an-expert">TALK TO AN EXPERT</button>
+</div>
 
 
     </form>
