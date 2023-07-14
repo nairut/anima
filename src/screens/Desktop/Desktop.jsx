@@ -1,23 +1,28 @@
-import React from "react";
-import { Group } from "../../components/Group";
-import "./style.css";
+import React, { useEffect, useState } from 'react';
 
-export const Desktop = () => {
+function HTMLComponent() {
+  const [htmlContent, setHtmlContent] = useState('');
+
+  useEffect(() => {
+    const fetchHtml = async () => {
+      try {
+        const response = await fetch('/file.html');
+        const html = await response.text();
+        setHtmlContent(html);
+      } catch (error) {
+        console.error('Error fetching HTML file:', error);
+      }
+    };
+
+    fetchHtml();
+  }, []);
+
   return (
-    <div className="desktop">
-      <div className="div">
-        <div className="overlap-group">
-          <div className="rectangle" />
-          <input className="name" />
-        </div>
-        <Group className="group-2" property1="default" to="/thank-you" />
-      </div>
+    <div>
+      <h2>My App</h2>
+      <div dangerouslySetInnerHTML={{ __html: htmlContent }} />
     </div>
   );
-};
+}
 
-<form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
-  {/* You still need to add the hidden input with the form name to your JSX form */}
-  <input type="hidden" name="form-name" value="contact" />
-  ...
-</form>
+export default HTMLComponent;
