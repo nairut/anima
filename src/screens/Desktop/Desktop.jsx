@@ -1,72 +1,57 @@
-import React from "react";
+import React, { useState } from "react";
 import { Group } from "../../components/Group";
-import { ObFormsBotaoDe } from "../../components/ObFormsBotaoDe";
-import { ObFormsTesteDe } from "../../components/ObFormsTesteDe";
-import { PropertyDefaultWrapper } from "../../components/PropertyDefaultWrapper";
 import "./style.css";
 
 export const Desktop = () => {
+  const [name, setName] = useState("");
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    try {
+      // Perform the form submission logic here
+      const response = await fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: encode({ "form-name": "my-form", name }),
+      });
+      if (response.ok) {
+        // Handle successful form submission
+        console.log("Form submitted successfully");
+        // Reset the input field after submission
+        setName("");
+      } else {
+        // Handle form submission error
+        console.error("Form submission failed");
+      }
+    } catch (error) {
+      // Handle form submission error
+      console.error("Form submission failed:", error);
+    }
+  };
+
+  const encode = (data) => {
+    return Object.keys(data)
+      .map((key) => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+      .join("&");
+  };
+
   return (
     <div className="desktop">
       <div className="div">
         <div className="overlap-group">
           <div className="rectangle" />
-          <input className="input" />
+          <form onSubmit={handleSubmit} netlify netlify-honeypot="bot-field">
+            <input type="hidden" name="form-name" value="my-form" />
+            <input
+              className="name"
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+            />
+            <button type="submit">Submit</button>
+          </form>
         </div>
-        <ObFormsTesteDe className="OB-forms-teste-de-form" property1="default" />
-        <PropertyDefaultWrapper className="OB-forms-teste-de-forma-dois" property1="default" />
-        <ObFormsBotaoDe className="OB-forms-botao-de-enviar-de-forma" property1="default" />
         <Group className="group-2" property1="default" to="/thank-you" />
       </div>
     </div>
   );
 };
-
-
-import React from "react"
-
-export default function Home() {
-  return <div>
-
-    <form 
-      name="contact v2"
-      method="post"
-      data-netlify="true"
-      onSubmit="submit"
-      data-netlify-honeypot="bot-field"
-    >
-      <input type="hidden" name="form-name" value="contact v2" />
-
-      <div hidden>
-        <input name="bot-field" />
-      </div>
-
-      <div>
-        <label>First name<br />
-            <input type="text" name="first-name" />
-        </label>
-      </div>
-
-      <div>
-        <label>Last name<br />
-            <input type="text" name="last-name" />
-        </label>
-      </div>
-
-      <div>
-        <label htmlFor="email" >Email</label><br />
-        <input id="email" type="email" name="email" />
-      </div>
-
-      <div>
-        <label>Any Comments?<br />
-          <textarea name="comments"></textarea>
-        </label>
-      </div>
-
-      <button type="submit">Submit The Results</button>
-
-    </form>
-
-  </div>
-}

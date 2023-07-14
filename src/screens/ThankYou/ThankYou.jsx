@@ -5,7 +5,7 @@ export const ThankYou = () => {
   return (
     <div className="thank-you">
       <div className="thank-you-wrapper">
-        <h1 className="h-1">THANK YOU</h1>
+        <h1 className="text-wrapper">THANK YOU</h1>
       </div>
     </div>
   );

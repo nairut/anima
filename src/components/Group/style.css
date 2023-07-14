@@ -20,11 +20,11 @@
   width: 209px;
 }
 
-.group.property-1-0-default {
+.group.default {
   background-color: #0536a8;
 }
 
-.group.property-1-0-variant-2 {
+.group.variant-2 {
   background-color: #c8982a;
   transition: all 0.2s ease;
 }

@@ -1,1 +1,0 @@
-export { ObFormsTesteDe } from "./ObFormsTesteDe";
