@@ -27,11 +27,9 @@ export const Desktop = () => {
           </div>
 
 
-          <Group className="overlap-group"  property1="default" to="/thank-you">
+          <Group className="group-2" property1="default" to="/thank-you">
           <button>TALK TO AN EXPERT</button>
         </Group>
-
-
 
 
         
