@@ -24,6 +24,7 @@ export const Desktop = () => {
           method="post"
           data-netlify="true"
           data-netlify-honeypot="bot-field"
+          name="Turian"
         >
           <div className="rectangle" />
           <input
