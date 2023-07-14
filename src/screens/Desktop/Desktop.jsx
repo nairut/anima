@@ -33,3 +33,24 @@ export const Desktop = () => {
     </div>
   );
 };
+
+
+<div class="desktop">
+  <div class="div">
+    <form name="myForm" action="/thank-you" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+      <div class="overlap-group">
+        <div class="rectangle"></div>
+        <input class="name" type="text" name="name" />
+      </div>
+
+
+      <Group className="overlap-group rectangle" property1="default" onSubmit={handleSubmit}>
+      <button>TALK TO AN EXPERT</button>
+      </Group>
+
+
+    </form>
+
+
+  </div>
+</div>
