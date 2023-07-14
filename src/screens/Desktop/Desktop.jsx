@@ -1,21 +1,32 @@
-import React from "react";
+import React, { useState } from "react";
 import { Group } from "../../components/Group";
 import "./style.css";
 
 export const Desktop = () => {
+  const [name, setName] = useState('');
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    // Perform form submission logic here
+    console.log('Form submitted');
+  };
+
   return (
     <div className="desktop">
       <div className="div">
-        <div className="overlap-group">
-          <div className="rectangle" />
-          <input className="name" />
-        </div>
-        <Group className="group-2" property1="default" to="/thank-you" />
-        <form name="teste" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
-  {/* You still need to add the hidden input with the form name to your JSX form */}
-  <input type="hidden" name="form-name" value="contact" />
-  ...
-</form>
+        <form onSubmit={handleSubmit} method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+          <div className="overlap-group">
+            <div className="rectangle" />
+            <input
+              className="name"
+              type="text"
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+            />
+          </div>
+          <Group className="group-2" property1="default" to="/thank-you" />
+          <button type="submit">Submit</button>
+        </form>
       </div>
     </div>
   );
