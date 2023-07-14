@@ -16,7 +16,7 @@ export const Group = ({ property1, className, to }) => {
 
   return (
     <Link
-      className={`group ${state.property1} ${className}`}
+      className={`group property-1-0-${state.property1} ${className}`}
       to={to}
       onMouseEnter={() => {
         dispatch("mouse_enter");

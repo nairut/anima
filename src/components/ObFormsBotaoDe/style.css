@@ -1,0 +1,31 @@
+.OB-forms-botao-de {
+  align-items: flex-start;
+  background-color: #5e5bff;
+  border: 1px solid;
+  border-color: #5e5bff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.OB-forms-botao-de .p {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.OB-forms-botao-de.property-1-0-disabled {
+  opacity: 0.65;
+}

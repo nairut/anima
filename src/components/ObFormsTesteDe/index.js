@@ -1,0 +1,1 @@
+export { ObFormsTesteDe } from "./ObFormsTesteDe";

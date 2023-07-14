@@ -1,0 +1,1 @@
+export { ObFormsBotaoDe } from "./ObFormsBotaoDe";

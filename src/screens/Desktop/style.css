@@ -31,7 +31,7 @@
   width: 245px;
 }
 
-.desktop .name {
+.desktop .input {
   background-color: transparent;
   border: 0;
   color: #000000;
@@ -47,6 +47,25 @@
   text-align: center;
   top: 0;
   width: 245px;
+}
+
+.desktop .OB-forms-teste-de-form {
+  left: 665px !important;
+  position: absolute !important;
+  top: 432px !important;
+}
+
+.desktop .OB-forms-teste-de-forma-dois {
+  left: 680px !important;
+  position: absolute !important;
+  top: 621px !important;
+}
+
+.desktop .OB-forms-botao-de-enviar-de-forma {
+  border-color: unset !important;
+  left: 665px !important;
+  position: absolute !important;
+  top: 773px !important;
 }
 
 .desktop .group-2 {
