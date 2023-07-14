@@ -1,45 +1,40 @@
-import React, { useState } from "react";
+import React from "react";
 import { Group } from "../../components/Group";
 import "./style.css";
 
 export const Desktop = () => {
-  const [name, setName] = useState("");
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    // Handle form submission logic here
-    console.log("Form submitted with name:", name);
-  };
-
-  const handleChange = (e) => {
-    setName(e.target.value);
-  };
-
   return (
     <div className="desktop">
       <div className="div">
-        <form
-          className="overlap-group"
-          onSubmit={handleSubmit}
-          method="post"
-          data-netlify="true"
-          data-netlify-honeypot="bot-field"
-          name="Turian"
-        >
+        <div className="overlap-group">
           <div className="rectangle" />
-          <input
-            className="name"
-            type="text"
-            value={name}
-            onChange={handleChange}
-            placeholder="Enter your name"
-          />
-          <button type="submit">Submit</button>
-        </form>
-        <Group className="group-2" property1="default" to="/thank-you">
-          <button>TALK TO AN EXPERT</button>
-        </Group>
+          <input className="name" />
+        </div>
+        <Group className="group-2" property1="default" to="/thank-you" />
       </div>
     </div>
   );
 };
+
+
+import ReactDOM from 'react-dom';
+
+render() {
+  return (
+    <form name="turian" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+      <input type="hidden" name="form-name" value="contact" />
+      <p>
+        <label>Your Name: <input type="text" name="name"/></label>
+      </p>
+      <p>
+        <label>Your Email: <input type="email" name="email"/></label>
+      </p>
+      <p>
+        <label>Message: <textarea name="message"></textarea></label>
+      </p>
+      <p>
+        <button type="submit">Send</button>
+      </p>
+    </form>
+  );
+}
