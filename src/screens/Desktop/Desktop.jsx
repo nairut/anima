@@ -14,7 +14,7 @@ export const Desktop = () => {
   return (
     <div className="desktop">
       <div className="div">
-        <form onSubmit={handleSubmit} method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+        <form name="myForm" onSubmit={handleSubmit} method="post" data-netlify="true" data-netlify-honeypot="bot-field">
           <div className="overlap-group">
             <div className="rectangle" />
             <input
