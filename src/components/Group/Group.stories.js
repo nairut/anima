@@ -7,7 +7,7 @@ export default {
 
 export const Default = {
   args: {
+    property1: "variant-2",
     className: {},
-    talkToAnExpertClassName: {},
   },
 };

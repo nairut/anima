@@ -50,18 +50,7 @@
 }
 
 .desktop .group-2 {
-  border-radius: 28.16px !important;
-  height: 56px !important;
-  left: 660px !important;
-  position: absolute !important;
-  top: 199px !important;
-  width: 366px !important;
-}
-
-.desktop .group-instance {
-  font-size: 20.5px !important;
-  left: 69px !important;
-  letter-spacing: 1.03px !important;
-  line-height: 13.3px !important;
-  width: 228px !important;
+  left: 902px !important;
+  position: fixed !important;
+  top: 172px !important;
 }
