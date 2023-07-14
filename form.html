@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -10,7 +9,7 @@
   </head>
   <body>
 
-    <!-- A little help for the Netlify post-processing bots -->
+    <!-- A little help for the Netlify bots if you're not using a SSG -->
     <form name="contact" netlify netlify-honeypot="bot-field" hidden>
       <input type="text" name="name" />
       <input type="email" name="email" />
@@ -19,23 +18,18 @@
 
     <div id="root"></div>
     <script type="text/babel">
+
       ReactDOM.render(
-        <form method="post">
+        <form name="contact" method="post">
           <input type="hidden" name="form-name" value="contact" />
           <p>
-            <label>
-              Your Name: <input type="text" name="name" />
-            </label>
+            <label>Your Name: <input type="text" name="name"/></label>
           </p>
           <p>
-            <label>
-              Your Email: <input type="email" name="email" />
-            </label>
+            <label>Your Email: <input type="email" name="email"/></label>
           </p>
           <p>
-            <label>
-              Message: <textarea name="message" />
-            </label>
+            <label>Message: <textarea name="message"></textarea></label>
           </p>
           <p>
             <button type="submit">Send</button>
@@ -43,6 +37,7 @@
         </form>,
         document.getElementById("root")
       );
+
     </script>
   </body>
 </html>
