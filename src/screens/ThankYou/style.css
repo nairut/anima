@@ -1,0 +1,30 @@
+.thank-you {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.thank-you .thank-you-wrapper {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1017px;
+  position: relative;
+  width: 1440px;
+}
+
+.thank-you .text-wrapper {
+  color: #000000;
+  font-family: "Manrope", Helvetica;
+  font-size: 100px;
+  font-weight: 300;
+  height: 14px;
+  left: 117px;
+  letter-spacing: 1.03px;
+  line-height: 13.3px;
+  position: absolute;
+  text-align: center;
+  top: 477px;
+  white-space: nowrap;
+}
