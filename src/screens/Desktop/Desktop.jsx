@@ -1,3 +1,4 @@
+
 import React, { useState } from "react";
 import { Group } from "../../components/Group";
 import "./style.css";
@@ -24,8 +25,9 @@ export const Desktop = () => {
               onChange={(e) => setName(e.target.value)}
             />
           </div>
-          <Group className="group-2" property1="default" to="/thank-you" />
-          <button type="submit">Submit</button>
+          <Group className="group-2" property1="default" to="/thank-you">
+            Submit
+          </Group>
         </form>
       </div>
     </div>
