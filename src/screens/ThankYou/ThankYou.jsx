@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-export const ThankYou = (): JSX.Element => {
+export const ThankYou = () => {
   return (
     <div className="thank-you">
       <div className="thank-you-wrapper">

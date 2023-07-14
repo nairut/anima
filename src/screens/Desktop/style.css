@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.desktop .div-2 {
+.desktop .div {
   background-color: #ffffff;
   border: 1px none;
   height: 1024px;
@@ -14,12 +14,20 @@
   width: 1440px;
 }
 
-.desktop .name-wrapper {
-  background-color: #d9d9d9;
-  height: 62px;
+.desktop .overlap-group {
+  height: 63px;
   left: 351px;
   position: absolute;
-  top: 199px;
+  top: 198px;
+  width: 245px;
+}
+
+.desktop .rectangle {
+  background-color: #d9d9d9;
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 1px;
   width: 245px;
 }
 
@@ -30,18 +38,18 @@
   font-family: "Manrope", Helvetica;
   font-size: 20px;
   font-weight: 300;
-  height: 34px;
-  left: 72px;
+  height: 62px;
+  left: 0;
   letter-spacing: 1px;
   line-height: 13px;
   padding: 0;
-  position: relative;
+  position: absolute;
   text-align: center;
-  top: 13px;
-  width: 101px;
+  top: 0;
+  width: 245px;
 }
 
-.desktop .group-instance {
+.desktop .group-2 {
   border-radius: 28.16px !important;
   height: 56px !important;
   left: 660px !important;
@@ -50,7 +58,7 @@
   width: 366px !important;
 }
 
-.desktop .group-2-instance {
+.desktop .group-instance {
   font-size: 20.5px !important;
   left: 69px !important;
   letter-spacing: 1.03px !important;
