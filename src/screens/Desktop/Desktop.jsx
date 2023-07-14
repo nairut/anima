@@ -25,9 +25,16 @@ export const Desktop = () => {
               onChange={(e) => setName(e.target.value)}
             />
           </div>
-          <Group className="group-2" property1="default" to="/thank-you">
+
+
+          <div className="overlap-group">
           <button>TALK TO AN EXPERT</button>
-        </Group>
+          <div className="rectangle" />
+
+
+
+
+        
         </form>
       </div>
     </div>
