@@ -26,8 +26,8 @@ export const Desktop = () => {
             />
           </div>
           <Group className="group-2" property1="default" to="/thank-you">
-            Submit
-          </Group>
+          <button>TALK TO AN EXPERT</button>
+        </Group>
         </form>
       </div>
     </div>
