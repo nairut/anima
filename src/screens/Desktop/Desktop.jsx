@@ -1,28 +1,17 @@
-import React, { useEffect, useState } from 'react';
+import React from "react";
+import { Group } from "../../components/Group";
+import "./style.css";
 
-function HTMLComponent() {
-  const [htmlContent, setHtmlContent] = useState('');
-
-  useEffect(() => {
-    const fetchHtml = async () => {
-      try {
-        const response = await fetch('/file.html');
-        const html = await response.text();
-        setHtmlContent(html);
-      } catch (error) {
-        console.error('Error fetching HTML file:', error);
-      }
-    };
-
-    fetchHtml();
-  }, []);
-
+export const Desktop = () => {
   return (
-    <div>
-      <h2>My App</h2>
-      <div dangerouslySetInnerHTML={{ __html: htmlContent }} />
+    <div className="desktop">
+      <div className="div">
+        <div className="overlap-group">
+          <div className="rectangle" />
+          <input className="name" />
+        </div>
+        <Group className="group-2" property1="default" to="/thank-you" />
+      </div>
     </div>
   );
-}
-
-export default HTMLComponent;
+};
