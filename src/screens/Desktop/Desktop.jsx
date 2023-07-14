@@ -35,27 +35,3 @@ export const Desktop = () => {
 };
 
 
-<div class="desktop">
-  <div class="div">
-    <form name="myForm" action="/thank-you" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
-      <div class="overlap-group">
-        <div class="rectangle"></div>
-        <input class="name" type="text" name="name" />
-      </div>
-
-
-      <link rel="stylesheet" href="estilobom.css">
-      <Group className="overlap-group"  className="rectangle" property1="default" to="/thank-you">
-        <button>TALK TO AN EXPERTQUEM MANDA AQUI SOU </button>
-      </Group>
-
-      <div class="group overlap-group rectangle" property1="default" to="/thank-you">
-  <button class="talk-to-an-expert">TALK TO AN EXPERT</button>
-</div>
-
-
-    </form>
-
-
-  </div>
-</div>
