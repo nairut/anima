@@ -10,4 +10,4 @@ function NewProject() {
     )
   }
   
-  export default NewProject
+  export default turian
