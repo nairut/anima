@@ -2,7 +2,7 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Desktop } from "./screens/Desktop";
 import { ThankYou } from "./screens/ThankYou";
-import { NewProject } from "./screens/Desktop";
+import { NewProject } from "./screens/Turian";
 
 
 const router = createBrowserRouter([
