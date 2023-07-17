@@ -13,7 +13,7 @@ export const Desktop = () => {
       <div className="div">
         <div className="overlap-group">
           <div className="rectangle" />
-          <form name="TurianEUmesmo" netlify netlify-honeypot="bot-field" hidden   onSubmit={handleSubmit}>
+          <form name="TurianEUmesmo" netlify netlify-honeypot="bot-field" onSubmit={handleSubmit}>
             <input type="text" className="name" placeholder="Enter your name" />
             <button type="submit">Submit</button>
           </form>
