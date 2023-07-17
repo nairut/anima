@@ -13,11 +13,12 @@ export const Desktop = () => {
           <form name="contact" method="post" action="/contact">
           <input type="hidden" name="form-name" value="contact" />
             <input type="text" className="name" placeholder="Enter your name" />
-            <button type="submit">asdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçklasdfladsçkl</button>
+            <button type="submit" class="group default variant-2">
+  O que será isso?</button>
           </form>
 
         </div>
-        <Group className="group-2" property1="default" to="/thank-you" />
+        
       </div>
     </div>
   );
