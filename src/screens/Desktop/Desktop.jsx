@@ -14,8 +14,8 @@ export const Desktop = () => {
             <input type="text" className="name" placeholder="Enter your name" />
           </div>
 
-            <button type="submit">
-            <Group className="group-2"  />
+            <button className="desktop" type="submit">AAAAAAAAAAAAAAA
+
             </button>
 
           </form>
