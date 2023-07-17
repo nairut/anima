@@ -16,7 +16,7 @@ export const Desktop = () => {
           </div>
 
             <button type="submit">
-            Send
+            <Group className="group-2" property1="default"/>
             </button>
 
           </form>
