@@ -2,6 +2,8 @@
 import React, { useState } from "react";
 import { Group } from "../../components/Group";
 import "./style.css";
+import { Group } from "../../components/ProjectForm";
+import ProjectForm from "../../components/Group/ProjectForm";
 
 export const Desktop = () => {
   const [name, setName] = useState('');
@@ -14,22 +16,7 @@ export const Desktop = () => {
 
   return (
     <div className="desktop">
-      <div className="div">
-        <form name="myForm" onSubmit={handleSubmit} method="post" data-netlify="true" data-netlify-honeypot="bot-field">
-          <div className="overlap-group">
-            <div className="rectangle" />
-            <input
-              className="name"
-              type="text"
-              value={name}
-              onChange={(e) => setName(e.target.value)}
-            />
-          </div>
-          <Group className="group-2" property1="default" to="/thank-you">
-          <button>TALK TO AN EXPERT</button>
-        </Group>
-        </form>
-      </div>
+    <ProjectForm/>
     </div>
   );
 };
