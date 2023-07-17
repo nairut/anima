@@ -12,7 +12,6 @@ export const Desktop = () => {
           <input className="name" />
         </div>
         <Group className="group-2" property1="default" to="/thank-you" />
-        <ProjectForm/>
       </div>
     </div>
   );
