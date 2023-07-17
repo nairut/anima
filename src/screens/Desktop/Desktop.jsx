@@ -10,7 +10,7 @@ export const Desktop = () => {
 
 
       <form name="turian" method="post" action="/">
-      <input type="hidden" name="form-name" value="contact" />
+      <input type="hidden" name="form-name" value="turian" />
         <div className="overlap">
           <div className="rectangle" />
           <input type="text" name="name" className="name" placeholder="Enter your name" />
