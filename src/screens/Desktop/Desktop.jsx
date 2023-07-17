@@ -10,16 +10,18 @@ export const Desktop = () => {
           <input type="hidden" name="form-name" value="contact" />
 
           <div className="overlap-group">
+            <div className="rectangle" />
             <input type="text" className="name" placeholder="Enter your name" />
-            <input className="name" />
           </div>
 
             <button className="group-2" type="submit">
               <div className="talk-to-an-expert">TALK TO AN EXPERT</div>
             </button>
+            
           </form>
 
       </div>
     </div>
   );
 };
+<Group className="group-2" property1="default" to="/thank-you" />
