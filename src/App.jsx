@@ -17,11 +17,6 @@ const router = createBrowserRouter([
     element: <ThankYou />,
   },
 
-  {
-    path: "/turian",
-    element: <NewProject />,
-  },
-
 
 ]);
 
