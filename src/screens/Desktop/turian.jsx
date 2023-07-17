@@ -2,7 +2,7 @@ import React from "react";
 import ProjectForm from "../../components/ProjectForm";
 
 
-function turian() {
+function Turian() {
     return (
       <div>
         <h1>NewProject</h1>
@@ -10,4 +10,4 @@ function turian() {
     )
   }
   
-  export default turian
+  export default Turian
