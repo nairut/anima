@@ -1,7 +1,6 @@
 import React from "react";
 import { Group } from "../../components/Group";
 import "./style.css";
-import ProjectForm from "../../components/Group";
 
 export const Desktop = () => {
   return (
@@ -16,15 +15,3 @@ export const Desktop = () => {
     </div>
   );
 };
-
-
-function NewProject() {
-  return (
-    <div className="desktop">
-      <h1>só em sonho</h1>
-      <ProjectForm />
-    </div>
-  );
-}
-
-export default NewProject;
