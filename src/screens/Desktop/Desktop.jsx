@@ -10,9 +10,12 @@ export const Desktop = () => {
         <div className="overlap-group">
           <div className="rectangle" />
           <input className="name" />
+          <ProjectForm/>
         </div>
         <Group className="group-2" property1="default" to="/thank-you" />
       </div>
     </div>
   );
 };
+
+
