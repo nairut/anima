@@ -1,5 +1,9 @@
 function ProjectForm() {
-    return <p>Form do projeto</p>
+    return (
+    <form>
+    <input type="text" placeholder="capai memo"/>
+    </form>
+    )
 }
 
 export default ProjectForm
