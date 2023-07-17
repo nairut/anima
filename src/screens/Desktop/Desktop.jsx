@@ -1,19 +1,37 @@
-import React from "react";
-import { Link } from "react-router-dom";
+
+import React, { useState } from "react";
+import { Group } from "../../components/Group";
 import "./style.css";
 
 export const Desktop = () => {
+  const [name, setName] = useState('');
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    // Perform form submission logic here
+    console.log('Form submitted');
+  };
+
   return (
     <div className="desktop">
-      <div className="div-2">
-        <div className="overlap-group">
-          <div className="rectangle-2" />
-          <input className="name" />
-        </div>
-        <Link className="group" to="/thank-you">
-          <div className="talk-to-an-expert">TALK TO AN EXPERT</div>
-        </Link>
+      <div className="div">
+        <form name="myForm" onSubmit={handleSubmit} method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+          <div className="overlap-group">
+            <div className="rectangle" />
+            <input
+              className="name"
+              type="text"
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+            />
+          </div>
+          <Group className="group-2" property1="default" to="/thank-you">
+          <button>TALK TO AN EXPERT</button>
+        </Group>
+        </form>
       </div>
     </div>
   );
 };
+
+

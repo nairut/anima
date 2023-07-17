@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.desktop .div-2 {
+.desktop .div {
   background-color: #ffffff;
   border: 1px none;
   height: 1024px;
@@ -22,7 +22,7 @@
   width: 245px;
 }
 
-.desktop .rectangle-2 {
+.desktop .rectangle {
   background-color: #d9d9d9;
   height: 62px;
   left: 0;
@@ -35,7 +35,7 @@
   background-color: transparent;
   border: 0;
   color: #000000;
-  font-family: "Manrope-Light", Helvetica;
+  font-family: "Manrope", Helvetica;
   font-size: 20px;
   font-weight: 300;
   height: 62px;
@@ -49,27 +49,8 @@
   width: 245px;
 }
 
-.desktop .group {
-  background-color: #0536a8;
-  height: 55px;
-  left: 902px;
-  position: fixed;
-  top: 172px;
-  width: 335px;
-}
-
-.desktop .talk-to-an-expert {
-  color: #ffffff;
-  font-family: "Manrope-Light", Helvetica;
-  font-size: 20px;
-  font-weight: 300;
-  height: 9px;
-  left: 63px;
-  letter-spacing: 1px;
-  line-height: 13px;
-  position: absolute;
-  text-align: center;
-  top: 22px;
-  white-space: nowrap;
-  width: 209px;
+.desktop .group-2 {
+  left: 902px !important;
+  position: fixed !important;
+  top: 172px !important;
 }
