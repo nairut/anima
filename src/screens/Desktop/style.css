@@ -14,7 +14,7 @@
   width: 1440px;
 }
 
-.desktop .overlap-group {
+.desktop .overlap {
   height: 63px;
   left: 351px;
   position: absolute;
@@ -49,20 +49,14 @@
   width: 245px;
 }
 
-.desktop .group-2 {
-  left: 902px !important;
-  position: fixed !important;
-  top: 172px !important;
+.desktop .overlap-group {
+  background-color: #0536a8;
+  height: 74px;
+  left: 795px;
+  position: absolute;
+  top: 187px;
+  width: 447px;
 }
-
-
-.group .turian {
-  height: 55px;
-  position: relative;
-  width: 335px;
-}
-
-
 
 .desktop .talk-to-an-expert {
   color: #ffffff;
@@ -70,22 +64,21 @@
   font-size: 20px;
   font-weight: 300;
   height: 9px;
-  left: 63px;
+  left: 134px;
   letter-spacing: 1px;
   line-height: 13px;
   position: absolute;
   text-align: center;
-  top: 22px;
+  top: 41px;
   white-space: nowrap;
   width: 209px;
 }
 
-.desktop.default {
-  background-color: #0536a8;
+.desktop .lady-instance {
+  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1.png) !important;
+  height: 364px !important;
+  left: 351px !important;
+  position: absolute !important;
+  top: 460px !important;
+  width: 280px !important;
 }
-
-.desktop.variant-2 {
-  background-color: #c8982a;
-  transition: all 0.2s ease;
-}
-
