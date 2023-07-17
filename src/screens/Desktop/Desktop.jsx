@@ -3,6 +3,12 @@ import { Group } from "../../components/Group";
 import "./style.css";
 
 export const Desktop = () => {
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    // Handle the form submission logic here
+    // e.g., send form data to the server
+  };
+
   return (
     <div className="desktop">
       <div className="div">
@@ -12,15 +18,13 @@ export const Desktop = () => {
           <div className="overlap-group">
             <div className="rectangle" />
             <input type="text" name="name" className="name" placeholder="Enter your name" />
-
           </div>
 
-            <button type="submit">
-            <Group className="group-2" property1="default"/>
-            </button>
+          <button className="desktop" type="submit" onClick={handleSubmit}>
+            <Group property1="default" />
+          </button>
 
-          </form>
-
+        </form>
       </div>
     </div>
   );
