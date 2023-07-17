@@ -11,7 +11,7 @@ export const Desktop = () => {
           <input className="name" />
         </div>
 
-        <button type="submit"  className="group-2"              >     AAAAAAAAAAAAAAAAAAAAAAA       </button>
+        <button type="submit"  className="group-2"   roperty1="default" to="/thank-you"            >       BBBBBBBB     </button>
       </div>
     </div>
   );
