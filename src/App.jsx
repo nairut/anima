@@ -16,6 +16,13 @@ const router = createBrowserRouter([
     path: "/thank-you",
     element: <ThankYou />,
   },
+
+  {
+    path: "/turian",
+    element: <NewProject/>,
+  },
+
+
 ]);
 
 export const App = () => {
