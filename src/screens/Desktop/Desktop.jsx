@@ -7,24 +7,30 @@ export const Desktop = () => {
     <div className="desktop">
       <div className="div">
 
-      <form name="contact" method="post" action="/contact">
-        <input type="hidden" name="form-name" value="contact" /> 
 
+
+      <form name="contact" method="post" action="/contact">
+      <input type="hidden" name="form-name" value="contact" />
         <div className="overlap">
           <div className="rectangle" />
           <input type="text" name="name" className="name" placeholder="Enter your name" />
         </div>
 
-        <button type="submit">
+        </form>
+
+
+
+
         <div className="overlap-group">
           <div className="talk-to-an-expert">TALK TO AN EXPERT</div>
-          </button>
-
-        </form> 
         </div>
         <Lady className="lady-instance" />
       </div>
     </div>
   );
 };
+
+
+
+
 
