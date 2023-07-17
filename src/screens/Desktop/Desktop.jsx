@@ -15,16 +15,12 @@ export const Desktop = () => {
           <input type="text" name="name" className="name" placeholder="Enter your name" />
         </div>
 
-
-        <button className="desktop" type="submit">
+        <button type="submit">
         <div className="overlap-group">
           <div className="talk-to-an-expert">TALK TO AN EXPERT</div>
           </button>
 
-
-
-
-          </form> 
+        </form> 
         </div>
         <Lady className="lady-instance" />
       </div>
