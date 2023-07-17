@@ -21,10 +21,11 @@ export const Desktop = () => {
 
 function NewProject() {
   return (
-    <div className={}>
-    <h1>só em sonho</h1>
-    <ProjectForm/>
-  )
+    <div className="style.css">
+      <h1>só em sonho</h1>
+      <ProjectForm />
+    </div>
+  );
 }
 
-export default NewProject
+export default NewProject;
