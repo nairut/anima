@@ -15,7 +15,7 @@ export const Desktop = () => {
 
           </div>
 
-            <button className="desktop" type="submit">
+            <button type="submit">
             <Group className="group-2" property1="default" to="/contact"/>
             </button>
 
