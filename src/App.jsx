@@ -2,7 +2,6 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Desktop } from "./screens/Desktop";
 import { ThankYou } from "./screens/ThankYou";
-import NewProject from "./screens/Desktop/NewProject";
 
 const router = createBrowserRouter([
   {
@@ -17,13 +16,6 @@ const router = createBrowserRouter([
     path: "/thank-you",
     element: <ThankYou />,
   },
-
-  {
-    path: "/turian",
-    element: <NewProject />,
-  },
-
-  
 ]);
 
 export const App = () => {
