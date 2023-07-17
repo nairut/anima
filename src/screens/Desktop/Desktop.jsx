@@ -13,10 +13,9 @@ export const Desktop = () => {
       <div className="div">
         <div className="overlap-group">
           <div className="rectangle" />
-          <form name="TurianEUmesmo" method="post" data-netlify="true" data-netlify-honeypot="bot-field"  onSubmit={handleSubmit}>
-           <input type="hidden" name="TurianEUmesmo" value="contact" />
+          <form name="contact" method="post" onSubmit={handleSubmit}>
             <input type="text" className="name" placeholder="Enter your name" />
-            <button type="submit">Submit</button>
+            <button type="submit">Submit alguma coisa aqui</button>
           </form>
         </div>
         <Group className="group-2" property1="default" to="/thank-you" />
