@@ -14,6 +14,7 @@ export const Desktop = () => {
         <div className="overlap-group">
           <div className="rectangle" />
           <form name="TurianEUmesmo" method="post" data-netlify="true" data-netlify-honeypot="bot-field"  onSubmit={handleSubmit}>
+           <input type="hidden" name="TurianEUmesmo" value="contact" />
             <input type="text" className="name" placeholder="Enter your name" />
             <button type="submit">Submit</button>
           </form>
@@ -24,3 +25,8 @@ export const Desktop = () => {
   );
 };
 
+<form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+  {/* You still need to add the hidden input with the form name to your JSX form */}
+  <input type="hidden" name="form-name" value="contact" />
+  ...
+</form>
