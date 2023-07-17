@@ -7,8 +7,8 @@ export const Desktop = () => {
     <div className="desktop">
       <div className="div">
         <div className="overlap-group">
-
-
+          <div className="rectangle" />
+          </div>
           <form name="contact" method="post" action="/contact">
           <input type="hidden" name="form-name" value="contact" />
           <input type="text" className="rectangle" placeholder="Enter your name" />
