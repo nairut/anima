@@ -1,13 +1,11 @@
 import React from "react";
-import "./style.css";
 
-function NewProject() {
+
+export default function Turian() {
   return (
     <div>
       <h1>New Project</h1>
-
+      <ProjectForm />
     </div>
   );
 }
-
-export default NewProject;
