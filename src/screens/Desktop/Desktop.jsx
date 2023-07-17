@@ -19,3 +19,12 @@ export const Desktop = () => {
 };
 
 
+function NewProject() {
+  return (
+    <div className={}>
+    <h1>só em sonho</h1>
+    <ProjectForm/>
+  )
+}
+
+export default NewProject
