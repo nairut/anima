@@ -1,5 +1,11 @@
-function NewProject() {
-    return <h1>NewProject</h1>
-}
+import React from "react";
 
-export default NewProject
+function NewProject() {
+    return (
+      <div>
+        <h1>NewProject</h1>
+      </div>
+    )
+  }
+  
+  export default NewProject
