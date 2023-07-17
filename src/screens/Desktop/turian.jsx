@@ -1,13 +1,17 @@
 import React from "react";
-import ProjectForm from "../../components/ProjectForm";
+import { Group } from "../../components/Group";
+import "./style.css";
 
-
-function turian() {
-    return (
-      <div>
-        <h1>NewProject</h1>
+export const Desktop = () => {
+  return (
+    <div className="desktop">
+      <div className="div">
+        <div className="overlap-group">
+          <div className="rectangle" />
+          <input className="name" />
+        </div>
+        <Group className="group-2" property1="default" to="/thank-you" />
       </div>
-    )
-  }
-  
-  export default turian
+    </div>
+  );
+};
