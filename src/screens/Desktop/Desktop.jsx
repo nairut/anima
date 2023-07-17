@@ -19,10 +19,7 @@ export const Desktop = () => {
 
 
             
-            <button type="submit" "Group2 w-[335px] h-[55px] relative">
-
-
-
+            <button type="submit" className="Group2 w-[335px] h-[55px] relative">
 </button>
 
 
