@@ -50,11 +50,20 @@
 }
 
 .desktop .overlap-group {
-  background-color: #0536a8;
   height: 74px;
   left: 795px;
   position: absolute;
   top: 187px;
+  width: 447px;
+}
+
+.desktop .rectangle-2 {
+  background-color: #0536a8;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
   width: 447px;
 }
 
@@ -63,14 +72,13 @@
   font-family: "Manrope", Helvetica;
   font-size: 20px;
   font-weight: 300;
-  height: 9px;
-  left: 134px;
+  height: 26px;
+  left: 119px;
   letter-spacing: 1px;
   line-height: 13px;
   position: absolute;
   text-align: center;
-  top: 41px;
-  white-space: nowrap;
+  top: 24px;
   width: 209px;
 }
 
