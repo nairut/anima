@@ -12,11 +12,10 @@ export const Desktop = () => {
     <div className="desktop">
       <div className="div">
         <div className="overlap-group">
-          <div className="rectangle" />
+          <div className="rectangle" onClick={handleSubmit} />
           <form name="contact" method="post" action="/contact">
-          <input type="hidden" name="form-name" value="contact" />
+            <input type="hidden" name="form-name" value="contact" />
             <input type="text" className="name" placeholder="Enter your name" />
-            <button type="submit">Submit alguma coisa aquiSubmit alguma coisa aquiSubmit alguma coisa aquiSubmit alguma coisa aquiSubmit alguma coisa aquiSubmit alguma coisa aquiSubmit alguma coisa aquiSubmit alguma coisa aqui</button>
           </form>
         </div>
         <Group className="group-2" property1="default" to="/thank-you" />
