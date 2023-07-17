@@ -18,8 +18,8 @@ const router = createBrowserRouter([
   },
 
   {
-    path: "/Turian",
-    element: <turian/>,
+    path: "/turian",
+    element: <Turian/>,
   },
 
 
