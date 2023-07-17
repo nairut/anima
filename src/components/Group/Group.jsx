@@ -9,7 +9,7 @@ import { useReducer } from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-export const Group = ({ property1, className, to }) => {
+export const Group = ({ property1, className, to onClick  }) => {
   const [state, dispatch] = useReducer(reducer, {
     property1: property1 || "default",
   });
