@@ -1,5 +1,6 @@
 import React from "react";
 import ProjectForm from "../../components/ProjectForm";
+import "./style.css";
 
 function NewProject() {
   return (
