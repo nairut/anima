@@ -1,6 +1,5 @@
 import React from "react";
 import { Group } from "../../components/Group";
-import { style } from "../../components/Group";
 import "./style.css";
 
 export const Desktop = () => {
