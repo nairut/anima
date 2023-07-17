@@ -14,6 +14,7 @@ export const Desktop = () => {
         <div className="overlap-group">
           <div className="rectangle" />
           <form name="contact" method="post" onSubmit={handleSubmit}>
+          <input type="hidden" name="form-name" value="contact" />
             <input type="text" className="name" placeholder="Enter your name" />
             <button type="submit">Submit alguma coisa aqui</button>
           </form>
