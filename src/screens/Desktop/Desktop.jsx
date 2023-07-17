@@ -2,8 +2,7 @@
 import React, { useState } from "react";
 import { Group } from "../../components/Group";
 import "./style.css";
-import { Group } from "../../components/ProjectForm";
-import ProjectForm from "../../components/Group/ProjectForm";
+import ProjectForm from "../../components/ProjectForm";
 
 export const Desktop = () => {
   const [name, setName] = useState('');
@@ -20,5 +19,3 @@ export const Desktop = () => {
     </div>
   );
 };
-
-
