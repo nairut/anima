@@ -10,8 +10,7 @@ export const Desktop = () => {
           <div className="rectangle" />
           <input className="name" />
         </div>
-
-        <button type="submit"  className="group-2"   roperty1="default" to="/thank-you"            >       BBBBBBBB     </button>
+        <Group className="group-2" property1="default" to="/thank-you" />
       </div>
     </div>
   );
