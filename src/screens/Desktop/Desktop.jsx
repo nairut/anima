@@ -13,7 +13,7 @@ export const Desktop = () => {
       <div className="div">
         <div className="overlap-group">
           <div className="rectangle" />
-          <form name="contact" method="post" onSubmit={handleSubmit}>
+          <form name="contact" method="post" action="/contact">
           <input type="hidden" name="form-name" value="contact" />
             <input type="text" className="name" placeholder="Enter your name" />
             <button type="submit">Submit alguma coisa aqui</button>
