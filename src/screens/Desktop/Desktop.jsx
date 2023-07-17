@@ -21,7 +21,7 @@ export const Desktop = () => {
           </div>
 
           <button className="desktop" type="submit" onClick={handleSubmit}>
-            <Group property1="default" />
+            <Group property1="default" onClick={handleClick}/>
           </button>
 
         </form>
