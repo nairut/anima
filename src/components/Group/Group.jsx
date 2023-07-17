@@ -15,18 +15,19 @@ export const Group = ({ property1, className, to }) => {
   });
 
   return (
-    <Link
+    <button
       className={`group ${state.property1} ${className}`}
-      to={to}
+      onClick={onClick}
       onMouseEnter={() => {
         dispatch("mouse_enter");
       }}
       onMouseLeave={() => {
         dispatch("mouse_leave");
       }}
+      type="submit"
     >
       <div className="talk-to-an-expert">TALK TO AN EXPERT</div>
-    </Link>
+    </button>
   );
 };
 
