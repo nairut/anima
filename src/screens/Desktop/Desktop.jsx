@@ -11,11 +11,12 @@ export const Desktop = () => {
 
           <div className="overlap-group">
             <div className="rectangle" />
-            <input type="text" className="name" placeholder="Enter your name" />
+            <input type="text" name="name" className="name" placeholder="Enter your name" />
+
           </div>
 
-            <button className="desktop" type="submit">AAAAAAAAAAAAAAA
-
+            <button className="desktop" type="submit">
+            <Group className="desktop"  />
             </button>
 
           </form>
