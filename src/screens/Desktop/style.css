@@ -62,6 +62,11 @@
   background-color: #C8982A;
 }
 
+.desktop .overlap-group:hover {
+  background-color: #C8982A;
+  cursor: pointer;
+}
+
 .desktop .talk-to-an-expert {
   color: #ffffff;
   font-family: "Manrope", Helvetica;
