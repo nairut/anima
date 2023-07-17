@@ -9,7 +9,7 @@ export const Desktop = () => {
 
 
 
-      <form name="contact" method="post" action="/contact">
+      <form name="contact" method="post" action="/contactasdasdas">
       <input type="hidden" name="form-name" value="contact" />
         <div className="overlap">
           <div className="rectangle" />
@@ -22,6 +22,7 @@ export const Desktop = () => {
           <div className="talk-to-an-expert">TALK TO AN EXPERT</div>
         </div>
         </button>
+
         </form>
 
 
