@@ -1,5 +1,6 @@
 import React from "react";
 import { Group } from "../../components/Group";
+import { style } from "../../components/Group";
 import "./style.css";
 
 export const Desktop = () => {
@@ -17,7 +18,7 @@ export const Desktop = () => {
             <button className="group-2" type="submit">
               <div className="talk-to-an-expert">TALK TO AN EXPERT</div>
             </button>
-            
+
           </form>
 
       </div>
