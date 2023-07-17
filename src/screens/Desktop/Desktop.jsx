@@ -8,14 +8,10 @@ export const Desktop = () => {
       <div className="div">
         <div className="overlap-group">
           <div className="rectangle" />
-          </div>
-          <form name="contact" method="post" action="/contact">
-          <input type="hidden" name="form-name" value="contact" />
-          <input type="text" className="rectangle" placeholder="Enter your name" />
+          <input className="name" />
+        </div>
 
-          <button type="submit">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</button>
-          </form>
-          <button type="submit" Group className="group-2" property1="default" to="/thank-you" />AAAAAAAAAAAAAAAAAAAAAAAAAAAA</button>
+        <button type="submit"  className="group-2"              >     AAAAAAAAAAAAAAAAAAAAAAA       </button>
       </div>
     </div>
   );
