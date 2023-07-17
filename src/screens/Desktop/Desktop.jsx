@@ -15,9 +15,10 @@ export const Desktop = () => {
           
           <form name="contact" method="post" action="/contact">
           <input type="hidden" name="form-name" value="contact" />
+          <button type="submit">sasdsdasdasdasdasdsasdasdsd</button>
           <div className="rectangle" />
             <input type="text" className="name" placeholder="Enter your name" />
-            <button type="submit">sasdsdasdasdasdasdsasdasdsd</button>
+            
           </form>
         </div>
         <Group className="group-2" property1="default" to="/thank-you" />
