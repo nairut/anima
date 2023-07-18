@@ -8,1064 +8,1062 @@
 
 .element .div-2 {
   background-color: #ffffff;
-  border: 0.79px none;
-  height: 2906.4px;
+  border: 0.99px none;
+  height: 3633px;
   position: relative;
-  width: 1200px;
+  width: 1300px;
 }
 
 .element .lady-instance {
-  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1-2.png) !important;
-  height: 291px !important;
-  left: 821px !important;
+  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1.png) !important;
+  height: 364px !important;
+  left: 956px !important;
   position: absolute !important;
-  top: 196px !important;
-  width: 224px !important;
-}
-
-.element .text-wrapper {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 30.2px;
-  font-weight: 700;
-  left: 318px;
-  letter-spacing: 1.21px;
-  line-height: normal;
-  position: absolute;
-  top: 589px;
-  width: 565px;
+  top: 227px !important;
+  width: 280px !important;
 }
 
 .element .p {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 29.6px;
+  font-size: 37.7px;
   font-weight: 700;
-  left: 270px;
-  letter-spacing: 1.18px;
+  left: 297px;
+  letter-spacing: 1.51px;
   line-height: normal;
   position: absolute;
-  top: 972px;
-  width: 682px;
-}
-
-.element .zapier-png {
-  height: 56px;
-  left: 201px;
-  position: absolute;
-  top: 670px;
-  width: 81px;
-}
-
-.element .abbott-png {
-  height: 56px;
-  left: 201px;
-  position: absolute;
-  top: 762px;
-  width: 81px;
-}
-
-.element .zf-png {
-  height: 56px;
-  left: 303px;
-  position: absolute;
-  top: 670px;
-  width: 81px;
-}
-
-.element .anton-paar-png {
-  height: 56px;
-  left: 303px;
-  position: absolute;
-  top: 762px;
-  width: 81px;
-}
-
-.element .crowdin-png {
-  height: 56px;
-  left: 406px;
-  position: absolute;
-  top: 670px;
-  width: 81px;
-}
-
-.element .img {
-  height: 56px;
-  left: 406px;
-  object-fit: cover;
-  position: absolute;
-  top: 762px;
-  width: 81px;
-}
-
-.element .cloudwords-png {
-  height: 56px;
-  left: 508px;
-  position: absolute;
-  top: 670px;
-  width: 81px;
-}
-
-.element .rectangle-5 {
-  height: 56px;
-  left: 508px;
-  object-fit: cover;
-  position: absolute;
-  top: 762px;
-  width: 81px;
-}
-
-.element .rectangle-6 {
-  height: 63px;
-  left: 610px;
-  object-fit: cover;
-  position: absolute;
-  top: 670px;
-  width: 89px;
-}
-
-.element .rectangle-7 {
-  height: 56px;
-  left: 610px;
-  object-fit: cover;
-  position: absolute;
-  top: 762px;
-  width: 81px;
-}
-
-.element .rectangle-8 {
-  height: 56px;
-  left: 713px;
-  object-fit: cover;
-  position: absolute;
-  top: 670px;
-  width: 81px;
-}
-
-.element .evoltz-png {
-  height: 56px;
-  left: 713px;
-  position: absolute;
-  top: 762px;
-  width: 81px;
-}
-
-.element .rectangle-9 {
-  height: 56px;
-  left: 810px;
-  object-fit: cover;
-  position: absolute;
-  top: 670px;
-  width: 86px;
-}
-
-.element .jungheinrich-png {
-  height: 56px;
-  left: 815px;
-  position: absolute;
-  top: 762px;
-  width: 81px;
-}
-
-.element .rectangle-10 {
-  height: 56px;
-  left: 906px;
-  object-fit: cover;
-  position: absolute;
-  top: 670px;
-  width: 92px;
-}
-
-.element .shopee-png {
-  height: 56px;
-  left: 918px;
-  position: absolute;
-  top: 762px;
-  width: 81px;
-}
-
-.element .overlap {
-  background-image: url(../../../static/img/rectangle-19-1.png);
-  background-size: 100% 100%;
-  height: 111px;
-  left: 170px;
-  position: absolute;
-  top: 1054px;
-  width: 122px;
+  top: 736px;
+  width: 706px;
 }
 
 .element .text-wrapper-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
+  font-size: 37px;
   font-weight: 700;
-  left: 41px;
-  letter-spacing: 0.64px;
+  left: 237px;
+  letter-spacing: 1.48px;
   line-height: normal;
   position: absolute;
-  top: 79px;
-  white-space: nowrap;
+  top: 1215px;
+  width: 853px;
 }
 
-.element .law {
-  height: 30px;
-  left: 46px;
+.element .zapier-png {
+  height: 70px;
+  left: 151px;
   position: absolute;
-  top: 25px;
-  width: 30px;
+  top: 837px;
+  width: 101px;
 }
 
-.element .overlap-2 {
-  background-image: url(../../../static/img/rectangle-36-1.png);
+.element .abbott-png {
+  height: 70px;
+  left: 151px;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.element .zf-png {
+  height: 70px;
+  left: 279px;
+  position: absolute;
+  top: 837px;
+  width: 101px;
+}
+
+.element .anton-paar-png {
+  height: 70px;
+  left: 279px;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.element .crowdin-png {
+  height: 70px;
+  left: 407px;
+  position: absolute;
+  top: 837px;
+  width: 101px;
+}
+
+.element .rectangle {
+  height: 70px;
+  left: 407px;
+  object-fit: cover;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.element .cloudwords-png {
+  height: 70px;
+  left: 535px;
+  position: absolute;
+  top: 837px;
+  width: 101px;
+}
+
+.element .img {
+  height: 70px;
+  left: 535px;
+  object-fit: cover;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.element .rectangle-2 {
+  height: 79px;
+  left: 663px;
+  object-fit: cover;
+  position: absolute;
+  top: 837px;
+  width: 111px;
+}
+
+.element .rectangle-3 {
+  height: 70px;
+  left: 663px;
+  object-fit: cover;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.element .rectangle-4 {
+  height: 70px;
+  left: 791px;
+  object-fit: cover;
+  position: absolute;
+  top: 837px;
+  width: 101px;
+}
+
+.element .evoltz-png {
+  height: 70px;
+  left: 791px;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.element .rectangle-5 {
+  height: 70px;
+  left: 913px;
+  object-fit: cover;
+  position: absolute;
+  top: 837px;
+  width: 107px;
+}
+
+.element .jungheinrich-png {
+  height: 70px;
+  left: 919px;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.element .rectangle-6 {
+  height: 70px;
+  left: 1033px;
+  object-fit: cover;
+  position: absolute;
+  top: 837px;
+  width: 115px;
+}
+
+.element .shopee-png {
+  height: 70px;
+  left: 1047px;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.element .overlap {
+  background-image: url(../../../static/img/rectangle-19.png);
   background-size: 100% 100%;
-  height: 111px;
-  left: 170px;
+  height: 139px;
+  left: 113px;
   position: absolute;
-  top: 1219px;
-  width: 122px;
-}
-
-.element .media-films {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 16px;
-  font-weight: 700;
-  left: 6px;
-  letter-spacing: 0.64px;
-  line-height: normal;
-  position: absolute;
-  top: 76px;
-  white-space: nowrap;
-}
-
-.element .next {
-  height: 30px;
-  left: 46px;
-  position: absolute;
-  top: 22px;
-  width: 30px;
-}
-
-.element .overlap-group-2 {
-  border: 0.8px solid;
-  border-color: #c8982a;
-  height: 111px;
-  left: 318px;
-  position: absolute;
-  top: 1054px;
-  width: 122px;
+  top: 1317px;
+  width: 152px;
 }
 
 .element .text-wrapper-3 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
-  left: 30px;
-  letter-spacing: 0.64px;
+  left: 51px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-  top: 78px;
+  top: 99px;
   white-space: nowrap;
 }
 
-.element .img-2 {
-  height: 30px;
-  left: 45px;
+.element .law {
+  height: 38px;
+  left: 57px;
   position: absolute;
-  top: 22px;
-  width: 30px;
+  top: 31px;
+  width: 38px;
 }
 
-.element .overlap-3 {
-  border: 0.8px solid;
-  border-color: #c8982a;
-  height: 111px;
-  left: 318px;
+.element .overlap-group {
+  background-image: url(../../../static/img/rectangle-19.png);
+  background-size: 100% 100%;
+  height: 139px;
+  left: 113px;
   position: absolute;
-  top: 1219px;
-  width: 122px;
+  top: 1524px;
+  width: 152px;
+}
+
+.element .media-films {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 8px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.element .next {
+  height: 38px;
+  left: 57px;
+  position: absolute;
+  top: 28px;
+  width: 38px;
+}
+
+.element .overlap-2 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  left: 297px;
+  position: absolute;
+  top: 1317px;
+  width: 152px;
 }
 
 .element .text-wrapper-4 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
-  left: 19px;
-  letter-spacing: 0.64px;
+  left: 37px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-  top: 78px;
+  top: 98px;
   white-space: nowrap;
 }
 
-.element .overlap-4 {
-  border: 0.8px solid;
-  border-color: #c8982a;
-  height: 111px;
-  left: 465px;
+.element .img-2 {
+  height: 38px;
+  left: 56px;
   position: absolute;
-  top: 1054px;
-  width: 122px;
+  top: 27px;
+  width: 38px;
+}
+
+.element .overlap-3 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  left: 297px;
+  position: absolute;
+  top: 1524px;
+  width: 152px;
 }
 
 .element .text-wrapper-5 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
-  left: 3px;
-  letter-spacing: 0.64px;
+  left: 24px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-  top: 78px;
+  top: 98px;
   white-space: nowrap;
 }
 
-.element .overlap-5 {
-  border: 0.8px solid;
+.element .overlap-4 {
+  border: 1px solid;
   border-color: #c8982a;
-  height: 111px;
-  left: 465px;
+  height: 139px;
+  left: 481px;
   position: absolute;
-  top: 1219px;
-  width: 122px;
+  top: 1317px;
+  width: 152px;
 }
 
 .element .text-wrapper-6 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
-  left: 15px;
-  letter-spacing: 0.64px;
+  left: 4px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-  top: 78px;
+  top: 98px;
   white-space: nowrap;
 }
 
-.element .overlap-6 {
-  border: 0.8px solid;
+.element .overlap-5 {
+  border: 1px solid;
   border-color: #c8982a;
-  height: 111px;
-  left: 612px;
+  height: 139px;
+  left: 481px;
   position: absolute;
-  top: 1054px;
-  width: 122px;
+  top: 1524px;
+  width: 152px;
 }
 
 .element .text-wrapper-7 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
-  left: 26px;
-  letter-spacing: 0.64px;
+  left: 19px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-  top: 78px;
+  top: 98px;
   white-space: nowrap;
 }
 
-.element .money-bag-pounds {
-  height: 30px;
-  left: 39px;
-  position: absolute;
-  top: 22px;
-  width: 30px;
-}
-
-.element .overlap-7 {
-  border: 0.8px solid;
+.element .overlap-group-2 {
+  border: 1px solid;
   border-color: #c8982a;
-  height: 111px;
-  left: 612px;
+  height: 139px;
+  left: 665px;
   position: absolute;
-  top: 1219px;
-  width: 122px;
+  top: 1317px;
+  width: 152px;
 }
 
 .element .text-wrapper-8 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
-  left: 21px;
-  letter-spacing: 0.64px;
+  left: 32px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-  top: 82px;
+  top: 98px;
   white-space: nowrap;
 }
 
-.element .overlap-8 {
-  border: 0.8px solid;
-  border-color: #c8982a;
-  height: 111px;
-  left: 759px;
+.element .money-bag-pounds {
+  height: 38px;
+  left: 49px;
   position: absolute;
-  top: 1054px;
-  width: 122px;
+  top: 27px;
+  width: 38px;
 }
 
-.element .overlap-9 {
-  border: 0.8px solid;
+.element .overlap-6 {
+  border: 1px solid;
   border-color: #c8982a;
-  height: 111px;
-  left: 759px;
+  height: 139px;
+  left: 665px;
   position: absolute;
-  top: 1219px;
-  width: 122px;
+  top: 1524px;
+  width: 152px;
 }
 
 .element .text-wrapper-9 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
-  left: 10px;
-  letter-spacing: 0.64px;
+  left: 26px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-  top: 78px;
+  top: 102px;
   white-space: nowrap;
 }
 
-.element .overlap-10 {
-  border: 0.8px solid;
+.element .overlap-7 {
+  border: 1px solid;
   border-color: #c8982a;
-  height: 111px;
-  left: 906px;
+  height: 139px;
+  left: 849px;
   position: absolute;
-  top: 1054px;
-  width: 122px;
+  top: 1317px;
+  width: 152px;
 }
 
-.element .overlap-11 {
-  border: 0.8px solid;
+.element .overlap-8 {
+  border: 1px solid;
   border-color: #c8982a;
-  height: 111px;
-  left: 906px;
+  height: 139px;
+  left: 849px;
   position: absolute;
-  top: 1219px;
-  width: 122px;
+  top: 1524px;
+  width: 152px;
 }
 
 .element .text-wrapper-10 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
-  left: 13px;
-  letter-spacing: 0.64px;
+  left: 12px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-  top: 78px;
+  top: 98px;
   white-space: nowrap;
+}
+
+.element .overlap-9 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  left: 1033px;
+  position: absolute;
+  top: 1317px;
+  width: 152px;
+}
+
+.element .overlap-10 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  left: 1033px;
+  position: absolute;
+  top: 1524px;
+  width: 152px;
 }
 
 .element .text-wrapper-11 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 30.2px;
+  font-size: 20px;
   font-weight: 700;
-  left: 411px;
-  letter-spacing: 1.21px;
+  left: 16px;
+  letter-spacing: 0.8px;
   line-height: normal;
   position: absolute;
-  top: 2073px;
-  width: 374px;
+  top: 98px;
+  white-space: nowrap;
 }
 
 .element .text-wrapper-12 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
-  font-weight: 400;
-  left: 222px;
-  letter-spacing: 0.64px;
-  line-height: 21.6px;
-  position: absolute;
-  text-align: center;
-  top: 2189px;
-  width: 751px;
-}
-
-.element .overlap-12 {
-  border: 0.8px solid;
-  border-color: #c8982a;
-  height: 164px;
-  left: 170px;
-  position: absolute;
-  top: 2281px;
-  width: 110px;
-}
-
-.element .document-translation {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 13.6px;
+  font-size: 37.7px;
   font-weight: 700;
-  left: 25px;
-  letter-spacing: 0.54px;
+  left: 414px;
+  letter-spacing: 1.51px;
   line-height: normal;
   position: absolute;
-  top: 81px;
-  width: 85px;
-}
-
-.element .img-3 {
-  height: 30px;
-  left: 39px;
-  position: absolute;
-  top: 30px;
-  width: 30px;
-}
-
-.element .overlap-13 {
-  border: 0.8px solid;
-  border-color: #c8982a;
-  height: 164px;
-  left: 321px;
-  position: absolute;
-  top: 2281px;
-  width: 110px;
-}
-
-.element .marketing-material {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 13.6px;
-  font-weight: 700;
-  left: 17px;
-  letter-spacing: 0.54px;
-  line-height: normal;
-  position: absolute;
-  top: 81px;
-  width: 74px;
-}
-
-.element .overlap-14 {
-  border: 0.8px solid;
-  border-color: #c8982a;
-  height: 164px;
-  left: 471px;
-  position: absolute;
-  top: 2281px;
-  width: 110px;
-}
-
-.element .website-apps {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 13.6px;
-  font-weight: 700;
-  left: 28px;
-  letter-spacing: 0.54px;
-  line-height: normal;
-  position: absolute;
-  top: 81px;
-  width: 62px;
-}
-
-.element .overlap-15 {
-  border: 0.8px solid;
-  border-color: #c8982a;
-  height: 164px;
-  left: 622px;
-  position: absolute;
-  top: 2281px;
-  width: 110px;
+  top: 2591px;
+  width: 468px;
 }
 
 .element .text-wrapper-13 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 13.6px;
-  font-weight: 700;
-  left: 23px;
-  letter-spacing: 0.54px;
-  line-height: normal;
+  font-size: 20px;
+  font-weight: 400;
+  left: 178px;
+  letter-spacing: 0.8px;
+  line-height: 27px;
   position: absolute;
-  top: 81px;
-  width: 78px;
+  text-align: center;
+  top: 2736px;
+  width: 939px;
 }
 
-.element .overlap-16 {
-  border: 0.8px solid;
+.element .overlap-11 {
+  border: 1px solid;
   border-color: #c8982a;
-  height: 164px;
-  left: 772px;
+  height: 205px;
+  left: 113px;
   position: absolute;
-  top: 2281px;
-  width: 110px;
+  top: 2851px;
+  width: 138px;
+}
+
+.element .document-translation {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  left: 31px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  position: absolute;
+  top: 101px;
+  width: 106px;
+}
+
+.element .img-3 {
+  height: 38px;
+  left: 49px;
+  position: absolute;
+  top: 38px;
+  width: 38px;
+}
+
+.element .overlap-12 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 205px;
+  left: 301px;
+  position: absolute;
+  top: 2851px;
+  width: 138px;
+}
+
+.element .marketing-material {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  left: 21px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  position: absolute;
+  top: 101px;
+  width: 93px;
+}
+
+.element .overlap-13 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 205px;
+  left: 489px;
+  position: absolute;
+  top: 2851px;
+  width: 138px;
+}
+
+.element .website-apps {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  left: 35px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  position: absolute;
+  top: 101px;
+  width: 77px;
+}
+
+.element .overlap-14 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 205px;
+  left: 677px;
+  position: absolute;
+  top: 2851px;
+  width: 138px;
 }
 
 .element .text-wrapper-14 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 13.6px;
+  font-size: 17px;
   font-weight: 700;
-  left: 14px;
-  letter-spacing: 0.54px;
+  left: 29px;
+  letter-spacing: 0.68px;
   line-height: normal;
   position: absolute;
-  top: 81px;
-  width: 94px;
+  top: 101px;
+  width: 97px;
 }
 
-.element .overlap-17 {
-  border: 0.8px solid;
+.element .overlap-15 {
+  border: 1px solid;
   border-color: #c8982a;
-  height: 164px;
-  left: 918px;
+  height: 205px;
+  left: 865px;
   position: absolute;
-  top: 2281px;
-  width: 110px;
+  top: 2851px;
+  width: 138px;
 }
 
 .element .text-wrapper-15 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 13.6px;
+  font-size: 17px;
   font-weight: 700;
-  left: 16px;
-  letter-spacing: 0.54px;
+  left: 18px;
+  letter-spacing: 0.68px;
   line-height: normal;
   position: absolute;
-  top: 79px;
-  width: 94px;
+  top: 101px;
+  width: 117px;
 }
 
-.element .biotech {
-  height: 30px;
-  left: 33px;
+.element .overlap-16 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 205px;
+  left: 1048px;
   position: absolute;
-  top: 30px;
-  width: 30px;
-}
-
-.element .group-2 {
-  height: 323px;
-  left: 144px;
-  position: absolute;
-  top: 164px;
-  width: 555px;
-}
-
-.element .h-1 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 47.9px;
-  font-weight: 700;
-  left: 0;
-  letter-spacing: 1.91px;
-  line-height: normal;
-  position: absolute;
-  top: 0;
-  width: 479px;
-}
-
-.element .element-languages-that {
-  color: #383836;
-  font-family: "Lato", Helvetica;
-  font-size: 17.2px;
-  font-weight: 700;
-  height: 104px;
-  left: 0;
-  letter-spacing: 0.52px;
-  line-height: 34.5px;
-  position: absolute;
-  top: 145px;
-  width: 551px;
-}
-
-.element .group-instance {
-  border-radius: 22.53px !important;
-  height: 45px !important;
-  left: 0 !important;
-  position: absolute !important;
-  top: 278px !important;
-  width: 263px !important;
-}
-
-.element .group-2-instance {
-  font-size: 16.4px !important;
-  height: 7px !important;
-  left: 49px !important;
-  letter-spacing: 0.82px !important;
-  line-height: 10.7px !important;
-  top: 18px !important;
-  width: 164px !important;
-}
-
-.element .design-component-instance-node {
-  border-radius: 22.53px !important;
-  height: 45px !important;
-  left: 466px !important;
-  position: absolute !important;
-  top: 1391px !important;
-  width: 263px !important;
-}
-
-.element .group-3 {
-  border-radius: 22.53px !important;
-  height: 45px !important;
-  left: 466px !important;
-  position: absolute !important;
-  top: 2511px !important;
-  width: 263px !important;
-}
-
-.element .our-growth-would-not {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 12.8px;
-  font-weight: 400;
-  left: 213px;
-  letter-spacing: 0.51px;
-  line-height: 21.1px;
-  position: absolute;
-  text-align: center;
-  top: 1848px;
-  width: 228px;
+  top: 2851px;
+  width: 138px;
 }
 
 .element .text-wrapper-16 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 12.8px;
+  font-size: 17px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  width: 117px;
+}
+
+.element .biotech {
+  height: 38px;
+  left: 41px;
+  position: absolute;
+  top: 38px;
+  width: 38px;
+}
+
+.element .group-2 {
+  height: 404px;
+  left: 64px;
+  position: absolute;
+  top: 187px;
+  width: 693px;
+}
+
+.element .h-1 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 59.8px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 2.39px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 599px;
+}
+
+.element .element-languages-that-2 {
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 21.5px;
+  font-weight: 700;
+  height: 130px;
+  left: 0;
+  letter-spacing: 0.65px;
+  line-height: 43.1px;
+  position: absolute;
+  top: 181px;
+  width: 689px;
+}
+
+.element .group-instance {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 348px !important;
+  width: 329px !important;
+}
+
+.element .group-2-instance {
+  font-size: 20.5px !important;
+  left: 62px !important;
+  letter-spacing: 1.03px !important;
+  line-height: 13.3px !important;
+  width: 205px !important;
+}
+
+.element .design-component-instance-node {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 482px !important;
+  position: absolute !important;
+  top: 1739px !important;
+  width: 329px !important;
+}
+
+.element .group-3 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 482px !important;
+  position: absolute !important;
+  top: 3139px !important;
+  width: 329px !important;
+}
+
+.element .our-growth-would-not {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
   font-weight: 400;
-  left: 483px;
-  letter-spacing: 0.51px;
-  line-height: 21px;
+  left: 166px;
+  letter-spacing: 0.64px;
+  line-height: 26.4px;
   position: absolute;
   text-align: center;
-  top: 1847px;
-  width: 228px;
+  top: 2310px;
+  width: 285px;
+}
+
+.element .text-wrapper-17 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 504px;
+  letter-spacing: 0.64px;
+  line-height: 26.2px;
+  position: absolute;
+  text-align: center;
+  top: 2309px;
+  width: 285px;
 }
 
 .element .we-are-a-german {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 12.8px;
+  font-size: 16px;
   font-weight: 400;
-  left: 752px;
-  letter-spacing: 0.51px;
-  line-height: 12.8px;
+  left: 840px;
+  letter-spacing: 0.64px;
+  line-height: 16px;
   position: absolute;
   text-align: center;
-  top: 1847px;
-  width: 228px;
+  top: 2309px;
+  width: 285px;
 }
 
 .element .span {
-  line-height: 17.1px;
-}
-
-.element .text-wrapper-17 {
-  line-height: 21px;
+  line-height: 21.4px;
 }
 
 .element .text-wrapper-18 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 29.6px;
-  font-weight: 700;
-  left: 383px;
-  letter-spacing: 1.18px;
-  line-height: normal;
-  position: absolute;
-  top: 1533px;
-  width: 430px;
-}
-
-.element .every-translation {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 16px;
-  font-weight: 400;
-  left: 280px;
-  letter-spacing: 0.64px;
-  line-height: 21.6px;
-  position: absolute;
-  text-align: center;
-  top: 1595px;
+  line-height: 26.2px;
 }
 
 .element .text-wrapper-19 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 14.4px;
+  font-size: 37px;
+  font-weight: 700;
+  left: 379px;
+  letter-spacing: 1.48px;
+  line-height: normal;
+  position: absolute;
+  top: 1916px;
+  width: 537px;
+}
+
+.element .every-translation {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
   font-weight: 400;
-  left: 279px;
-  letter-spacing: 0.58px;
-  line-height: 23.8px;
+  left: 250px;
+  letter-spacing: 0.8px;
+  line-height: 27px;
   position: absolute;
   text-align: center;
-  top: 1792px;
-  white-space: nowrap;
+  top: 1994px;
 }
 
 .element .text-wrapper-20 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 14.4px;
+  font-size: 18px;
   font-weight: 400;
-  left: 569px;
-  letter-spacing: 0.58px;
-  line-height: 23.8px;
+  left: 249px;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
   position: absolute;
   text-align: center;
-  top: 1792px;
+  top: 2240px;
   white-space: nowrap;
 }
 
 .element .text-wrapper-21 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 14.4px;
+  font-size: 18px;
   font-weight: 400;
-  left: 817px;
-  letter-spacing: 0.58px;
-  line-height: 23.8px;
+  left: 611px;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
   position: absolute;
   text-align: center;
-  top: 1792px;
+  top: 2240px;
   white-space: nowrap;
 }
 
 .element .text-wrapper-22 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 14.4px;
+  font-size: 18px;
   font-weight: 400;
-  left: 270px;
-  letter-spacing: 0.58px;
-  line-height: 23.8px;
+  left: 921px;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
   position: absolute;
   text-align: center;
-  top: 1762px;
+  top: 2240px;
   white-space: nowrap;
 }
 
 .element .text-wrapper-23 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 14.4px;
+  font-size: 18px;
   font-weight: 400;
-  left: 558px;
-  letter-spacing: 0.58px;
-  line-height: 23.8px;
+  left: 238px;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
   position: absolute;
   text-align: center;
-  top: 1762px;
+  top: 2202px;
   white-space: nowrap;
 }
 
 .element .text-wrapper-24 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 14.4px;
+  font-size: 18px;
   font-weight: 400;
-  left: 798px;
-  letter-spacing: 0.58px;
-  line-height: 23.8px;
+  left: 597px;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
   position: absolute;
   text-align: center;
-  top: 1762px;
+  top: 2202px;
+  white-space: nowrap;
+}
+
+.element .text-wrapper-25 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 897px;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
+  position: absolute;
+  text-align: center;
+  top: 2202px;
   white-space: nowrap;
 }
 
 .element .ellipse {
-  height: 67px;
-  left: 288px;
+  height: 84px;
+  left: 260px;
   object-fit: cover;
   position: absolute;
-  top: 1674px;
-  width: 67px;
+  top: 2092px;
+  width: 84px;
 }
 
 .element .ellipse-2 {
-  height: 67px;
-  left: 563px;
+  height: 84px;
+  left: 604px;
   object-fit: cover;
   position: absolute;
-  top: 1672px;
-  width: 67px;
+  top: 2090px;
+  width: 84px;
 }
 
 .element .ellipse-3 {
-  height: 67px;
-  left: 855px;
+  height: 84px;
+  left: 969px;
   object-fit: cover;
   position: absolute;
-  top: 1674px;
-  width: 67px;
+  top: 2092px;
+  width: 84px;
 }
 
 .element .star {
-  height: 15px;
-  left: 270px;
+  height: 19px;
+  left: 237px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-2 {
-  height: 15px;
-  left: 543px;
+  height: 19px;
+  left: 578px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-3 {
-  height: 15px;
-  left: 811px;
+  height: 19px;
+  left: 913px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-4 {
-  height: 15px;
-  left: 294px;
+  height: 19px;
+  left: 267px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-5 {
-  height: 15px;
-  left: 567px;
+  height: 19px;
+  left: 608px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-6 {
-  height: 15px;
-  left: 835px;
+  height: 19px;
+  left: 943px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-7 {
-  height: 15px;
-  left: 318px;
+  height: 19px;
+  left: 297px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-8 {
-  height: 15px;
-  left: 591px;
+  height: 19px;
+  left: 638px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-9 {
-  height: 15px;
-  left: 859px;
+  height: 19px;
+  left: 973px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-10 {
-  height: 15px;
-  left: 342px;
+  height: 19px;
+  left: 327px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-11 {
-  height: 15px;
-  left: 615px;
+  height: 19px;
+  left: 668px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-12 {
-  height: 15px;
-  left: 883px;
+  height: 19px;
+  left: 1003px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-13 {
-  height: 15px;
-  left: 366px;
+  height: 19px;
+  left: 357px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-14 {
-  height: 15px;
-  left: 639px;
+  height: 19px;
+  left: 698px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
 .element .star-15 {
-  height: 15px;
-  left: 907px;
+  height: 19px;
+  left: 1033px;
   position: absolute;
-  top: 1981px;
-  width: 18px;
+  top: 2476px;
+  width: 23px;
 }
 
-.element .magma-translation {
-  height: 43px;
-  left: 148px;
+.element .magma-translation-2 {
+  height: 54px;
+  left: 64px;
   position: absolute;
-  top: 44px;
-  width: 155px;
+  top: 40px;
+  width: 194px;
 }
 
 .element .frame {
   background-color: #000000;
-  height: 312px;
+  height: 390px;
   left: 1px;
   position: absolute;
-  top: 2594px;
-  width: 1199px;
-}
-
-.element .text-wrapper-25 {
-  color: #ffffff;
-  font-family: "Lato", Helvetica;
-  font-size: 14.4px;
-  font-weight: 400;
-  left: 283px;
-  letter-spacing: 0.58px;
-  line-height: 23.8px;
-  position: absolute;
-  top: 95px;
-  width: 653px;
+  top: 3243px;
+  width: 1299px;
 }
 
 .element .text-wrapper-26 {
   color: #ffffff;
   font-family: "Lato", Helvetica;
-  font-size: 14.4px;
+  font-size: 18px;
   font-weight: 400;
-  left: 283px;
-  letter-spacing: 0.58px;
-  line-height: 23.8px;
+  left: 255px;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
   position: absolute;
-  top: 196px;
+  top: 113px;
+  width: 816px;
+}
+
+.element .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 255px;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
+  position: absolute;
+  top: 248px;
   white-space: nowrap;
-  width: 423px;
+  width: 529px;
 }

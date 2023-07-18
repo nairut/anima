@@ -1,7 +1,7 @@
 import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Element } from "./screens/Element";
-import { TranslationService } from "./screens/TranslationService";
+import { Celular } from "./screens/Celular";
 
 const router = createBrowserRouter([
   {
@@ -9,12 +9,12 @@ const router = createBrowserRouter([
     element: <Element />,
   },
   {
-    path: "/1501",
+    path: "/1300",
     element: <Element />,
   },
   {
-    path: "/translation-service",
-    element: <TranslationService />,
+    path: "/celular",
+    element: <Celular />,
   },
 ]);
 
