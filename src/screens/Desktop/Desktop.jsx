@@ -5,36 +5,17 @@ import "./style.css";
 export const Desktop = () => {
   return (
     <div className="desktop">
-      <div className="div">
-
-
-
-      <form name="turian" method="post" action="/">
-      <input type="hidden" name="form-name" value="turian" />
-        <div className="overlap">
-          <div className="rectangle" />
-          <input type="text" name="name" className="name" placeholder="Enter your name" />
+      <div className="div-2">
+        <div className="overlap-19">
+          <div className="rectangle-4" />
+          <input className="name" />
         </div>
-
-
-        <button  type="submit" >
-        <div className="overlap-group">
-          <div className="talk-to-an-expert">TALK TO AN EXPERT</div>
+        <div className="overlap-group-2">
+          <div className="rectangle-5" />
+          <div className="talk-to-an-expert-3">TALK TO AN EXPERT</div>
         </div>
-        </button>
-
-        </form>
-
-
-
-
-        <Lady className="lady-instance" />
+        <Lady className="design-component-instance-node" />
       </div>
     </div>
   );
 };
-
-
-
-
-

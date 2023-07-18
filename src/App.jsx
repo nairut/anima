@@ -2,6 +2,7 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Desktop } from "./screens/Desktop";
 import { ThankYou } from "./screens/ThankYou";
+import { Index } from "./screens/Index";
 
 const router = createBrowserRouter([
   {
@@ -15,6 +16,10 @@ const router = createBrowserRouter([
   {
     path: "/thank-you",
     element: <ThankYou />,
+  },
+  {
+    path: "/index",
+    element: <Index />,
   },
 ]);
 
