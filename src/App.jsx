@@ -7,7 +7,7 @@ import { TranslationServiceScreen } from "./screens/TranslationServiceScreen";
 const router = createBrowserRouter([
   {
     path: "/*",
-    element: <TranslationService />,
+    element: <Celular />,
   },
   {
     path: "/translation-service-2",
@@ -15,7 +15,7 @@ const router = createBrowserRouter([
   },
   {
     path: "/celular",
-    element: <Celular />,
+    element: <TranslationService />,
   },
   {
     path: "/translation-service",
