@@ -3349,20 +3349,20 @@ export const IphoneProMax = () => {
                 Linguists with Master&#39;s Degrees
               </p>
               <Group
-                className={`${screenWidth >= 1000 && screenWidth < 1201 && "class-8"} ${
-                  ((screenWidth >= 1201 && screenWidth < 1300) ||
-                    (screenWidth >= 1300 && screenWidth < 1400) ||
-                    (screenWidth >= 1400 && screenWidth < 1500) ||
-                    screenWidth >= 1500) &&
-                  "class-9"
-                }`}
-                property1="default"
-                talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-6"} ${
+                className={`${screenWidth >= 1000 && screenWidth < 1201 && "class-6"} ${
                   ((screenWidth >= 1201 && screenWidth < 1300) ||
                     (screenWidth >= 1300 && screenWidth < 1400) ||
                     (screenWidth >= 1400 && screenWidth < 1500) ||
                     screenWidth >= 1500) &&
                   "class-7"
+                }`}
+                property1="default"
+                talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-8"} ${
+                  ((screenWidth >= 1201 && screenWidth < 1300) ||
+                    (screenWidth >= 1300 && screenWidth < 1400) ||
+                    (screenWidth >= 1400 && screenWidth < 1500) ||
+                    screenWidth >= 1500) &&
+                  "class-9"
                 }`}
               />
             </div>
@@ -3373,12 +3373,12 @@ export const IphoneProMax = () => {
                 screenWidth >= 1400 && screenWidth < 1500 && "class-13"
               } ${screenWidth >= 1500 && "class-14"}`}
               property1="default"
-              talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-6"} ${
+              talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-8"} ${
                 ((screenWidth >= 1201 && screenWidth < 1300) ||
                   (screenWidth >= 1300 && screenWidth < 1400) ||
                   (screenWidth >= 1400 && screenWidth < 1500) ||
                   screenWidth >= 1500) &&
-                "class-7"
+                "class-9"
               }`}
             />
             <Group
@@ -3388,12 +3388,12 @@ export const IphoneProMax = () => {
                 screenWidth >= 1400 && screenWidth < 1500 && "class-18"
               } ${screenWidth >= 1500 && "class-19"}`}
               property1="default"
-              talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-6"} ${
+              talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-8"} ${
                 ((screenWidth >= 1201 && screenWidth < 1300) ||
                   (screenWidth >= 1300 && screenWidth < 1400) ||
                   (screenWidth >= 1400 && screenWidth < 1500) ||
                   screenWidth >= 1500) &&
-                "class-7"
+                "class-9"
               }`}
             />
             <p
