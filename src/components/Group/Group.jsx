@@ -6,16 +6,18 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 import PropTypes from "prop-types";
 import React from "react";
 import { useReducer } from "react";
+import { Link } from "react-router-dom";
 import "./style.css";
 
-export const Group = ({ property1, className, talkToAnExpertClassName }) => {
+export const Group = ({ property1, className, talkToAnExpertClassName, to }) => {
   const [state, dispatch] = useReducer(reducer, {
     property1: property1 || "default",
   });
 
   return (
-    <div
+    <Link
       className={`group ${state.property1} ${className}`}
+      to={to}
       onMouseEnter={() => {
         dispatch("mouse_enter");
       }}
@@ -24,7 +26,7 @@ export const Group = ({ property1, className, talkToAnExpertClassName }) => {
       }}
     >
       <div className={`talk-to-an-expert ${talkToAnExpertClassName}`}>TALK TO AN EXPERT</div>
-    </div>
+    </Link>
   );
 };
 
@@ -48,4 +50,5 @@ function reducer(state, action) {
 
 Group.propTypes = {
   property1: PropTypes.oneOf(["variant-2", "default"]),
+  to: PropTypes.string,
 };

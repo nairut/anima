@@ -1,0 +1,59 @@
+.translation-service {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.translation-service .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1024px;
+  position: relative;
+  width: 1200px;
+}
+
+.translation-service .rectangle {
+  background-color: #d9d9d9;
+  height: 347px;
+  left: 95px;
+  position: absolute;
+  top: 93px;
+  width: 356px;
+}
+
+.translation-service .overlap-group {
+  height: 577px;
+  left: 546px;
+  position: absolute;
+  top: 165px;
+  width: 590px;
+}
+
+.translation-service .rectangle-2 {
+  background-color: #d9d9d9;
+  height: 347px;
+  left: 0;
+  position: absolute;
+  top: 230px;
+  width: 356px;
+}
+
+.translation-service .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 347px;
+  left: 234px;
+  position: absolute;
+  top: 0;
+  width: 356px;
+}
+
+.translation-service .rectangle-4 {
+  background-color: #d9d9d9;
+  height: 347px;
+  left: 95px;
+  position: absolute;
+  top: 568px;
+  width: 356px;
+}
