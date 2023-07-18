@@ -1,22 +1,6 @@
 import React from "react";
 import { Group } from "../../components/Group";
 import { Lady } from "../../components/Lady";
-import { MagmaTranslation } from "../../components/MagmaTranslation";
-import { Star106 } from "../../icons/Star106";
-import { Star117 } from "../../icons/Star117";
-import { Star127 } from "../../icons/Star127";
-import { Star137 } from "../../icons/Star137";
-import { Star147 } from "../../icons/Star147";
-import { Star157 } from "../../icons/Star157";
-import { Star17 } from "../../icons/Star17";
-import { Star27 } from "../../icons/Star27";
-import { Star37 } from "../../icons/Star37";
-import { Star47 } from "../../icons/Star47";
-import { Star57 } from "../../icons/Star57";
-import { Star66 } from "../../icons/Star66";
-import { Star76 } from "../../icons/Star76";
-import { Star86 } from "../../icons/Star86";
-import { Star96 } from "../../icons/Star96";
 import "./style.css";
 
 export const Index = () => {
@@ -29,7 +13,8 @@ export const Index = () => {
             120 languages that fits in your budget
             <br />
             Human Translation done with the highest quality in the market
-            <br /> Linguists with Master&#39;s Degrees
+            <br />
+            Linguists with Master&#39;s Degrees
           </p>
           <Group className="group-instance" property1="default" talkToAnExpertClassName="group-2-instance" />
         </div>
@@ -46,7 +31,6 @@ export const Index = () => {
           </div>
         </div>
         <Lady className="lady-instance" />
-        <MagmaTranslation className="magma-translation-png" />
         <p className="p">Trusted by Elite Businesses Worldwide</p>
         <p className="text-wrapper-2">Costumized to Fit your Specific Industry Needs</p>
         <img className="img" alt="Group" src="/img/group-6.png" />
@@ -111,42 +95,36 @@ export const Index = () => {
             <br />
             Translation
           </div>
-          <img className="img-3" alt="Pdf" src="/img/pdf.png" />
+          <img className="PDF" alt="Pdf" src="/img/pdf.png" />
         </div>
         <div className="overlap-14">
           <div className="marketing-material">Marketing Material &amp; Ads</div>
           <img className="goal" alt="Goal" src="/img/goal.png" />
         </div>
         <div className="overlap-15">
-          <div className="rectangle-3" />
-          <div className="rectangle-2" />
-          <div className="website-apps">Website &amp; Apps</div>
-          <img className="website" alt="Website" src="/img/website.png" />
-        </div>
-        <div className="overlap-16">
-          <div className="rectangle-3" />
           <div className="rectangle-2" />
           <div className="text-wrapper-14">Video Subtitling</div>
-          <img className="img-3" alt="Video camera" src="/img/video-camera.png" />
+          <img className="video-camera" alt="Video camera" src="/img/video-camera.png" />
         </div>
-        <div className="overlap-17">
-          <div className="rectangle-3" />
-          <div className="rectangle-2" />
-          <div className="text-wrapper-15">Product Descriptions</div>
-          <img className="e-commerce" alt="E commerce" src="/img/e-commerce.png" />
-        </div>
-        <div className="overlap-18">
-          <div className="rectangle-3" />
-          <div className="rectangle-2" />
+        <div className="overlap-16">
           <div className="rectangle-2" />
           <div className="text-wrapper-15">Articles, certificates, and more</div>
           <img className="biotech" alt="Biotech" src="/img/biotech.png" />
+        </div>
+        <div className="overlap-17">
+          <div className="website-apps">Website &amp; Apps</div>
+          <img className="website" alt="Website" src="/img/website.png" />
+        </div>
+        <div className="overlap-18">
+          <div className="rectangle-2" />
+          <div className="text-wrapper-16">Product Descriptions</div>
+          <img className="e-commerce" alt="E commerce" src="/img/e-commerce.png" />
         </div>
         <p className="our-growth-would-not">
           Our Growth would not have been possible without Magma Translation. <br />
           Our internationalization occurred through the expertise of their team.
         </p>
-        <p className="text-wrapper-16">
+        <p className="text-wrapper-17">
           What we were looking for in Magma was the cultural localization, their deep understanding of how people think
           in other countries, specially of the US, UK and Germany for our projects
         </p>
@@ -154,45 +132,46 @@ export const Index = () => {
           <span className="span">
             We are a German company, the largest auto parts manufacturer in the world. For us, trust in data security is{" "}
           </span>
-          <span className="text-wrapper-17">essential</span>
+          <span className="text-wrapper-18">essential</span>
           <span className="span">. Magma Translation is a trusted company.</span>
         </p>
-        <div className="text-wrapper-18">Highest Quality Guaranteed</div>
+        <div className="text-wrapper-19">Highest Quality Guaranteed</div>
         <p className="every-translation">
           Every translation undergoes thorough proofreading and validation by <br />
           both our team of professional external editors and our internal language specialists.
         </p>
-        <div className="text-wrapper-19">Shopee.com</div>
-        <div className="text-wrapper-20">Hotmart</div>
-        <div className="text-wrapper-21">ZF Friedrichshafen</div>
-        <div className="text-wrapper-22">Milton Santana</div>
-        <div className="text-wrapper-23">Bruno Vidal</div>
-        <div className="text-wrapper-24">Danielle Schmitt Capote</div>
+        <div className="text-wrapper-20">Shopee.com</div>
+        <div className="text-wrapper-21">Hotmart</div>
+        <div className="text-wrapper-22">ZF Friedrichshafen</div>
+        <div className="text-wrapper-23">Milton Santana</div>
+        <div className="text-wrapper-24">Bruno Vidal</div>
+        <div className="text-wrapper-25">Danielle Schmitt Capote</div>
         <img className="ellipse" alt="Ellipse" src="/img/ellipse-1.png" />
         <img className="ellipse-2" alt="Ellipse" src="/img/ellipse-2.png" />
         <img className="ellipse-3" alt="Ellipse" src="/img/ellipse-3.png" />
-        <Star17 className="star" />
-        <Star66 className="star-6-6" />
-        <Star117 className="star-11-7" />
-        <Star27 className="star-2-7" />
-        <Star76 className="star-7-6" />
-        <Star127 className="star-12-7" />
-        <Star37 className="star-3-7" />
-        <Star86 className="star-8-6" />
-        <Star137 className="star-13-7" />
-        <Star47 className="star-4-7" />
-        <Star96 className="star-9-6" />
-        <Star147 className="star-14-7" />
-        <Star57 className="star-5-7" />
-        <Star106 className="star-10-6" />
-        <Star157 className="star-15-7" />
+        <img className="star" alt="Star" src="/img/star-1.png" />
+        <img className="star-2" alt="Star" src="/img/star-1.png" />
+        <img className="star-3" alt="Star" src="/img/star-1.png" />
+        <img className="star-4" alt="Star" src="/img/star-1.png" />
+        <img className="star-5" alt="Star" src="/img/star-1.png" />
+        <img className="star-6" alt="Star" src="/img/star-1.png" />
+        <img className="star-7" alt="Star" src="/img/star-3.png" />
+        <img className="star-8" alt="Star" src="/img/star-3.png" />
+        <img className="star-9" alt="Star" src="/img/star-3.png" />
+        <img className="star-10" alt="Star" src="/img/star-1.png" />
+        <img className="star-11" alt="Star" src="/img/star-1.png" />
+        <img className="star-12" alt="Star" src="/img/star-1.png" />
+        <img className="star-13" alt="Star" src="/img/star-1.png" />
+        <img className="star-14" alt="Star" src="/img/star-1.png" />
+        <img className="star-15" alt="Star" src="/img/star-1.png" />
         <div className="frame">
-          <p className="text-wrapper-25">
+          <p className="text-wrapper-26">
             MAGMA is a global localization solutions provider, enabling brands to establish an authentic presence in
             diverse markets around the world.
           </p>
-          <p className="text-wrapper-26">Magma Translation | All rights reserved. ©Magma™</p>
+          <p className="text-wrapper-27">Magma Translation | All rights reserved. ©Magma™</p>
         </div>
+        <img className="magma-translation" alt="Magma translation" src="/img/magma-translation-png.png" />
       </div>
     </div>
   );
