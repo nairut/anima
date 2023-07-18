@@ -1,1 +1,0 @@
-export { IphoneProMax } from "./IphoneProMax";
