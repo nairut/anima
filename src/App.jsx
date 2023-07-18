@@ -4,16 +4,13 @@ import { TranslationService } from "./screens/TranslationService";
 import { Celular } from "./screens/Celular";
 
 const router = createBrowserRouter([
-  {
-    path: "/*",
-    element: <TranslationService />,
-  },
+
   {
     path: "/translation-service-2-all-breakpoints",
     element: <TranslationService />,
   },
   {
-    path: "/celular",
+    path: "/*",
     element: <Celular />,
   },
 ]);
