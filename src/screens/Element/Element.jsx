@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import { Group } from "../../components/Group";
 import { Lady } from "../../components/Lady";
 import "./style.css";
@@ -9,9 +8,7 @@ export const Element = () => {
     <div className="element">
       <div className="div-2">
         <Lady className="lady-instance" />
-        <Link to="/celular">
-          <p className="p">Trusted by Elite Businesses Worldwide</p>
-        </Link>
+        <p className="p">Trusted by Elite Businesses Worldwide</p>
         <p className="text-wrapper-2">Costumized to Fit your Specific Industry Needs</p>
         <img className="zapier-png" alt="Zapier png" src="/img/zapier-png-0.png" />
         <img className="abbott-png" alt="Abbott png" src="/img/abbott-png-0.png" />
@@ -130,8 +127,9 @@ export const Element = () => {
           className="design-component-instance-node"
           property1="default"
           talkToAnExpertClassName="group-2-instance"
+          to="/celular"
         />
-        <Group className="group-3" property1="default" talkToAnExpertClassName="group-2-instance" />
+        <Group className="group-3" property1="default" talkToAnExpertClassName="group-2-instance" to="/celular" />
         <p className="our-growth-would-not">
           Our Growth would not have been possible without Magma Translation. <br />
           Our internationalization occurred through the expertise of their team.
@@ -177,13 +175,12 @@ export const Element = () => {
         <img className="star-14" alt="Star" src="/img/star-16.png" />
         <img className="star-15" alt="Star" src="/img/star-16.png" />
         <img className="magma-translation-2" alt="Magma translation" src="/img/magma-translation-png.png" />
-        <div className="frame">
-          <p className="text-wrapper-26">
-            MAGMA is a global localization solutions provider, enabling brands to establish an authentic presence in
-            diverse markets around the world.
-          </p>
-          <p className="text-wrapper-27">Magma Translation | All rights reserved. ©Magma™</p>
-        </div>
+        <p className="text-wrapper-26">Magma Translation | All rights reserved. ©Magma™</p>
+        <p className="text-wrapper-27">
+          MAGMA is a global localization solutions provider, enabling brands to establish an authentic presence in
+          diverse markets around the world.
+        </p>
+        <img className="line" alt="Line" src="/img/line-1.png" />
       </div>
     </div>
   );
