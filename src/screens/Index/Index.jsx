@@ -24,12 +24,6 @@ export const Index = () => {
             <div className="talk-to-an-expert-2">TALK TO AN EXPERT</div>
           </div>
         </div>
-        <div className="overlap-wrapper">
-          <div className="overlap-group">
-            <div className="rectangle" />
-            <div className="talk-to-an-expert-2">TALK TO AN EXPERT</div>
-          </div>
-        </div>
         <Lady className="lady-instance" />
         <p className="p">Trusted by Elite Businesses Worldwide</p>
         <p className="text-wrapper-2">Costumized to Fit your Specific Industry Needs</p>
@@ -170,6 +164,12 @@ export const Index = () => {
             diverse markets around the world.
           </p>
           <p className="text-wrapper-27">Magma Translation | All rights reserved. ©Magma™</p>
+        </div>
+        <div className="overlap-wrapper">
+          <div className="overlap-group">
+            <div className="rectangle" />
+            <div className="talk-to-an-expert-2">TALK TO AN EXPERT</div>
+          </div>
         </div>
         <img className="magma-translation" alt="Magma translation" src="/img/magma-translation-png.png" />
       </div>

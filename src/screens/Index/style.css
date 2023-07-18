@@ -55,16 +55,15 @@
   left: 0 !important;
   position: absolute !important;
   top: 348px !important;
-  transition: all 0.2s ease !important;
-  width: 366px !important;
+  width: 329px !important;
 }
 
 .index .group-2-instance {
   font-size: 20.5px !important;
-  left: 69px !important;
+  left: 62px !important;
   letter-spacing: 1.03px !important;
   line-height: 13.3px !important;
-  width: 228px !important;
+  width: 205px !important;
 }
 
 .index .overlap-group-wrapper {
@@ -106,15 +105,6 @@
   top: 22px;
   white-space: nowrap;
   width: 228px;
-}
-
-.index .overlap-wrapper {
-  height: 56px;
-  left: 407px;
-  position: absolute;
-  top: 3379px;
-  transition: all 0.2s ease;
-  width: 366px;
 }
 
 .index .lady-instance {
@@ -998,6 +988,15 @@
   top: 249px;
   white-space: nowrap;
   width: 529px;
+}
+
+.index .overlap-wrapper {
+  height: 56px;
+  left: 416px;
+  position: absolute;
+  top: 3346px;
+  transition: all 0.2s ease;
+  width: 366px;
 }
 
 .index .magma-translation {
