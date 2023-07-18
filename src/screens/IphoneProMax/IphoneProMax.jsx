@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import { useWindowWidth } from "../../breakpoints";
 import { Group } from "../../components/Group";
 import { Lady } from "../../components/Lady";
@@ -61,9 +60,6 @@ export const IphoneProMax = () => {
               <br />
               Linguists with Master&#39;s Degrees
             </p>
-            <Link className="click-to-discover-wrapper" to="/iphone-14-pro-max-2">
-              <div className="click-to-discover">CLICK TO DISCOVER</div>
-            </Link>
           </>
         )}
 
@@ -190,80 +186,61 @@ export const IphoneProMax = () => {
             >
               Costumized to Fit your Specific Industry Needs
             </p>
-          </>
-        )}
-
-        <img
-          className="magma-translation"
-          style={{
-            height:
-              screenWidth < 1000
-                ? "54px"
-                : screenWidth >= 1000 && screenWidth < 1201
-                ? "155px"
-                : (screenWidth >= 1201 && screenWidth < 1300) ||
-                  (screenWidth >= 1300 && screenWidth < 1400) ||
-                  (screenWidth >= 1400 && screenWidth < 1500) ||
-                  screenWidth >= 1500
-                ? "186px"
-                : undefined,
-            left:
-              screenWidth < 1000
-                ? "118px"
-                : screenWidth >= 1000 && screenWidth < 1201
-                ? "85px"
-                : screenWidth >= 1201 && screenWidth < 1300
-                ? "102px"
-                : screenWidth >= 1300 && screenWidth < 1400
-                ? "151px"
-                : screenWidth >= 1400 && screenWidth < 1500
-                ? "201px"
-                : screenWidth >= 1500
-                ? "251px"
-                : undefined,
-            top:
-              screenWidth < 1000
-                ? "34px"
-                : screenWidth >= 1000 && screenWidth < 1201
-                ? "697px"
-                : (screenWidth >= 1201 && screenWidth < 1300) ||
-                  (screenWidth >= 1300 && screenWidth < 1400) ||
-                  (screenWidth >= 1400 && screenWidth < 1500) ||
-                  screenWidth >= 1500
-                ? "837px"
-                : undefined,
-            width:
-              screenWidth < 1000
-                ? "194px"
-                : screenWidth >= 1000 && screenWidth < 1201
-                ? "830px"
-                : (screenWidth >= 1201 && screenWidth < 1300) ||
-                  (screenWidth >= 1300 && screenWidth < 1400) ||
-                  (screenWidth >= 1400 && screenWidth < 1500) ||
-                  screenWidth >= 1500
-                ? "997px"
-                : undefined,
-          }}
-          alt="Magma translation"
-          src={
-            screenWidth < 1000
-              ? "/img/magma-translation-png.png"
-              : screenWidth >= 1000 && screenWidth < 1201
-              ? "/img/group-8-8.png"
-              : (screenWidth >= 1201 && screenWidth < 1300) ||
-                (screenWidth >= 1300 && screenWidth < 1400) ||
-                (screenWidth >= 1400 && screenWidth < 1500) ||
-                screenWidth >= 1500
-              ? "/img/group-8.png"
-              : undefined
-          }
-        />
-        {((screenWidth >= 1000 && screenWidth < 1201) ||
-          (screenWidth >= 1201 && screenWidth < 1300) ||
-          (screenWidth >= 1300 && screenWidth < 1400) ||
-          (screenWidth >= 1400 && screenWidth < 1500) ||
-          screenWidth >= 1500) && (
-          <>
+            <img
+              className="img"
+              style={{
+                height:
+                  screenWidth >= 1000 && screenWidth < 1201
+                    ? "155px"
+                    : (screenWidth >= 1201 && screenWidth < 1300) ||
+                      (screenWidth >= 1300 && screenWidth < 1400) ||
+                      (screenWidth >= 1400 && screenWidth < 1500) ||
+                      screenWidth >= 1500
+                    ? "186px"
+                    : undefined,
+                left:
+                  screenWidth >= 1000 && screenWidth < 1201
+                    ? "85px"
+                    : screenWidth >= 1201 && screenWidth < 1300
+                    ? "102px"
+                    : screenWidth >= 1300 && screenWidth < 1400
+                    ? "151px"
+                    : screenWidth >= 1400 && screenWidth < 1500
+                    ? "201px"
+                    : screenWidth >= 1500
+                    ? "251px"
+                    : undefined,
+                top:
+                  screenWidth >= 1000 && screenWidth < 1201
+                    ? "697px"
+                    : (screenWidth >= 1201 && screenWidth < 1300) ||
+                      (screenWidth >= 1300 && screenWidth < 1400) ||
+                      (screenWidth >= 1400 && screenWidth < 1500) ||
+                      screenWidth >= 1500
+                    ? "837px"
+                    : undefined,
+                width:
+                  screenWidth >= 1000 && screenWidth < 1201
+                    ? "830px"
+                    : (screenWidth >= 1201 && screenWidth < 1300) ||
+                      (screenWidth >= 1300 && screenWidth < 1400) ||
+                      (screenWidth >= 1400 && screenWidth < 1500) ||
+                      screenWidth >= 1500
+                    ? "997px"
+                    : undefined,
+              }}
+              alt="Group"
+              src={
+                screenWidth >= 1000 && screenWidth < 1201
+                  ? "/img/group-8-8.png"
+                  : (screenWidth >= 1201 && screenWidth < 1300) ||
+                    (screenWidth >= 1300 && screenWidth < 1400) ||
+                    (screenWidth >= 1400 && screenWidth < 1500) ||
+                    screenWidth >= 1500
+                  ? "/img/group-8.png"
+                  : undefined
+              }
+            />
             <div
               className="overlap"
               style={{
@@ -421,7 +398,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-group"
+              className="overlap-2"
               style={{
                 backgroundImage:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -577,7 +554,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-2"
+              className="overlap-3"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -733,7 +710,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-3"
+              className="overlap-4"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -889,7 +866,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-4"
+              className="overlap-5"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -1045,7 +1022,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-5"
+              className="overlap-6"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -1201,7 +1178,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-6"
+              className="overlap-7"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -1357,7 +1334,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-7"
+              className="overlap-8"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -1513,7 +1490,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-8"
+              className="overlap-9"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -1825,7 +1802,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-9"
+              className="overlap-10"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -1981,7 +1958,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-10"
+              className="overlap-11"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -2257,7 +2234,7 @@ export const IphoneProMax = () => {
               undermentioned file types
             </p>
             <div
-              className="overlap-11"
+              className="overlap-12"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -2417,7 +2394,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-12"
+              className="overlap-13"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -2575,7 +2552,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-13"
+              className="overlap-14"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -2733,7 +2710,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-14"
+              className="overlap-15"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -2891,7 +2868,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-15"
+              className="overlap-16"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -3049,7 +3026,7 @@ export const IphoneProMax = () => {
               />
             </div>
             <div
-              className="overlap-16"
+              className="overlap-17"
               style={{
                 border:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -3154,7 +3131,7 @@ export const IphoneProMax = () => {
                 Articles, certificates, and more
               </div>
               <img
-                className="img"
+                className="biotech-2"
                 style={{
                   height:
                     screenWidth >= 1000 && screenWidth < 1201
@@ -3349,20 +3326,20 @@ export const IphoneProMax = () => {
                 Linguists with Master&#39;s Degrees
               </p>
               <Group
-                className={`${screenWidth >= 1000 && screenWidth < 1201 && "class-6"} ${
-                  ((screenWidth >= 1201 && screenWidth < 1300) ||
-                    (screenWidth >= 1300 && screenWidth < 1400) ||
-                    (screenWidth >= 1400 && screenWidth < 1500) ||
-                    screenWidth >= 1500) &&
-                  "class-7"
-                }`}
-                property1="default"
-                talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-8"} ${
+                className={`${screenWidth >= 1000 && screenWidth < 1201 && "class-8"} ${
                   ((screenWidth >= 1201 && screenWidth < 1300) ||
                     (screenWidth >= 1300 && screenWidth < 1400) ||
                     (screenWidth >= 1400 && screenWidth < 1500) ||
                     screenWidth >= 1500) &&
                   "class-9"
+                }`}
+                property1="default"
+                talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-6"} ${
+                  ((screenWidth >= 1201 && screenWidth < 1300) ||
+                    (screenWidth >= 1300 && screenWidth < 1400) ||
+                    (screenWidth >= 1400 && screenWidth < 1500) ||
+                    screenWidth >= 1500) &&
+                  "class-7"
                 }`}
               />
             </div>
@@ -3373,12 +3350,12 @@ export const IphoneProMax = () => {
                 screenWidth >= 1400 && screenWidth < 1500 && "class-13"
               } ${screenWidth >= 1500 && "class-14"}`}
               property1="default"
-              talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-8"} ${
+              talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-6"} ${
                 ((screenWidth >= 1201 && screenWidth < 1300) ||
                   (screenWidth >= 1300 && screenWidth < 1400) ||
                   (screenWidth >= 1400 && screenWidth < 1500) ||
                   screenWidth >= 1500) &&
-                "class-9"
+                "class-7"
               }`}
             />
             <Group
@@ -3388,12 +3365,12 @@ export const IphoneProMax = () => {
                 screenWidth >= 1400 && screenWidth < 1500 && "class-18"
               } ${screenWidth >= 1500 && "class-19"}`}
               property1="default"
-              talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-8"} ${
+              talkToAnExpertClassName={`${screenWidth >= 1000 && screenWidth < 1201 && "class-6"} ${
                 ((screenWidth >= 1201 && screenWidth < 1300) ||
                   (screenWidth >= 1300 && screenWidth < 1400) ||
                   (screenWidth >= 1400 && screenWidth < 1500) ||
                   screenWidth >= 1500) &&
-                "class-9"
+                "class-7"
               }`}
             />
             <p
@@ -5070,7 +5047,7 @@ export const IphoneProMax = () => {
               }
             />
             <img
-              className="magma-translation-2"
+              className="magma-translation"
               style={{
                 height:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -5121,41 +5098,76 @@ export const IphoneProMax = () => {
                   : undefined
               }
             />
-            <div
-              className="frame"
-              style={{
-                height:
-                  screenWidth >= 1000 && screenWidth < 1201
-                    ? "325px"
-                    : (screenWidth >= 1201 && screenWidth < 1300) ||
-                      (screenWidth >= 1300 && screenWidth < 1400) ||
-                      (screenWidth >= 1400 && screenWidth < 1500) ||
-                      screenWidth >= 1500
-                    ? "390px"
-                    : undefined,
-                top:
-                  screenWidth >= 1000 && screenWidth < 1201
-                    ? "2700px"
-                    : (screenWidth >= 1201 && screenWidth < 1300) ||
-                      (screenWidth >= 1300 && screenWidth < 1400) ||
-                      (screenWidth >= 1400 && screenWidth < 1500) ||
-                      screenWidth >= 1500
-                    ? "3243px"
-                    : undefined,
-                width:
-                  screenWidth >= 1000 && screenWidth < 1201
-                    ? "999px"
-                    : screenWidth >= 1201 && screenWidth < 1300
-                    ? "1200px"
-                    : screenWidth >= 1300 && screenWidth < 1400
-                    ? "1299px"
-                    : screenWidth >= 1400 && screenWidth < 1500
-                    ? "1399px"
-                    : screenWidth >= 1500
-                    ? "1499px"
-                    : undefined,
-              }}
-            >
+          </>
+        )}
+
+        <div
+          className="frame"
+          style={{
+            backgroundColor:
+              (screenWidth >= 1000 && screenWidth < 1201) ||
+              (screenWidth >= 1201 && screenWidth < 1300) ||
+              (screenWidth >= 1300 && screenWidth < 1400) ||
+              (screenWidth >= 1400 && screenWidth < 1500) ||
+              screenWidth >= 1500
+                ? "#000000"
+                : screenWidth < 1000
+                ? "#0536a8"
+                : undefined,
+            height:
+              screenWidth >= 1000 && screenWidth < 1201
+                ? "325px"
+                : (screenWidth >= 1201 && screenWidth < 1300) ||
+                  (screenWidth >= 1300 && screenWidth < 1400) ||
+                  (screenWidth >= 1400 && screenWidth < 1500) ||
+                  screenWidth >= 1500
+                ? "390px"
+                : screenWidth < 1000
+                ? "158px"
+                : undefined,
+            left:
+              (screenWidth >= 1000 && screenWidth < 1201) ||
+              (screenWidth >= 1201 && screenWidth < 1300) ||
+              (screenWidth >= 1300 && screenWidth < 1400) ||
+              (screenWidth >= 1400 && screenWidth < 1500) ||
+              screenWidth >= 1500
+                ? "1px"
+                : screenWidth < 1000
+                ? "0"
+                : undefined,
+            top:
+              screenWidth >= 1000 && screenWidth < 1201
+                ? "2700px"
+                : (screenWidth >= 1201 && screenWidth < 1300) ||
+                  (screenWidth >= 1300 && screenWidth < 1400) ||
+                  (screenWidth >= 1400 && screenWidth < 1500) ||
+                  screenWidth >= 1500
+                ? "3243px"
+                : screenWidth < 1000
+                ? "665px"
+                : undefined,
+            width:
+              screenWidth >= 1000 && screenWidth < 1201
+                ? "999px"
+                : screenWidth >= 1201 && screenWidth < 1300
+                ? "1200px"
+                : screenWidth >= 1300 && screenWidth < 1400
+                ? "1299px"
+                : screenWidth >= 1400 && screenWidth < 1500
+                ? "1399px"
+                : screenWidth >= 1500
+                ? "1499px"
+                : screenWidth < 1000
+                ? "430px"
+                : undefined,
+          }}
+        >
+          {((screenWidth >= 1000 && screenWidth < 1201) ||
+            (screenWidth >= 1201 && screenWidth < 1300) ||
+            (screenWidth >= 1300 && screenWidth < 1400) ||
+            (screenWidth >= 1400 && screenWidth < 1500) ||
+            screenWidth >= 1500) && (
+            <>
               <p
                 className="text-wrapper-26"
                 style={{
@@ -5287,8 +5299,13 @@ export const IphoneProMax = () => {
               >
                 Magma Translation | All rights reserved. ©Magma™
               </p>
-            </div>
-          </>
+            </>
+          )}
+
+          {screenWidth < 1000 && <div className="click-to-discover">CLICK TO DISCOVER</div>}
+        </div>
+        {screenWidth < 1000 && (
+          <img className="magma-translation-2" alt="Magma translation" src="/img/magma-translation-png.png" />
         )}
       </div>
     </div>

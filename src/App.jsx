@@ -2,7 +2,7 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { TranslationService } from "./screens/TranslationService";
 import { IphoneProMax } from "./screens/IphoneProMax";
-import { IphoneProMaxScreen } from "./screens/IphoneProMaxScreen";
+import { TranslationServiceScreen } from "./screens/TranslationServiceScreen";
 
 const router = createBrowserRouter([
   {
@@ -10,7 +10,7 @@ const router = createBrowserRouter([
     element: <TranslationService />,
   },
   {
-    path: "/translation-service-3",
+    path: "/translation-service-2",
     element: <TranslationService />,
   },
   {
@@ -18,8 +18,8 @@ const router = createBrowserRouter([
     element: <IphoneProMax />,
   },
   {
-    path: "/iphone-14-pro-max-2",
-    element: <IphoneProMaxScreen />,
+    path: "/translation-service",
+    element: <TranslationServiceScreen />,
   },
 ]);
 

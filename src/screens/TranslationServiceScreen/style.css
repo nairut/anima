@@ -1,0 +1,51 @@
+.translation-service-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.translation-service-screen .translation-service-2 {
+  background-color: #ffffff;
+  border: 0.83px none;
+  height: 853.33px;
+  position: relative;
+  width: 1000px;
+}
+
+.translation-service-screen .rectangle-5 {
+  background-color: #d9d9d9;
+  height: 289px;
+  left: 79px;
+  position: absolute;
+  top: 77px;
+  width: 297px;
+}
+
+.translation-service-screen .rectangle-6 {
+  background-color: #d9d9d9;
+  height: 289px;
+  left: 500px;
+  position: absolute;
+  top: 473px;
+  width: 297px;
+}
+
+.translation-service-screen .rectangle-7 {
+  background-color: #d9d9d9;
+  height: 289px;
+  left: 650px;
+  position: absolute;
+  top: 137px;
+  width: 297px;
+}
+
+.translation-service-screen .rectangle-8 {
+  background-color: #d9d9d9;
+  height: 289px;
+  left: 79px;
+  position: absolute;
+  top: 473px;
+  width: 297px;
+}

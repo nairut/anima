@@ -40,30 +40,6 @@
   width: 421px;
 }
 
-.iphone-pro-max .click-to-discover-wrapper {
-  background-color: #0536a8;
-  height: 158px;
-  left: 0;
-  position: absolute;
-  top: 665px;
-  width: 430px;
-}
-
-.iphone-pro-max .click-to-discover {
-  color: #ffffff;
-  font-family: "Manrope", Helvetica;
-  font-size: 26.8px;
-  font-weight: 300;
-  height: 26px;
-  left: 81px;
-  letter-spacing: 1.34px;
-  line-height: 17.4px;
-  position: absolute;
-  text-align: center;
-  top: 65px;
-  width: 268px;
-}
-
 .iphone-pro-max .class {
   background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1-5.png) !important;
   height: 303px !important;
@@ -125,7 +101,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .magma-translation {
+.iphone-pro-max .img {
   position: absolute;
 }
 
@@ -146,7 +122,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-group {
+.iphone-pro-max .overlap-2 {
   background-size: 100% 100%;
   position: absolute;
 }
@@ -163,7 +139,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-2 {
+.iphone-pro-max .overlap-3 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -180,7 +156,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-3 {
+.iphone-pro-max .overlap-4 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -197,7 +173,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-4 {
+.iphone-pro-max .overlap-5 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -214,7 +190,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-5 {
+.iphone-pro-max .overlap-6 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -231,7 +207,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-6 {
+.iphone-pro-max .overlap-7 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -248,7 +224,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-7 {
+.iphone-pro-max .overlap-8 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -265,7 +241,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-8 {
+.iphone-pro-max .overlap-9 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -299,7 +275,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-9 {
+.iphone-pro-max .overlap-10 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -316,7 +292,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-10 {
+.iphone-pro-max .overlap-11 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -349,7 +325,7 @@
   text-align: center;
 }
 
-.iphone-pro-max .overlap-11 {
+.iphone-pro-max .overlap-12 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -366,7 +342,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-12 {
+.iphone-pro-max .overlap-13 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -383,7 +359,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-13 {
+.iphone-pro-max .overlap-14 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -400,7 +376,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-14 {
+.iphone-pro-max .overlap-15 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -417,7 +393,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-15 {
+.iphone-pro-max .overlap-16 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -434,7 +410,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .overlap-16 {
+.iphone-pro-max .overlap-17 {
   border-color: #c8982a;
   position: absolute;
 }
@@ -447,7 +423,7 @@
   position: absolute;
 }
 
-.iphone-pro-max .img {
+.iphone-pro-max .biotech-2 {
   position: absolute;
 }
 
@@ -474,24 +450,6 @@
 }
 
 .iphone-pro-max .class-6 {
-  border-radius: 23.45px !important;
-  height: 47px !important;
-  left: 0 !important;
-  position: absolute !important;
-  top: 290px !important;
-  width: 274px !important;
-}
-
-.iphone-pro-max .class-7 {
-  border-radius: 28.16px !important;
-  height: 56px !important;
-  left: 0 !important;
-  position: absolute !important;
-  top: 348px !important;
-  width: 329px !important;
-}
-
-.iphone-pro-max .class-8 {
   font-size: 17.1px !important;
   height: 8px !important;
   left: 52px !important;
@@ -501,12 +459,30 @@
   width: 171px !important;
 }
 
-.iphone-pro-max .class-9 {
+.iphone-pro-max .class-7 {
   font-size: 20.5px !important;
   left: 62px !important;
   letter-spacing: 1.03px !important;
   line-height: 13.3px !important;
   width: 205px !important;
+}
+
+.iphone-pro-max .class-8 {
+  border-radius: 23.45px !important;
+  height: 47px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 290px !important;
+  width: 274px !important;
+}
+
+.iphone-pro-max .class-9 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 348px !important;
+  width: 329px !important;
 }
 
 .iphone-pro-max .class-10 {
@@ -768,13 +744,11 @@
   position: absolute;
 }
 
-.iphone-pro-max .magma-translation-2 {
+.iphone-pro-max .magma-translation {
   position: absolute;
 }
 
 .iphone-pro-max .frame {
-  background-color: #000000;
-  left: 1px;
   position: absolute;
 }
 
@@ -791,4 +765,27 @@
   font-weight: 400;
   position: absolute;
   white-space: nowrap;
+}
+
+.iphone-pro-max .click-to-discover {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 26.8px;
+  font-weight: 300;
+  height: 26px;
+  left: 81px;
+  letter-spacing: 1.34px;
+  line-height: 17.4px;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  width: 268px;
+}
+
+.iphone-pro-max .magma-translation-2 {
+  height: 54px;
+  left: 118px;
+  position: absolute;
+  top: 34px;
+  width: 194px;
 }
