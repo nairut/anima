@@ -9,8 +9,7 @@
 .index .div {
   background-color: #ffffff;
   border: 0.99px none;
-  height: 3650px;
-  overflow: hidden;
+  height: 3633px;
   position: relative;
   width: 1201px;
 }
@@ -601,7 +600,7 @@
   line-height: 26.4px;
   position: absolute;
   text-align: center;
-  top: 2305px;
+  top: 2310px;
   width: 285px;
 }
 
@@ -907,15 +906,11 @@
 }
 
 .index .frame {
-  align-items: flex-start;
   background-color: #000000;
-  display: flex;
-  flex-direction: column;
-  gap: 72px;
-  left: 2px;
-  padding: 114px 192px;
+  height: 390px;
+  left: 1px;
   position: absolute;
-  top: 3260px;
+  top: 3243px;
   width: 1200px;
 }
 
@@ -924,10 +919,11 @@
   font-family: "Lato", Helvetica;
   font-size: 18px;
   font-weight: 400;
+  left: 192px;
   letter-spacing: 0.72px;
   line-height: 29.7px;
-  margin-top: -1px;
-  position: relative;
+  position: absolute;
+  top: 113px;
   width: 816px;
 }
 
@@ -936,9 +932,11 @@
   font-family: "Lato", Helvetica;
   font-size: 18px;
   font-weight: 400;
+  left: 192px;
   letter-spacing: 0.72px;
   line-height: 29.7px;
-  position: relative;
+  position: absolute;
+  top: 245px;
   white-space: nowrap;
   width: 529px;
 }
