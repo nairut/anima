@@ -22,7 +22,7 @@
   width: 693px;
 }
 
-.index .h-1 {
+.index .text-wrapper {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 59.8px;
@@ -464,17 +464,30 @@
   width: 468px;
 }
 
-.index .text-wrapper-13 {
+.index .our-proficient {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 300;
   left: 131px;
-  letter-spacing: 0.64px;
-  line-height: normal;
+  letter-spacing: 0.8px;
+  line-height: 20px;
   position: absolute;
+  text-align: center;
   top: 2964px;
   width: 939px;
+}
+
+.index .span {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 0.8px;
+}
+
+.index .text-wrapper-13 {
+  line-height: 27px;
 }
 
 .index .overlap-13 {
@@ -694,15 +707,15 @@
   width: 285px;
 }
 
-.index .span {
+.index .text-wrapper-17 {
   line-height: 21.4px;
 }
 
-.index .text-wrapper-17 {
+.index .text-wrapper-18 {
   line-height: 26.2px;
 }
 
-.index .text-wrapper-18 {
+.index .text-wrapper-19 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 37px;
@@ -728,7 +741,7 @@
   top: 2143px;
 }
 
-.index .text-wrapper-19 {
+.index .text-wrapper-20 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -742,7 +755,7 @@
   white-space: nowrap;
 }
 
-.index .text-wrapper-20 {
+.index .text-wrapper-21 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -756,7 +769,7 @@
   white-space: nowrap;
 }
 
-.index .text-wrapper-21 {
+.index .text-wrapper-22 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -770,7 +783,7 @@
   white-space: nowrap;
 }
 
-.index .text-wrapper-22 {
+.index .text-wrapper-23 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -784,7 +797,7 @@
   white-space: nowrap;
 }
 
-.index .text-wrapper-23 {
+.index .text-wrapper-24 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -798,7 +811,7 @@
   white-space: nowrap;
 }
 
-.index .text-wrapper-24 {
+.index .text-wrapper-25 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -968,7 +981,7 @@
   width: 1201px;
 }
 
-.index .text-wrapper-25 {
+.index .text-wrapper-26 {
   color: #ffffff;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -981,7 +994,7 @@
   width: 816px;
 }
 
-.index .text-wrapper-26 {
+.index .text-wrapper-27 {
   color: #ffffff;
   font-family: "Lato", Helvetica;
   font-size: 18px;

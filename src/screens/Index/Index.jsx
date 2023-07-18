@@ -24,7 +24,7 @@ export const Index = () => {
     <div className="index">
       <div className="div">
         <div className="group-2">
-          <h1 className="h-1">Professional Translation Services</h1>
+          <h1 className="text-wrapper">Professional Translation Services</h1>
           <p className="element-languages-that">
             120 languages that fits in your budget
             <br />
@@ -99,9 +99,10 @@ export const Index = () => {
           <img className="img-2" alt="Buy" src="/img/buy.png" />
         </div>
         <div className="text-wrapper-12">What can you translate?</div>
-        <p className="text-wrapper-13">
-          Our proficient translators have the capability to translate any kind of document, supporting the
-          undermentioned file types:
+        <p className="our-proficient">
+          <span className="span">Our proficient translators have the capability to </span>
+          <span className="text-wrapper-13">translate</span>
+          <span className="span"> any kind of document, supporting the undermentioned file types:</span>
         </p>
         <div className="overlap-13">
           <div className="rectangle-2" />
@@ -151,23 +152,23 @@ export const Index = () => {
           in other countries, specially of the US, UK and Germany for our projects
         </p>
         <p className="we-are-a-german">
-          <span className="span">
+          <span className="text-wrapper-17">
             We are a German company, the largest auto parts manufacturer in the world. For us, trust in data security is{" "}
           </span>
-          <span className="text-wrapper-17">essential</span>
-          <span className="span">. Magma Translation is a trusted company.</span>
+          <span className="text-wrapper-18">essential</span>
+          <span className="text-wrapper-17">. Magma Translation is a trusted company.</span>
         </p>
-        <div className="text-wrapper-18">Highest Quality Guaranteed</div>
+        <div className="text-wrapper-19">Highest Quality Guaranteed</div>
         <p className="every-translation">
           Every translation undergoes thorough proofreading and validation by <br />
           both our team of professional external editors and our internal language specialists.
         </p>
-        <div className="text-wrapper-19">Shopee.com</div>
-        <div className="text-wrapper-20">Hotmart</div>
-        <div className="text-wrapper-21">ZF Friedrichshafen</div>
-        <div className="text-wrapper-22">Milton Santana</div>
-        <div className="text-wrapper-23">Bruno Vidal</div>
-        <div className="text-wrapper-24">Danielle Schmitt Capote</div>
+        <div className="text-wrapper-20">Shopee.com</div>
+        <div className="text-wrapper-21">Hotmart</div>
+        <div className="text-wrapper-22">ZF Friedrichshafen</div>
+        <div className="text-wrapper-23">Milton Santana</div>
+        <div className="text-wrapper-24">Bruno Vidal</div>
+        <div className="text-wrapper-25">Danielle Schmitt Capote</div>
         <img className="ellipse" alt="Ellipse" src="/img/ellipse-1.png" />
         <img className="ellipse-2" alt="Ellipse" src="/img/ellipse-2.png" />
         <img className="ellipse-3" alt="Ellipse" src="/img/ellipse-3.png" />
@@ -187,11 +188,11 @@ export const Index = () => {
         <Star10 className="star-10" />
         <Star15 className="star-15" />
         <div className="frame">
-          <p className="text-wrapper-25">
+          <p className="text-wrapper-26">
             MAGMA is a global localization solutions provider, enabling brands to establish an authentic presence in
             diverse markets around the world.
           </p>
-          <p className="text-wrapper-26">Magma Translation | All rights reserved. ©Magma™</p>
+          <p className="text-wrapper-27">Magma Translation | All rights reserved. ©Magma™</p>
         </div>
       </div>
     </div>
