@@ -52,7 +52,7 @@ export const Celular = () => {
       >
         {screenWidth < 1000 && (
           <>
-            <h1 className="text-wrapper">Professional Translation Services</h1>
+            <h1 className="h-1">Professional Translation Services</h1>
             <p className="element-languages-that">
               120 languages that fits in your budget
               <br />
@@ -233,11 +233,12 @@ export const Celular = () => {
               src={
                 screenWidth >= 1000 && screenWidth < 1201
                   ? "/img/group-8.png"
-                  : (screenWidth >= 1201 && screenWidth < 1300) ||
-                    (screenWidth >= 1300 && screenWidth < 1400) ||
+                  : screenWidth >= 1201 && screenWidth < 1300
+                  ? "/img/group-8-1.png"
+                  : (screenWidth >= 1300 && screenWidth < 1400) ||
                     (screenWidth >= 1400 && screenWidth < 1500) ||
                     screenWidth >= 1500
-                  ? "/img/group-8-1.png"
+                  ? "/img/group-8-2.png"
                   : undefined
               }
             />
@@ -3227,7 +3228,7 @@ export const Celular = () => {
               }}
             >
               <h1
-                className="h-1"
+                className="text-wrapper-18"
                 style={{
                   fontSize:
                     screenWidth >= 1000 && screenWidth < 1201
@@ -3439,7 +3440,7 @@ export const Celular = () => {
               Our internationalization occurred through the expertise of their team.
             </p>
             <p
-              className="text-wrapper-18"
+              className="text-wrapper-19"
               style={{
                 fontSize:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -3616,7 +3617,7 @@ export const Celular = () => {
               </span>
             </p>
             <div
-              className="text-wrapper-19"
+              className="text-wrapper-20"
               style={{
                 fontSize:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -3727,7 +3728,7 @@ export const Celular = () => {
               both our team of professional external editors and our internal language specialists.
             </p>
             <div
-              className="text-wrapper-20"
+              className="text-wrapper-21"
               style={{
                 fontSize:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -3782,7 +3783,7 @@ export const Celular = () => {
               Shopee.com
             </div>
             <div
-              className="text-wrapper-21"
+              className="text-wrapper-22"
               style={{
                 fontSize:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -3837,7 +3838,7 @@ export const Celular = () => {
               Hotmart
             </div>
             <div
-              className="text-wrapper-22"
+              className="text-wrapper-23"
               style={{
                 fontSize:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -3892,7 +3893,7 @@ export const Celular = () => {
               ZF Friedrichshafen
             </div>
             <div
-              className="text-wrapper-23"
+              className="text-wrapper-24"
               style={{
                 fontSize:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -3947,7 +3948,7 @@ export const Celular = () => {
               Milton Santana
             </div>
             <div
-              className="text-wrapper-24"
+              className="text-wrapper-25"
               style={{
                 fontSize:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -4002,7 +4003,7 @@ export const Celular = () => {
               Bruno Vidal
             </div>
             <div
-              className="text-wrapper-25"
+              className="text-wrapper-26"
               style={{
                 fontSize:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -5047,7 +5048,7 @@ export const Celular = () => {
               }
             />
             <img
-              className="magma-translation"
+              className="magma-translation-2"
               style={{
                 height:
                   screenWidth >= 1000 && screenWidth < 1201
@@ -5169,7 +5170,7 @@ export const Celular = () => {
             screenWidth >= 1500) && (
             <>
               <p
-                className="text-wrapper-26"
+                className="text-wrapper-27"
                 style={{
                   fontSize:
                     screenWidth >= 1000 && screenWidth < 1201
@@ -5235,7 +5236,7 @@ export const Celular = () => {
                 diverse markets around the world.
               </p>
               <p
-                className="text-wrapper-27"
+                className="text-wrapper-28"
                 style={{
                   fontSize:
                     screenWidth >= 1000 && screenWidth < 1201
@@ -5302,10 +5303,10 @@ export const Celular = () => {
             </>
           )}
 
-          {screenWidth < 1000 && <div className="click-to-discover">CLICK TO DISCOVER</div>}
+          {screenWidth < 1000 && <div className="click-to-discover-2">CLICK TO DISCOVER</div>}
         </div>
         {screenWidth < 1000 && (
-          <img className="magma-translation-2" alt="Magma translation" src="/img/magma-translation-png.png" />
+          <img className="magma-translation-3" alt="Magma translation" src="/img/magma-translation-png.png" />
         )}
       </div>
     </div>

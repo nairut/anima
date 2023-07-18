@@ -11,7 +11,7 @@
   position: relative;
 }
 
-.celular .text-wrapper {
+.celular .h-1 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 48px;
@@ -431,7 +431,7 @@
   position: absolute;
 }
 
-.celular .h-1 {
+.celular .text-wrapper-18 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-weight: 700;
@@ -583,7 +583,7 @@
   text-align: center;
 }
 
-.celular .text-wrapper-18 {
+.celular .text-wrapper-19 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-weight: 400;
@@ -599,7 +599,7 @@
   text-align: center;
 }
 
-.celular .text-wrapper-19 {
+.celular .text-wrapper-20 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-weight: 700;
@@ -613,15 +613,6 @@
   font-weight: 400;
   position: absolute;
   text-align: center;
-}
-
-.celular .text-wrapper-20 {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-weight: 400;
-  position: absolute;
-  text-align: center;
-  white-space: nowrap;
 }
 
 .celular .text-wrapper-21 {
@@ -661,6 +652,15 @@
 }
 
 .celular .text-wrapper-25 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.celular .text-wrapper-26 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-weight: 400;
@@ -744,18 +744,11 @@
   position: absolute;
 }
 
-.celular .magma-translation {
+.celular .magma-translation-2 {
   position: absolute;
 }
 
 .celular .frame {
-  position: absolute;
-}
-
-.celular .text-wrapper-26 {
-  color: #ffffff;
-  font-family: "Lato", Helvetica;
-  font-weight: 400;
   position: absolute;
 }
 
@@ -764,10 +757,17 @@
   font-family: "Lato", Helvetica;
   font-weight: 400;
   position: absolute;
+}
+
+.celular .text-wrapper-28 {
+  color: #ffffff;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
   white-space: nowrap;
 }
 
-.celular .click-to-discover {
+.celular .click-to-discover-2 {
   color: #ffffff;
   font-family: "Manrope", Helvetica;
   font-size: 26.8px;
@@ -782,7 +782,7 @@
   width: 268px;
 }
 
-.celular .magma-translation-2 {
+.celular .magma-translation-3 {
   height: 54px;
   left: 118px;
   position: absolute;

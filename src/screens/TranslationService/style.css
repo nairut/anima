@@ -6,21 +6,65 @@
   width: 100%;
 }
 
-.translation-service .div {
+.translation-service .segunda-celular {
   background-color: #ffffff;
-  border: 1px none;
-  height: 1024px;
   position: relative;
-  width: 1200px;
+}
+
+.translation-service .text-wrapper {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 28px;
+  letter-spacing: 1.92px;
+  line-height: 70.1px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  width: 366px;
+}
+
+.translation-service .esta-a-segunda-p {
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  height: 199px;
+  left: 5px;
+  letter-spacing: 0.6px;
+  line-height: 66.3px;
+  position: absolute;
+  text-align: center;
+  top: 396px;
+  width: 421px;
 }
 
 .translation-service .rectangle {
-  background-color: #d9d9d9;
-  height: 347px;
-  left: 95px;
   position: absolute;
-  top: 93px;
-  width: 356px;
+}
+
+.translation-service .click-to-discover {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 26.8px;
+  font-weight: 300;
+  height: 26px;
+  left: 81px;
+  letter-spacing: 1.34px;
+  line-height: 17.4px;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  width: 268px;
+}
+
+.translation-service .magma-translation {
+  height: 54px;
+  left: 118px;
+  position: absolute;
+  top: 34px;
+  width: 194px;
 }
 
 .translation-service .overlap-group {
@@ -31,7 +75,7 @@
   width: 590px;
 }
 
-.translation-service .rectangle-2 {
+.translation-service .div {
   background-color: #d9d9d9;
   height: 347px;
   left: 0;
@@ -40,7 +84,7 @@
   width: 356px;
 }
 
-.translation-service .rectangle-3 {
+.translation-service .rectangle-2 {
   background-color: #d9d9d9;
   height: 347px;
   left: 234px;
@@ -49,11 +93,25 @@
   width: 356px;
 }
 
+.translation-service .rectangle-3 {
+  background-color: #d9d9d9;
+  position: absolute;
+}
+
 .translation-service .rectangle-4 {
   background-color: #d9d9d9;
-  height: 347px;
-  left: 95px;
+  height: 289px;
+  left: 650px;
   position: absolute;
-  top: 568px;
-  width: 356px;
+  top: 137px;
+  width: 297px;
+}
+
+.translation-service .rectangle-5 {
+  background-color: #d9d9d9;
+  height: 289px;
+  left: 79px;
+  position: absolute;
+  top: 473px;
+  width: 297px;
 }
