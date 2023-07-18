@@ -65,14 +65,33 @@ export const Index = () => {
           undermentioned file types
         </p>
         <div className="overlap-12">
-          <div className="rectangle" />
-          <div className="rectangle" />
           <div className="document-translation">
             Document
             <br />
             Translation
           </div>
           <img className="PDF" alt="Pdf" src="/img/pdf.png" />
+        </div>
+        <div className="overlap-13">
+          <div className="marketing-material">Marketing Material &amp; Ads</div>
+          <img className="goal" alt="Goal" src="/img/goal.png" />
+        </div>
+        <div className="overlap-14">
+          <div className="website-apps">Website &amp; Apps</div>
+          <img className="website" alt="Website" src="/img/website.png" />
+        </div>
+        <div className="overlap-15">
+          <div className="text-wrapper-13">Video Subtitling</div>
+          <img className="video-camera" alt="Video camera" src="/img/video-camera.png" />
+        </div>
+        <div className="overlap-16">
+          <div className="rectangle" />
+          <div className="text-wrapper-14">Product Descriptions</div>
+          <img className="e-commerce" alt="E commerce" src="/img/e-commerce.png" />
+        </div>
+        <div className="overlap-17">
+          <div className="text-wrapper-15">Articles, certificates, and more</div>
+          <img className="biotech" alt="Biotech" src="/img/biotech.png" />
         </div>
         <div className="group-2">
           <h1 className="h-1">Professional Translation Services</h1>
@@ -90,29 +109,6 @@ export const Index = () => {
           property1="default"
           talkToAnExpertClassName="group-2-instance"
         />
-        <div className="overlap-13">
-          <div className="marketing-material">Marketing Material &amp; Ads</div>
-          <img className="goal" alt="Goal" src="/img/goal.png" />
-        </div>
-        <div className="overlap-14">
-          <div className="rectangle" />
-          <div className="text-wrapper-13">Video Subtitling</div>
-          <img className="video-camera" alt="Video camera" src="/img/video-camera.png" />
-        </div>
-        <div className="overlap-15">
-          <div className="rectangle" />
-          <div className="text-wrapper-14">Articles, certificates, and more</div>
-          <img className="biotech" alt="Biotech" src="/img/biotech.png" />
-        </div>
-        <div className="overlap-16">
-          <div className="website-apps">Website &amp; Apps</div>
-          <img className="website" alt="Website" src="/img/website.png" />
-        </div>
-        <div className="overlap-17">
-          <div className="rectangle" />
-          <div className="text-wrapper-15">Product Descriptions</div>
-          <img className="e-commerce" alt="E commerce" src="/img/e-commerce.png" />
-        </div>
         <p className="our-growth-would-not">
           Our Growth would not have been possible without Magma Translation. <br />
           Our internationalization occurred through the expertise of their team.
@@ -157,13 +153,6 @@ export const Index = () => {
         <img className="star-13" alt="Star" src="/img/star-1.png" />
         <img className="star-14" alt="Star" src="/img/star-1.png" />
         <img className="star-15" alt="Star" src="/img/star-1.png" />
-        <div className="frame">
-          <p className="text-wrapper-25">
-            MAGMA is a global localization solutions provider, enabling brands to establish an authentic presence in
-            diverse markets around the world.
-          </p>
-          <p className="text-wrapper-26">Magma Translation | All rights reserved. ©Magma™</p>
-        </div>
         <div className="overlap-group-wrapper">
           <div className="overlap-group-2">
             <div className="rectangle-2" />
@@ -171,6 +160,13 @@ export const Index = () => {
           </div>
         </div>
         <img className="magma-translation" alt="Magma translation" src="/img/magma-translation-png.png" />
+        <div className="frame">
+          <p className="text-wrapper-25">
+            MAGMA is a global localization solutions provider, enabling brands to establish an authentic presence in
+            diverse markets around the world.
+          </p>
+          <p className="text-wrapper-26">Magma Translation | All rights reserved. ©Magma™</p>
+        </div>
       </div>
     </div>
   );
