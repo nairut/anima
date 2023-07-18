@@ -70,24 +70,23 @@ export const Index = () => {
             <br />
             Translation
           </div>
-          <img className="PDF" alt="Pdf" src="/img/pdf.png" />
+          <img className="img-3" alt="Pdf" src="/img/pdf.png" />
         </div>
         <div className="overlap-13">
           <div className="marketing-material">Marketing Material &amp; Ads</div>
-          <img className="goal" alt="Goal" src="/img/goal.png" />
+          <img className="img-3" alt="Goal" src="/img/goal.png" />
         </div>
         <div className="overlap-group-2">
           <div className="website-apps">Website &amp; Apps</div>
-          <img className="website" alt="Website" src="/img/website.png" />
+          <img className="img-3" alt="Website" src="/img/website.png" />
         </div>
         <div className="overlap-14">
           <div className="text-wrapper-13">Video Subtitling</div>
-          <img className="video-camera" alt="Video camera" src="/img/video-camera.png" />
+          <img className="img-3" alt="Video camera" src="/img/video-camera.png" />
         </div>
         <div className="overlap-15">
-          <div className="rectangle" />
           <div className="text-wrapper-14">Product Descriptions</div>
-          <img className="e-commerce" alt="E commerce" src="/img/e-commerce.png" />
+          <img className="img-3" alt="E commerce" src="/img/e-commerce.png" />
         </div>
         <div className="overlap-16">
           <div className="text-wrapper-15">Articles, certificates, and more</div>
@@ -139,21 +138,21 @@ export const Index = () => {
         <img className="ellipse" alt="Ellipse" src="/img/ellipse-1.png" />
         <img className="ellipse-2" alt="Ellipse" src="/img/ellipse-2.png" />
         <img className="ellipse-3" alt="Ellipse" src="/img/ellipse-3.png" />
-        <img className="star" alt="Star" src="/img/star-1.png" />
-        <img className="star-2" alt="Star" src="/img/star-1.png" />
-        <img className="star-3" alt="Star" src="/img/star-1.png" />
-        <img className="star-4" alt="Star" src="/img/star-1.png" />
-        <img className="star-5" alt="Star" src="/img/star-1.png" />
-        <img className="star-6" alt="Star" src="/img/star-1.png" />
-        <img className="star-7" alt="Star" src="/img/star-3.png" />
-        <img className="star-8" alt="Star" src="/img/star-3.png" />
-        <img className="star-9" alt="Star" src="/img/star-3.png" />
-        <img className="star-10" alt="Star" src="/img/star-1.png" />
-        <img className="star-11" alt="Star" src="/img/star-1.png" />
-        <img className="star-12" alt="Star" src="/img/star-1.png" />
-        <img className="star-13" alt="Star" src="/img/star-1.png" />
-        <img className="star-14" alt="Star" src="/img/star-1.png" />
-        <img className="star-15" alt="Star" src="/img/star-1.png" />
+        <img className="star" alt="Star" src="/img/star-16.png" />
+        <img className="star-2" alt="Star" src="/img/star-16.png" />
+        <img className="star-3" alt="Star" src="/img/star-16.png" />
+        <img className="star-4" alt="Star" src="/img/star-16.png" />
+        <img className="star-5" alt="Star" src="/img/star-16.png" />
+        <img className="star-6" alt="Star" src="/img/star-16.png" />
+        <img className="star-7" alt="Star" src="/img/star-16.png" />
+        <img className="star-8" alt="Star" src="/img/star-16.png" />
+        <img className="star-9" alt="Star" src="/img/star-16.png" />
+        <img className="star-10" alt="Star" src="/img/star-16.png" />
+        <img className="star-11" alt="Star" src="/img/star-16.png" />
+        <img className="star-12" alt="Star" src="/img/star-16.png" />
+        <img className="star-13" alt="Star" src="/img/star-16.png" />
+        <img className="star-14" alt="Star" src="/img/star-16.png" />
+        <img className="star-15" alt="Star" src="/img/star-16.png" />
         <img className="magma-translation" alt="Magma translation" src="/img/magma-translation-png.png" />
         <div className="frame">
           <p className="text-wrapper-25">
