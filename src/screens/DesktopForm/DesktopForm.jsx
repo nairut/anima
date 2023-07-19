@@ -23,7 +23,7 @@ export const DesktopForm = () => {
           </div>
         </div>
         <div className="overlap-3">
-          <img className="img" alt="Rectangle" src="rectangle-6.svg" />
+          <img className="img" alt="Rectangle" src="/img/rectangle-6-1.png" />
           <div className="overlap-group-wrapper">
             <div className="overlap-4">
               <div className="rectangle-3" />
@@ -32,7 +32,7 @@ export const DesktopForm = () => {
           </div>
         </div>
         <div className="overlap-5">
-          <div className="rectangle-4" />
+          <div className="rectangle" />
           <div className="group-2">
             <div className="overlap-group">
               <div className="text-wrapper-4">Last name</div>
@@ -44,10 +44,9 @@ export const DesktopForm = () => {
             <div className="text-wrapper-5">Send</div>
           </div>
         </div>
-        <img className="line" alt="Line" src="line-1.svg" />
+        <img className="line" alt="Line" src="/img/line-1-1.png" />
         <Lady className="lady-instance" />
-        <img className="magma-translation" alt="Magma translation" src="magma-translation-png.png" />
-        <p className="p">Get a Free, No-Obligation Price Quote</p>
+        <img className="magma-translation" alt="Magma translation" src="/img/magma-translation-png-13.png" />
         <h1 className="h-1">Get a Free, No-Obligation Price Quote</h1>
       </div>
     </div>
