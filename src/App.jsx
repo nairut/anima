@@ -1,16 +1,19 @@
 import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { TranslationService } from "./screens/TranslationService";
+import { Z } from "./screens/Z";
 import { Celular } from "./screens/Celular";
 
 const router = createBrowserRouter([
-
-  {
-    path: "/translation-service",
-    element: <TranslationService />,
-  },
   {
     path: "/*",
+    element: <Z />,
+  },
+  {
+    path: "/z",
+    element: <Z />,
+  },
+  {
+    path: "/celular-all-breakpoints",
     element: <Celular />,
   },
 ]);

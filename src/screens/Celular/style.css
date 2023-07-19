@@ -64,7 +64,16 @@
   width: 268px;
 }
 
-.celular .lady-instance {
+.celular .class {
+  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1-2.png) !important;
+  height: 303px !important;
+  left: 714px !important;
+  position: absolute !important;
+  top: 189px !important;
+  width: 233px !important;
+}
+
+.celular .class-2 {
   background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1.png) !important;
   height: 364px !important;
   left: 956px !important;
@@ -76,66 +85,876 @@
 .celular .p {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 37.7px;
   font-weight: 700;
-  left: 297px;
-  letter-spacing: 1.51px;
   line-height: normal;
   position: absolute;
-  top: 736px;
-  width: 706px;
 }
 
 .celular .text-wrapper-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 37px;
   font-weight: 700;
-  left: 237px;
-  letter-spacing: 1.48px;
   line-height: normal;
   position: absolute;
-  top: 1215px;
-  width: 853px;
 }
 
-.celular .magma-translation {
+.celular .zapier-png {
   position: absolute;
 }
 
-.celular .abbott-png {
-  height: 70px;
-  left: 151px;
+.celular .overlap {
+  background-image: url(../../../static/img/rectangle-19-1.png);
+  background-size: 100% 100%;
+  height: 116px;
+  left: 53px;
   position: absolute;
-  top: 953px;
-  width: 101px;
+  top: 1097px;
+  width: 127px;
 }
 
-.celular .zf-png {
-  height: 70px;
-  left: 279px;
+.celular .text-wrapper-3 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  left: 42px;
+  letter-spacing: 0.67px;
+  line-height: normal;
   position: absolute;
-  top: 837px;
-  width: 101px;
+  top: 82px;
 }
 
-.celular .anton-paar-png {
-  height: 70px;
-  left: 279px;
+.celular .law {
+  height: 32px;
+  left: 47px;
   position: absolute;
-  top: 953px;
-  width: 101px;
+  top: 26px;
+  width: 32px;
 }
 
-.celular .crowdin-png {
-  height: 70px;
-  left: 407px;
+.celular .overlap-2 {
+  background-image: url(../../../static/img/rectangle-36-1.png);
+  background-size: 100% 100%;
+  height: 116px;
+  left: 53px;
   position: absolute;
-  top: 837px;
-  width: 101px;
+  top: 1269px;
+  width: 127px;
+}
+
+.celular .media-films {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  left: 7px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  position: absolute;
+  top: 79px;
 }
 
 .celular .img {
+  height: 32px;
+  left: 47px;
+  position: absolute;
+  top: 23px;
+  width: 32px;
+}
+
+.celular .overlap-3 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 116px;
+  left: 206px;
+  position: absolute;
+  top: 1097px;
+  width: 127px;
+}
+
+.celular .text-wrapper-4 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  left: 31px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.celular .overlap-4 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 116px;
+  left: 206px;
+  position: absolute;
+  top: 1269px;
+  width: 127px;
+}
+
+.celular .text-wrapper-5 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.celular .overlap-5 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 116px;
+  left: 360px;
+  position: absolute;
+  top: 1097px;
+  width: 127px;
+}
+
+.celular .text-wrapper-6 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  left: 3px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.celular .overlap-6 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 116px;
+  left: 360px;
+  position: absolute;
+  top: 1269px;
+  width: 127px;
+}
+
+.celular .text-wrapper-7 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  left: 16px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.celular .overlap-7 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 116px;
+  left: 513px;
+  position: absolute;
+  top: 1097px;
+  width: 127px;
+}
+
+.celular .text-wrapper-8 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  left: 27px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.celular .money-bag-pounds {
+  height: 32px;
+  left: 41px;
+  position: absolute;
+  top: 23px;
+  width: 32px;
+}
+
+.celular .overlap-group-2 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 116px;
+  left: 513px;
+  position: absolute;
+  top: 1269px;
+  width: 127px;
+}
+
+.celular .text-wrapper-9 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  left: 22px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  position: absolute;
+  top: 85px;
+}
+
+.celular .overlap-8 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 116px;
+  left: 666px;
+  position: absolute;
+  top: 1097px;
+  width: 127px;
+}
+
+.celular .overlap-9 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 116px;
+  left: 666px;
+  position: absolute;
+  top: 1269px;
+  width: 127px;
+}
+
+.celular .text-wrapper-10 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  left: 10px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.celular .overlap-10 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 116px;
+  left: 819px;
+  position: absolute;
+  top: 1097px;
+  width: 127px;
+}
+
+.celular .overlap-11 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 116px;
+  left: 819px;
+  position: absolute;
+  top: 1269px;
+  width: 127px;
+}
+
+.celular .text-wrapper-11 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 700;
+  left: 13px;
+  letter-spacing: 0.67px;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.celular .text-wrapper-12 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 31.4px;
+  font-weight: 700;
+  left: 304px;
+  letter-spacing: 1.26px;
+  line-height: normal;
+  position: absolute;
+  top: 2157px;
+  width: 390px;
+}
+
+.celular .text-wrapper-13 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 400;
+  left: 107px;
+  letter-spacing: 0.67px;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: center;
+  top: 2278px;
+  width: 782px;
+}
+
+.celular .overlap-12 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 171px;
+  left: 53px;
+  position: absolute;
+  top: 2374px;
+  width: 115px;
+}
+
+.celular .document-translation {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 14.2px;
+  font-weight: 700;
+  left: 26px;
+  letter-spacing: 0.57px;
+  line-height: normal;
+  position: absolute;
+  top: 84px;
+  width: 88px;
+}
+
+.celular .img-2 {
+  height: 32px;
+  left: 41px;
+  position: absolute;
+  top: 32px;
+  width: 32px;
+}
+
+.celular .overlap-13 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 171px;
+  left: 210px;
+  position: absolute;
+  top: 2374px;
+  width: 115px;
+}
+
+.celular .marketing-material {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 14.2px;
+  font-weight: 700;
+  left: 18px;
+  letter-spacing: 0.57px;
+  line-height: normal;
+  position: absolute;
+  top: 84px;
+  width: 77px;
+}
+
+.celular .overlap-14 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 171px;
+  left: 366px;
+  position: absolute;
+  top: 2374px;
+  width: 115px;
+}
+
+.celular .website-apps {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 14.2px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0.57px;
+  line-height: normal;
+  position: absolute;
+  top: 84px;
+  width: 64px;
+}
+
+.celular .overlap-15 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 171px;
+  left: 523px;
+  position: absolute;
+  top: 2374px;
+  width: 115px;
+}
+
+.celular .text-wrapper-14 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 14.2px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0.57px;
+  line-height: normal;
+  position: absolute;
+  top: 84px;
+  width: 81px;
+}
+
+.celular .overlap-16 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 171px;
+  left: 679px;
+  position: absolute;
+  top: 2374px;
+  width: 115px;
+}
+
+.celular .text-wrapper-15 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 14.2px;
+  font-weight: 700;
+  left: 15px;
+  letter-spacing: 0.57px;
+  line-height: normal;
+  position: absolute;
+  top: 84px;
+  width: 97px;
+}
+
+.celular .overlap-17 {
+  border: 0.83px solid;
+  border-color: #c8982a;
+  height: 171px;
+  left: 832px;
+  position: absolute;
+  top: 2374px;
+  width: 115px;
+}
+
+.celular .text-wrapper-16 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 14.2px;
+  font-weight: 700;
+  left: 17px;
+  letter-spacing: 0.57px;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+  width: 97px;
+}
+
+.celular .biotech {
+  height: 32px;
+  left: 34px;
+  position: absolute;
+  top: 32px;
+  width: 32px;
+}
+
+.celular .group-2 {
+  height: 336px;
+  left: 53px;
+  position: absolute;
+  top: 156px;
+  width: 578px;
+}
+
+.celular .h-1 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 49.8px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 1.99px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 499px;
+}
+
+.celular .element-languages-that-2 {
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 17.9px;
+  font-weight: 700;
+  height: 108px;
+  left: 0;
+  letter-spacing: 0.54px;
+  line-height: 35.9px;
+  position: absolute;
+  top: 151px;
+  width: 574px;
+}
+
+.celular .group-instance {
+  border-radius: 23.45px !important;
+  height: 47px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 290px !important;
+  width: 274px !important;
+}
+
+.celular .group-2-instance {
+  font-size: 17.1px !important;
+  height: 8px !important;
+  left: 52px !important;
+  letter-spacing: 0.85px !important;
+  line-height: 11.1px !important;
+  top: 19px !important;
+  width: 171px !important;
+}
+
+.celular .instance-node {
+  border-radius: 23.45px !important;
+  height: 47px !important;
+  left: 361px !important;
+  position: absolute !important;
+  top: 1448px !important;
+  width: 274px !important;
+}
+
+.celular .group-3 {
+  border-radius: 23.45px !important;
+  height: 47px !important;
+  left: 361px !important;
+  position: absolute !important;
+  top: 2614px !important;
+  width: 274px !important;
+}
+
+.celular .our-growth-would-not {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 13.3px;
+  font-weight: 400;
+  left: 97px;
+  letter-spacing: 0.53px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 1923px;
+  width: 237px;
+}
+
+.celular .text-wrapper-17 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 13.3px;
+  font-weight: 400;
+  left: 379px;
+  letter-spacing: 0.53px;
+  line-height: 21.8px;
+  position: absolute;
+  text-align: center;
+  top: 1923px;
+  width: 237px;
+}
+
+.celular .we-are-a-german {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 13.3px;
+  font-weight: 400;
+  left: 659px;
+  letter-spacing: 0.53px;
+  line-height: 13.3px;
+  position: absolute;
+  text-align: center;
+  top: 1923px;
+  width: 237px;
+}
+
+.celular .span {
+  line-height: 17.8px;
+}
+
+.celular .text-wrapper-18 {
+  line-height: 21.8px;
+}
+
+.celular .text-wrapper-19 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 30.8px;
+  font-weight: 700;
+  left: 275px;
+  letter-spacing: 1.23px;
+  line-height: normal;
+  position: absolute;
+  top: 1595px;
+  width: 447px;
+}
+
+.celular .every-translation {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16.7px;
+  font-weight: 400;
+  left: 167px;
+  letter-spacing: 0.67px;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: center;
+  top: 1660px;
+}
+
+.celular .text-wrapper-20 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 167px;
+  letter-spacing: 0.6px;
+  line-height: 24.7px;
+  position: absolute;
+  text-align: center;
+  top: 1865px;
+  white-space: nowrap;
+}
+
+.celular .text-wrapper-21 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 468px;
+  letter-spacing: 0.6px;
+  line-height: 24.7px;
+  position: absolute;
+  text-align: center;
+  top: 1865px;
+  white-space: nowrap;
+}
+
+.celular .text-wrapper-22 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 726px;
+  letter-spacing: 0.6px;
+  line-height: 24.7px;
+  position: absolute;
+  text-align: center;
+  top: 1865px;
+  white-space: nowrap;
+}
+
+.celular .text-wrapper-23 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 157px;
+  letter-spacing: 0.6px;
+  line-height: 24.7px;
+  position: absolute;
+  text-align: center;
+  top: 1833px;
+  white-space: nowrap;
+}
+
+.celular .text-wrapper-24 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 456px;
+  letter-spacing: 0.6px;
+  line-height: 24.7px;
+  position: absolute;
+  text-align: center;
+  top: 1833px;
+  white-space: nowrap;
+}
+
+.celular .text-wrapper-25 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 706px;
+  letter-spacing: 0.6px;
+  line-height: 24.7px;
+  position: absolute;
+  text-align: center;
+  top: 1833px;
+  white-space: nowrap;
+}
+
+.celular .ellipse {
+  height: 70px;
+  left: 176px;
+  object-fit: cover;
+  position: absolute;
+  top: 1742px;
+  width: 70px;
+}
+
+.celular .ellipse-2 {
+  height: 70px;
+  left: 462px;
+  object-fit: cover;
+  position: absolute;
+  top: 1740px;
+  width: 70px;
+}
+
+.celular .ellipse-3 {
+  height: 70px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 1742px;
+  width: 70px;
+}
+
+.celular .star {
+  position: absolute;
+}
+
+.celular .zf-png {
+  position: absolute;
+}
+
+.celular .anton-paar-png {
+  position: absolute;
+}
+
+.celular .crowdin-png {
+  position: absolute;
+}
+
+.celular .star-2 {
+  height: 16px;
+  left: 466px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .star-3 {
+  height: 16px;
+  left: 745px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .star-4 {
+  height: 16px;
+  left: 207px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .star-5 {
+  height: 16px;
+  left: 491px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .star-6 {
+  height: 16px;
+  left: 770px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .star-7 {
+  height: 16px;
+  left: 232px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .star-8 {
+  height: 16px;
+  left: 516px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .star-9 {
+  height: 16px;
+  left: 795px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .star-10 {
+  height: 16px;
+  left: 257px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .star-11 {
+  height: 16px;
+  left: 541px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .star-12 {
+  height: 16px;
+  left: 820px;
+  position: absolute;
+  top: 2061px;
+  width: 19px;
+}
+
+.celular .magma-translation {
+  height: 45px;
+  left: 53px;
+  position: absolute;
+  top: 33px;
+  width: 162px;
+}
+
+.celular .frame {
+  background-color: #000000;
+  height: 325px;
+  left: 1px;
+  position: absolute;
+  top: 2700px;
+  width: 999px;
+}
+
+.celular .text-wrapper-26 {
+  color: #ffffff;
+  font-family: "Lato", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 160px;
+  letter-spacing: 0.6px;
+  line-height: 24.7px;
+  position: absolute;
+  top: 94px;
+  width: 679px;
+}
+
+.celular .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Lato", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 160px;
+  letter-spacing: 0.6px;
+  line-height: 24.7px;
+  position: absolute;
+  top: 204px;
+  white-space: nowrap;
+  width: 440px;
+}
+
+.celular .rectangle-5 {
   height: 70px;
   left: 407px;
   object-fit: cover;
@@ -152,7 +971,7 @@
   width: 101px;
 }
 
-.celular .rectangle-5 {
+.celular .rectangle-6 {
   height: 70px;
   left: 535px;
   object-fit: cover;
@@ -161,7 +980,7 @@
   width: 101px;
 }
 
-.celular .rectangle-6 {
+.celular .rectangle-7 {
   height: 79px;
   left: 663px;
   object-fit: cover;
@@ -170,7 +989,7 @@
   width: 111px;
 }
 
-.celular .rectangle-7 {
+.celular .rectangle-8 {
   height: 70px;
   left: 663px;
   object-fit: cover;
@@ -179,7 +998,7 @@
   width: 101px;
 }
 
-.celular .rectangle-8 {
+.celular .rectangle-9 {
   height: 70px;
   left: 791px;
   object-fit: cover;
@@ -196,7 +1015,7 @@
   width: 101px;
 }
 
-.celular .rectangle-9 {
+.celular .rectangle-10 {
   height: 70px;
   left: 913px;
   object-fit: cover;
@@ -213,7 +1032,7 @@
   width: 101px;
 }
 
-.celular .rectangle-10 {
+.celular .rectangle-11 {
   height: 70px;
   left: 1033px;
   object-fit: cover;
@@ -230,7 +1049,7 @@
   width: 101px;
 }
 
-.celular .overlap {
+.celular .overlap-18 {
   background-image: url(../../../static/img/rectangle-19.png);
   background-size: 100% 100%;
   height: 139px;
@@ -240,7 +1059,7 @@
   width: 152px;
 }
 
-.celular .text-wrapper-3 {
+.celular .text-wrapper-28 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -253,7 +1072,7 @@
   white-space: nowrap;
 }
 
-.celular .law {
+.celular .law-2 {
   height: 38px;
   left: 57px;
   position: absolute;
@@ -261,7 +1080,7 @@
   width: 38px;
 }
 
-.celular .overlap-2 {
+.celular .overlap-19 {
   background-image: url(../../../static/img/rectangle-19.png);
   background-size: 100% 100%;
   height: 139px;
@@ -271,7 +1090,7 @@
   width: 152px;
 }
 
-.celular .media-films {
+.celular .media-films-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -292,7 +1111,7 @@
   width: 38px;
 }
 
-.celular .overlap-3 {
+.celular .overlap-20 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -302,7 +1121,7 @@
   width: 152px;
 }
 
-.celular .text-wrapper-4 {
+.celular .text-wrapper-29 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -315,7 +1134,7 @@
   white-space: nowrap;
 }
 
-.celular .img-2 {
+.celular .img-3 {
   height: 38px;
   left: 56px;
   position: absolute;
@@ -323,7 +1142,7 @@
   width: 38px;
 }
 
-.celular .overlap-4 {
+.celular .overlap-21 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -333,7 +1152,7 @@
   width: 152px;
 }
 
-.celular .text-wrapper-5 {
+.celular .text-wrapper-30 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -346,7 +1165,7 @@
   white-space: nowrap;
 }
 
-.celular .overlap-5 {
+.celular .overlap-22 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -356,7 +1175,7 @@
   width: 152px;
 }
 
-.celular .text-wrapper-6 {
+.celular .text-wrapper-31 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -369,7 +1188,7 @@
   white-space: nowrap;
 }
 
-.celular .overlap-6 {
+.celular .overlap-23 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -379,7 +1198,7 @@
   width: 152px;
 }
 
-.celular .text-wrapper-7 {
+.celular .text-wrapper-32 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -392,7 +1211,7 @@
   white-space: nowrap;
 }
 
-.celular .overlap-group-2 {
+.celular .overlap-group-3 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -402,7 +1221,7 @@
   width: 152px;
 }
 
-.celular .text-wrapper-8 {
+.celular .text-wrapper-33 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -415,7 +1234,7 @@
   white-space: nowrap;
 }
 
-.celular .money-bag-pounds {
+.celular .money-bag-pounds-2 {
   height: 38px;
   left: 49px;
   position: absolute;
@@ -423,7 +1242,7 @@
   width: 38px;
 }
 
-.celular .overlap-7 {
+.celular .overlap-24 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -433,7 +1252,7 @@
   width: 152px;
 }
 
-.celular .text-wrapper-9 {
+.celular .text-wrapper-34 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -446,7 +1265,7 @@
   white-space: nowrap;
 }
 
-.celular .overlap-8 {
+.celular .overlap-25 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -456,7 +1275,7 @@
   width: 152px;
 }
 
-.celular .overlap-9 {
+.celular .overlap-26 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -466,7 +1285,7 @@
   width: 152px;
 }
 
-.celular .text-wrapper-10 {
+.celular .text-wrapper-35 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -479,7 +1298,7 @@
   white-space: nowrap;
 }
 
-.celular .overlap-10 {
+.celular .overlap-27 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -489,7 +1308,7 @@
   width: 152px;
 }
 
-.celular .overlap-11 {
+.celular .overlap-28 {
   border: 1px solid;
   border-color: #c8982a;
   height: 139px;
@@ -499,7 +1318,7 @@
   width: 152px;
 }
 
-.celular .text-wrapper-11 {
+.celular .text-wrapper-36 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -512,7 +1331,7 @@
   white-space: nowrap;
 }
 
-.celular .text-wrapper-12 {
+.celular .text-wrapper-37 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 37.7px;
@@ -525,7 +1344,7 @@
   width: 468px;
 }
 
-.celular .text-wrapper-13 {
+.celular .text-wrapper-38 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -539,7 +1358,7 @@
   width: 939px;
 }
 
-.celular .overlap-12 {
+.celular .overlap-29 {
   border: 1px solid;
   border-color: #c8982a;
   height: 205px;
@@ -549,7 +1368,7 @@
   width: 138px;
 }
 
-.celular .document-translation {
+.celular .document-translation-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 17px;
@@ -562,7 +1381,7 @@
   width: 106px;
 }
 
-.celular .img-3 {
+.celular .img-4 {
   height: 38px;
   left: 49px;
   position: absolute;
@@ -570,7 +1389,7 @@
   width: 38px;
 }
 
-.celular .overlap-13 {
+.celular .overlap-30 {
   border: 1px solid;
   border-color: #c8982a;
   height: 205px;
@@ -580,7 +1399,7 @@
   width: 138px;
 }
 
-.celular .marketing-material {
+.celular .marketing-material-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 17px;
@@ -593,7 +1412,7 @@
   width: 93px;
 }
 
-.celular .overlap-14 {
+.celular .overlap-31 {
   border: 1px solid;
   border-color: #c8982a;
   height: 205px;
@@ -603,7 +1422,7 @@
   width: 138px;
 }
 
-.celular .website-apps {
+.celular .website-apps-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 17px;
@@ -616,7 +1435,7 @@
   width: 77px;
 }
 
-.celular .overlap-15 {
+.celular .overlap-32 {
   border: 1px solid;
   border-color: #c8982a;
   height: 205px;
@@ -626,7 +1445,7 @@
   width: 138px;
 }
 
-.celular .text-wrapper-14 {
+.celular .text-wrapper-39 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 17px;
@@ -639,7 +1458,7 @@
   width: 97px;
 }
 
-.celular .overlap-16 {
+.celular .overlap-33 {
   border: 1px solid;
   border-color: #c8982a;
   height: 205px;
@@ -649,7 +1468,7 @@
   width: 138px;
 }
 
-.celular .text-wrapper-15 {
+.celular .text-wrapper-40 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 17px;
@@ -662,7 +1481,7 @@
   width: 117px;
 }
 
-.celular .overlap-17 {
+.celular .overlap-34 {
   border: 1px solid;
   border-color: #c8982a;
   height: 205px;
@@ -672,7 +1491,7 @@
   width: 138px;
 }
 
-.celular .text-wrapper-16 {
+.celular .text-wrapper-41 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 17px;
@@ -685,7 +1504,7 @@
   width: 117px;
 }
 
-.celular .biotech {
+.celular .biotech-2 {
   height: 38px;
   left: 41px;
   position: absolute;
@@ -693,7 +1512,7 @@
   width: 38px;
 }
 
-.celular .group-2 {
+.celular .group-4 {
   height: 404px;
   left: 64px;
   position: absolute;
@@ -701,7 +1520,7 @@
   width: 693px;
 }
 
-.celular .h-1 {
+.celular .text-wrapper-42 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 59.8px;
@@ -714,7 +1533,7 @@
   width: 599px;
 }
 
-.celular .element-languages-that-2 {
+.celular .element-languages-that-3 {
   color: #383836;
   font-family: "Lato", Helvetica;
   font-size: 21.5px;
@@ -728,7 +1547,7 @@
   width: 689px;
 }
 
-.celular .group-instance {
+.celular .group-5 {
   border-radius: 28.16px !important;
   height: 56px !important;
   left: 0 !important;
@@ -737,7 +1556,7 @@
   width: 329px !important;
 }
 
-.celular .group-2-instance {
+.celular .group-6 {
   font-size: 20.5px !important;
   left: 62px !important;
   letter-spacing: 1.03px !important;
@@ -745,7 +1564,7 @@
   width: 205px !important;
 }
 
-.celular .instance-node {
+.celular .group-7 {
   border-radius: 28.16px !important;
   height: 56px !important;
   left: 482px !important;
@@ -754,7 +1573,7 @@
   width: 329px !important;
 }
 
-.celular .group-3 {
+.celular .group-8 {
   border-radius: 28.16px !important;
   height: 56px !important;
   left: 482px !important;
@@ -763,7 +1582,7 @@
   width: 329px !important;
 }
 
-.celular .our-growth-would-not {
+.celular .our-growth-would-not-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 16px;
@@ -777,7 +1596,7 @@
   width: 285px;
 }
 
-.celular .text-wrapper-17 {
+.celular .text-wrapper-43 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 16px;
@@ -791,7 +1610,7 @@
   width: 285px;
 }
 
-.celular .we-are-a-german {
+.celular .we-are-a-german-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 16px;
@@ -805,15 +1624,15 @@
   width: 285px;
 }
 
-.celular .span {
+.celular .text-wrapper-44 {
   line-height: 21.4px;
 }
 
-.celular .text-wrapper-18 {
+.celular .text-wrapper-45 {
   line-height: 26.2px;
 }
 
-.celular .text-wrapper-19 {
+.celular .text-wrapper-46 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 37px;
@@ -826,7 +1645,7 @@
   width: 537px;
 }
 
-.celular .every-translation {
+.celular .every-translation-2 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 20px;
@@ -839,7 +1658,7 @@
   top: 1994px;
 }
 
-.celular .text-wrapper-20 {
+.celular .text-wrapper-47 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -853,7 +1672,7 @@
   white-space: nowrap;
 }
 
-.celular .text-wrapper-21 {
+.celular .text-wrapper-48 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -867,7 +1686,7 @@
   white-space: nowrap;
 }
 
-.celular .text-wrapper-22 {
+.celular .text-wrapper-49 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -881,7 +1700,7 @@
   white-space: nowrap;
 }
 
-.celular .text-wrapper-23 {
+.celular .text-wrapper-50 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -895,7 +1714,7 @@
   white-space: nowrap;
 }
 
-.celular .text-wrapper-24 {
+.celular .text-wrapper-51 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -909,7 +1728,7 @@
   white-space: nowrap;
 }
 
-.celular .text-wrapper-25 {
+.celular .text-wrapper-52 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -923,7 +1742,7 @@
   white-space: nowrap;
 }
 
-.celular .ellipse {
+.celular .ellipse-4 {
   height: 84px;
   left: 260px;
   object-fit: cover;
@@ -932,7 +1751,7 @@
   width: 84px;
 }
 
-.celular .ellipse-2 {
+.celular .ellipse-5 {
   height: 84px;
   left: 604px;
   object-fit: cover;
@@ -941,7 +1760,7 @@
   width: 84px;
 }
 
-.celular .ellipse-3 {
+.celular .ellipse-6 {
   height: 84px;
   left: 969px;
   object-fit: cover;
@@ -950,7 +1769,7 @@
   width: 84px;
 }
 
-.celular .star {
+.celular .star-13 {
   height: 19px;
   left: 237px;
   position: absolute;
@@ -958,7 +1777,7 @@
   width: 23px;
 }
 
-.celular .star-2 {
+.celular .star-14 {
   height: 19px;
   left: 578px;
   position: absolute;
@@ -966,7 +1785,7 @@
   width: 23px;
 }
 
-.celular .star-3 {
+.celular .star-15 {
   height: 19px;
   left: 913px;
   position: absolute;
@@ -974,7 +1793,7 @@
   width: 23px;
 }
 
-.celular .star-4 {
+.celular .star-16 {
   height: 19px;
   left: 267px;
   position: absolute;
@@ -982,7 +1801,7 @@
   width: 23px;
 }
 
-.celular .star-5 {
+.celular .star-17 {
   height: 19px;
   left: 608px;
   position: absolute;
@@ -990,7 +1809,7 @@
   width: 23px;
 }
 
-.celular .star-6 {
+.celular .star-18 {
   height: 19px;
   left: 943px;
   position: absolute;
@@ -998,7 +1817,7 @@
   width: 23px;
 }
 
-.celular .star-7 {
+.celular .star-19 {
   height: 19px;
   left: 297px;
   position: absolute;
@@ -1006,7 +1825,7 @@
   width: 23px;
 }
 
-.celular .star-8 {
+.celular .star-20 {
   height: 19px;
   left: 638px;
   position: absolute;
@@ -1014,7 +1833,7 @@
   width: 23px;
 }
 
-.celular .star-9 {
+.celular .star-21 {
   height: 19px;
   left: 973px;
   position: absolute;
@@ -1022,7 +1841,7 @@
   width: 23px;
 }
 
-.celular .star-10 {
+.celular .star-22 {
   height: 19px;
   left: 327px;
   position: absolute;
@@ -1030,7 +1849,7 @@
   width: 23px;
 }
 
-.celular .star-11 {
+.celular .star-23 {
   height: 19px;
   left: 668px;
   position: absolute;
@@ -1038,7 +1857,7 @@
   width: 23px;
 }
 
-.celular .star-12 {
+.celular .star-24 {
   height: 19px;
   left: 1003px;
   position: absolute;
@@ -1046,7 +1865,7 @@
   width: 23px;
 }
 
-.celular .star-13 {
+.celular .star-25 {
   height: 19px;
   left: 357px;
   position: absolute;
@@ -1054,7 +1873,7 @@
   width: 23px;
 }
 
-.celular .star-14 {
+.celular .star-26 {
   height: 19px;
   left: 698px;
   position: absolute;
@@ -1062,7 +1881,7 @@
   width: 23px;
 }
 
-.celular .star-15 {
+.celular .star-27 {
   height: 19px;
   left: 1033px;
   position: absolute;
@@ -1078,7 +1897,7 @@
   width: 194px;
 }
 
-.celular .text-wrapper-26 {
+.celular .text-wrapper-53 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 18px;
@@ -1092,7 +1911,7 @@
   width: 529px;
 }
 
-.celular .text-wrapper-27 {
+.celular .text-wrapper-54 {
   color: #000000;
   font-family: "Lato", Helvetica;
   font-size: 24px;

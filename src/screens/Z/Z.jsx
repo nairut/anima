@@ -1,9 +1,9 @@
 import React from "react";
 import "./style.css";
 
-export const TranslationService = () => {
+export const Z = () => {
   return (
-    <div className="translation-service">
+    <div className="z">
       <div className="div">
         <div className="rectangle" />
         <div className="overlap-group">

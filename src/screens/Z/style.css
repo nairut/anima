@@ -1,4 +1,4 @@
-.translation-service {
+.z {
   background-color: #ffffff;
   display: flex;
   flex-direction: row;
@@ -6,15 +6,15 @@
   width: 100%;
 }
 
-.translation-service .div {
+.z .div {
   background-color: #ffffff;
   border: 1px none;
   height: 1024px;
   position: relative;
-  width: 1200px;
+  width: 1300px;
 }
 
-.translation-service .rectangle {
+.z .rectangle {
   background-color: #d9d9d9;
   height: 347px;
   left: 95px;
@@ -23,7 +23,7 @@
   width: 356px;
 }
 
-.translation-service .overlap-group {
+.z .overlap-group {
   height: 577px;
   left: 546px;
   position: absolute;
@@ -31,7 +31,7 @@
   width: 590px;
 }
 
-.translation-service .rectangle-2 {
+.z .rectangle-2 {
   background-color: #d9d9d9;
   height: 347px;
   left: 0;
@@ -40,7 +40,7 @@
   width: 356px;
 }
 
-.translation-service .rectangle-3 {
+.z .rectangle-3 {
   background-color: #d9d9d9;
   height: 347px;
   left: 234px;
@@ -49,7 +49,7 @@
   width: 356px;
 }
 
-.translation-service .rectangle-4 {
+.z .rectangle-4 {
   background-color: #d9d9d9;
   height: 347px;
   left: 95px;
