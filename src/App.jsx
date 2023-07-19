@@ -1,12 +1,14 @@
 import React from 'react';
-import ResponsiveComponent from './ResponsiveComponent';
+import { Celular } from "./screens/Celular";
 
 const App = () => {
   return (
     <div>
-      <ResponsiveComponent />
+      <Celular />
     </div>
   );
 };
 
 export default App;
+
+
