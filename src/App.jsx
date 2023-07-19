@@ -1,11 +1,10 @@
 import React from "react";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch, Redirect } from "react-router-dom";
 import { Celular } from "./screens/Celular";
 import { DesktopForm } from "./screens/DesktopForm";
 import { CellForm } from "./screens/CellForm";
 import { Tablet } from "./screens/Tablet";
 import { Index } from "./screens/Index";
-
 
 class App extends React.Component {
   constructor(props) {
@@ -43,7 +42,7 @@ class App extends React.Component {
           <Route exact path="/desktop-form" component={DesktopForm} />
           <Route exact path="/Celular" component={Celular} />
           <Route exact path="/cellform" component={CellForm} />
-
+          <Route>
             {isMobile ? <Redirect to="/cellform" /> : <Redirect to="/desktop-form" />}
           </Route>
         </Switch>
@@ -53,4 +52,3 @@ class App extends React.Component {
 }
 
 export default App;
-
