@@ -120,12 +120,12 @@
   width: 430px;
 }
 
-.desktop-form .img {
-  height: 89px;
-  left: 0;
-  position: absolute;
-  top: 14px;
-  width: 430px;
+.desktop-form .rectangle-6 {
+  height: 89px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 14px !important;
+  width: 430px !important;
 }
 
 .desktop-form .group-2 {
@@ -237,11 +237,11 @@
 }
 
 .desktop-form .line {
-  height: 1px;
-  left: 475px;
-  position: absolute;
-  top: 308px;
-  width: 426px;
+  height: 1px !important;
+  left: 475px !important;
+  position: absolute !important;
+  top: 308px !important;
+  width: 426px !important;
 }
 
 .desktop-form .lady-instance {

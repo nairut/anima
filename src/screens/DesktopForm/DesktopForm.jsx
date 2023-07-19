@@ -1,5 +1,7 @@
 import React from "react";
 import { Lady } from "../../components/Lady";
+import { Line1 } from "../../icons/Line1";
+import { Rectangle6 } from "../../icons/Rectangle6";
 import "./style.css";
 
 export const DesktopForm = () => {
@@ -23,7 +25,7 @@ export const DesktopForm = () => {
           </div>
         </div>
         <div className="overlap-3">
-          <img className="img" alt="Rectangle" src="/img/rectangle-6.png" />
+          <Rectangle6 className="rectangle-6" />
           <div className="group-2">
             <div className="overlap-4">
               <div className="rectangle-3" />
@@ -44,7 +46,7 @@ export const DesktopForm = () => {
             <div className="text-wrapper-5">Send</div>
           </div>
         </div>
-        <img className="line" alt="Line" src="/img/line-1.png" />
+        <Line1 className="line" />
         <Lady className="lady-instance" />
         <img className="magma-translation" alt="Magma translation" src="/img/magma-translation-png.png" />
         <h1 className="h-1">Get a Free, No-Obligation Price Quote</h1>

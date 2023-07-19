@@ -7,14 +7,14 @@ import { CellForm } from "./screens/CellForm";
 const router = createBrowserRouter([
   {
     path: "/*",
-    element: <Celular />,
+    element: <DesktopForm />,
   },
   {
     path: "/desktop-form",
     element: <DesktopForm />,
   },
   {
-    path: "/celular-all-breakpoints",
+    path: "/celular",
     element: <Celular />,
   },
   {
