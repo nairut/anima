@@ -7,7 +7,7 @@ import { CellForm } from "./screens/CellForm";
 const router = createBrowserRouter([
   {
     path: "/*",
-    element: <DesktopForm />,
+    element: <Celular/>,
   },
   {
     path: "/desktop-form",
