@@ -1,8 +1,12 @@
-import React, { useEffect, useState } from 'react';
-import CellForm from './screens/CellForm/CellForm';
-import Celular from './screens/Celular/Celular';
-import DesktopForm from './screens/DesktopForm/DesktopForm';
-import Index from './screens/Index/Index';
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { Celular } from "./screens/Celular";
+import { DesktopForm } from "./screens/DesktopForm";
+import { CellForm } from "./screens/CellForm";
+import { Tablet } from "./screens/Tablet";
+import { Index } from "./screens/Index";
+
+
+
 
 const ResponsiveComponent = () => {
   const [width, setWidth] = useState(window.innerWidth);
