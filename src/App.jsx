@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route, Switch, Redirect } from "react-router-d
 import { Celular } from "./screens/Celular";
 import { DesktopForm } from "./screens/DesktopForm";
 import { CellForm } from "./screens/CellForm";
-import { Tablet } from "./screens/Tablet";
 import { Index } from "./screens/Index";
 
 class App extends React.Component {
