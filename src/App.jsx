@@ -4,10 +4,7 @@ import { Z } from "./screens/Z";
 import { Celular } from "./screens/Celular";
 
 const router = createBrowserRouter([
-  {
-    path: "/*",
-    element: <Z />,
-  },
+
   {
     path: "/z",
     element: <Z />,
