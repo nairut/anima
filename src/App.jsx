@@ -1,7 +1,7 @@
 import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { DesktopForm } from "./screens/DesktopForm";
-import { Celular } from "./screens/Celular";
+import { Tablet } from "./screens/Tablet";
 
 const router = createBrowserRouter([
   {
@@ -13,8 +13,8 @@ const router = createBrowserRouter([
     element: <DesktopForm />,
   },
   {
-    path: "/celular-all-breakpoints",
-    element: <Celular />,
+    path: "/tablet-2",
+    element: <Tablet />,
   },
 ]);
 

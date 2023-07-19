@@ -64,7 +64,7 @@ export const DesktopForm = () => {
                 <div className="text-wrapper-5">Send</div>
               </div>
             </div>
-            <img className="line" alt="Line" src="/img/line-1-1.png" />
+            <img className="line" alt="Line" src="/img/line-1.png" />
             <Lady className="lady-instance" />
           </>
         )}
@@ -80,9 +80,9 @@ export const DesktopForm = () => {
           alt="Magma translation"
           src={
             screenWidth >= 1300
-              ? "/img/magma-translation-png-4.png"
-              : screenWidth < 1300
               ? "/img/magma-translation-png.png"
+              : screenWidth < 1300
+              ? "/img/magma-translation-png-3.png"
               : undefined
           }
         />
