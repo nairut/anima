@@ -6,7 +6,7 @@ import { Index } from "./screens/Index";
 const router = createBrowserRouter([
   {
     path: "/*",
-    element: <DesktopForm />,
+    element: <Index />,
   },
   {
     path: "/desktop-form",
