@@ -7,52 +7,7 @@ import "./style.css";
 export const Index = () => {
   const screenWidth = useWindowWidth();
 
-  return (
-    <div className="index">
-      <div
-        className="celular"
-        style={{
-          border:
-            screenWidth < 1000
-              ? "1px none"
-              : screenWidth >= 1000 && screenWidth < 1201
-              ? "0.83px none"
-              : screenWidth >= 1201
-              ? "0.99px none"
-              : undefined,
-          height:
-            screenWidth < 1000
-              ? "912px"
-              : screenWidth >= 1000 && screenWidth < 1201
-              ? "3024.98px"
-              : screenWidth >= 1201
-              ? "3796px"
-              : undefined,
-          width:
-            screenWidth < 1000
-              ? "430px"
-              : screenWidth >= 1000 && screenWidth < 1201
-              ? "1000px"
-              : screenWidth >= 1201
-              ? "1201px"
-              : undefined,
-        }}
-      >
-        {screenWidth < 1000 && (
-          <>
-            <h1 className="text-wrapper-6">Professional Translation Services</h1>
-            <p className="element-languages-that">
-              120 languages that fits in your budget
-              <br />
-              High Quality Human Translation
-              <br />
-              Linguists with Master&#39;s Degrees
-            </p>
-            <div className="click-to-discover-wrapper">
-              <div className="click-to-discover">CLICK TO DISCOVER</div>
-            </div>
-          </>
-        )}
+
 
         {((screenWidth >= 1000 && screenWidth < 1201) || screenWidth >= 1201) && (
           <>
