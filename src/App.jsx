@@ -13,7 +13,7 @@ const router = createBrowserRouter([
     element: <Z />,
   },
   {
-    path: "/celular-all-breakpoints",
+    path: "/*",
     element: <Celular />,
   },
 ]);
