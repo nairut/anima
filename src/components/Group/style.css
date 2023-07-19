@@ -1,0 +1,34 @@
+.group {
+  border-radius: 13px;
+  height: 55px;
+  left: 20px;
+  position: relative;
+  width: 335px;
+}
+
+.group .talk-to-an-expert {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  height: 9px;
+  left: 63px;
+  letter-spacing: 1px;
+  line-height: 13px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 209px;
+}
+
+.group.default {
+  background-color: #0536a8;
+  top: 15px;
+}
+
+.group.variant-2 {
+  background-color: #c8982a;
+  top: 95px;
+  transition: all 0.2s ease;
+}
