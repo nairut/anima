@@ -27,7 +27,7 @@ export const Celular = () => {
               : screenWidth >= 1000 && screenWidth < 1201
               ? "3024.98px"
               : screenWidth >= 1201
-              ? "3796px"
+              ? "1201px"
               : undefined,
           width:
             screenWidth < 1000
