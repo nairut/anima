@@ -6,331 +6,258 @@
   width: 100%;
 }
 
-.desktop-form .cell-form {
+.desktop-form .div {
   background-color: #ffffff;
-  border: 1px none;
+  border: 0.77px none;
+  height: 787.69px;
   position: relative;
-}
-
-.desktop-form .text-wrapper {
-  color: #000000;
-  font-family: "Lato", Helvetica;
-  font-size: 45px;
-  font-weight: 700;
-  left: 28px;
-  letter-spacing: 1.8px;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 117px;
-  width: 366px;
-}
-
-.desktop-form .send-wrapper {
-  background-color: #0536a8;
-  height: 266px;
-  left: 0;
-  position: absolute;
-  top: 646px;
-  width: 430px;
-}
-
-.desktop-form .send {
-  color: #ffffff;
-  font-family: "Manrope", Helvetica;
-  font-size: 26.8px;
-  font-weight: 300;
-  height: 44px;
-  left: 81px;
-  letter-spacing: 1.34px;
-  line-height: 17.4px;
-  position: absolute;
-  text-align: center;
-  top: 110px;
-  width: 268px;
+  width: 1000px;
 }
 
 .desktop-form .overlap {
-  height: 84px;
-  left: 626px;
+  height: 64px;
+  left: 482px;
   position: absolute;
-  top: 251px;
-  width: 256px;
+  top: 193px;
+  width: 197px;
 }
 
 .desktop-form .rectangle {
   background-color: #ffffff;
-  border: 0.7px solid;
+  border: 0.54px solid;
   border-color: #000000;
-  border-radius: 4px;
-  height: 65px;
+  border-radius: 3.08px;
+  height: 50px;
   left: 0;
   position: absolute;
-  top: 18px;
-  width: 256px;
+  top: 14px;
+  width: 197px;
 }
 
 .desktop-form .overlap-wrapper {
-  height: 36px;
-  left: 19px;
+  height: 28px;
+  left: 14px;
   position: absolute;
   top: 0;
-  width: 126px;
+  width: 97px;
 }
 
 .desktop-form .overlap-group {
   background-color: #ffffff;
-  height: 36px;
+  height: 28px;
   position: relative;
-  width: 124px;
+  width: 95px;
 }
 
-.desktop-form .div {
+.desktop-form .text-wrapper {
   color: #0a3749;
   font-family: "Nunito", Helvetica;
-  font-size: 22px;
+  font-size: 16.9px;
   font-weight: 500;
-  left: 3px;
+  left: 2px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 5px;
+  top: 4px;
   white-space: nowrap;
-  width: 120px;
+  width: 93px;
 }
 
 .desktop-form .overlap-2 {
-  height: 85px;
-  left: 624px;
+  height: 65px;
+  left: 480px;
   position: absolute;
-  top: 372px;
-  width: 559px;
+  top: 286px;
+  width: 430px;
 }
 
 .desktop-form .rectangle-2 {
   background-color: #ffffff;
-  border: 0.7px solid;
+  border: 0.54px solid;
   border-color: #000000;
-  border-radius: 4px;
-  height: 65px;
+  border-radius: 3.08px;
+  height: 50px;
   left: 0;
   position: absolute;
-  top: 19px;
-  width: 559px;
+  top: 15px;
+  width: 430px;
 }
 
 .desktop-form .overlap-group-wrapper {
-  height: 36px;
-  left: 28px;
+  height: 28px;
+  left: 21px;
   position: absolute;
   top: 0;
-  width: 78px;
+  width: 60px;
 }
 
 .desktop-form .div-wrapper {
   background-color: #ffffff;
-  height: 36px;
+  height: 28px;
   position: relative;
-  width: 76px;
+  width: 58px;
 }
 
 .desktop-form .text-wrapper-2 {
   color: #0a3749;
   font-family: "Nunito", Helvetica;
-  font-size: 22px;
+  font-size: 16.9px;
   font-weight: 500;
-  left: 3px;
+  left: 2px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 5px;
+  top: 4px;
   white-space: nowrap;
-  width: 67px;
+  width: 52px;
 }
 
 .desktop-form .overlap-3 {
-  height: 134px;
-  left: 624px;
+  height: 103px;
+  left: 480px;
   position: absolute;
-  top: 488px;
-  width: 559px;
+  top: 375px;
+  width: 430px;
 }
 
 .desktop-form .img {
-  height: 116px;
+  height: 89px;
   left: 0;
   position: absolute;
-  top: 18px;
-  width: 559px;
+  top: 14px;
+  width: 430px;
 }
 
 .desktop-form .group-2 {
-  height: 36px;
-  left: 28px;
+  height: 28px;
+  left: 21px;
   position: absolute;
   top: 0;
-  width: 139px;
+  width: 108px;
 }
 
 .desktop-form .overlap-4 {
-  height: 36px;
+  height: 28px;
   position: relative;
-  width: 137px;
+  width: 106px;
 }
 
 .desktop-form .rectangle-3 {
   background-color: #ffffff;
-  height: 36px;
+  height: 28px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 124px;
+  width: 95px;
 }
 
 .desktop-form .text-wrapper-3 {
   color: #0a3749;
   font-family: "Nunito", Helvetica;
-  font-size: 22px;
+  font-size: 16.9px;
   font-weight: 500;
-  left: 15px;
+  left: 12px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 5px;
+  top: 4px;
   white-space: nowrap;
-  width: 122px;
+  width: 94px;
 }
 
 .desktop-form .overlap-5 {
-  height: 84px;
-  left: 913px;
+  height: 64px;
+  left: 702px;
   position: absolute;
-  top: 251px;
-  width: 256px;
+  top: 193px;
+  width: 197px;
 }
 
 .desktop-form .group-3 {
-  height: 36px;
-  left: 15px;
+  height: 28px;
+  left: 12px;
   position: absolute;
   top: 0;
-  width: 126px;
+  width: 97px;
 }
 
 .desktop-form .text-wrapper-4 {
   color: #0a3749;
   font-family: "Nunito", Helvetica;
-  font-size: 22px;
+  font-size: 16.9px;
   font-weight: 500;
-  left: 7px;
+  left: 6px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 5px;
+  top: 4px;
   white-space: nowrap;
-  width: 105px;
+  width: 81px;
 }
 
 .desktop-form .group-4 {
-  height: 64px;
-  left: 625px;
+  height: 49px;
+  left: 481px;
   position: absolute;
-  top: 658px;
-  width: 590px;
+  top: 506px;
+  width: 454px;
 }
 
 .desktop-form .overlap-group-2 {
   background-color: #ffe061;
-  border-radius: 7px;
-  height: 64px;
+  border-radius: 5.38px;
+  height: 49px;
   position: relative;
-  width: 588px;
+  width: 452px;
 }
 
 .desktop-form .text-wrapper-5 {
   color: #0a3749;
   font-family: "Inter", Helvetica;
-  font-size: 27px;
+  font-size: 20.8px;
   font-weight: 400;
-  left: 235px;
+  left: 181px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 15px;
-  width: 168px;
+  top: 12px;
+  width: 129px;
 }
 
 .desktop-form .line {
   height: 1px;
-  left: 613px;
-  object-fit: cover;
+  left: 472px;
   position: absolute;
-  top: 218px;
-  width: 588px;
+  top: 168px;
+  width: 452px;
 }
 
 .desktop-form .lady-instance {
-  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1.png) !important;
-  height: 364px !important;
-  left: 132px !important;
+  background-image: url(../../../static/img/whatsapp-image-2023-07-12-at-12-41-1-8.png) !important;
+  height: 280px !important;
+  left: 102px !important;
   position: absolute !important;
-  top: 358px !important;
-  width: 280px !important;
+  top: 275px !important;
+  width: 215px !important;
 }
 
 .desktop-form .magma-translation {
+  height: 35px;
+  left: 102px;
   position: absolute;
+  top: 44px;
+  width: 124px;
 }
 
 .desktop-form .h-1 {
   color: #000000;
   font-family: "Lato", Helvetica;
-  font-size: 45px;
+  font-size: 34.6px;
   font-weight: 700;
-  left: 607px;
-  letter-spacing: 1.8px;
+  left: 467px;
+  letter-spacing: 1.38px;
   line-height: normal;
   position: absolute;
-  top: 56px;
-  width: 599px;
-}
-
-.desktop-form .overlap-6 {
-  height: 83px;
-  left: 62px;
-  position: absolute;
-  top: 438px;
-  width: 296px;
-}
-
-.desktop-form .rectangle-4 {
-  background-color: #ffffff;
-  border: 0.7px solid;
-  border-color: #000000;
-  border-radius: 4px;
-  height: 65px;
-  left: 0;
-  position: absolute;
-  top: 17px;
-  width: 296px;
-}
-
-.desktop-form .group-5 {
-  height: 36px;
-  left: 27px;
-  position: absolute;
-  top: 0;
-  width: 78px;
-}
-
-.desktop-form .just-send-us-your-e {
-  color: #000000;
-  font-family: "Nunito", Helvetica;
-  font-size: 22px;
-  font-weight: 500;
-  left: 56px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 347px;
+  top: 43px;
+  width: 461px;
 }
