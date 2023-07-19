@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import CellForm from './screens/pages/CellForm/CellForm';
-import Celular from './screens/pages/Celular/Celular';
-import DesktopForm from './screens/pages/DesktopForm/DesktopForm';
-import Index from './screens/pages/Index/Index';
+import CellForm from './screens/CellForm/CellForm';
+import Celular from './screens/Celular/Celular';
+import DesktopForm from './screens/DesktopForm/DesktopForm';
+import Index from './screens/Index/Index';
 
 const ResponsiveComponent = () => {
   const [width, setWidth] = useState(window.innerWidth);
