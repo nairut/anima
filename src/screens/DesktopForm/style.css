@@ -316,7 +316,7 @@
 
 .desktop-form .textarea-style {
   /* Add your custom styles here */
-  width: 95px; /* Adjust the width as needed */
+  width: 100%; /* Adjust the width as needed */
   height: 28px; /* Adjust the height as needed */
   padding: 50px; /* Adjust the padding as needed */
 
@@ -325,3 +325,5 @@
   color: #333; /* Adjust the text color as needed */
 
 }
+
+
