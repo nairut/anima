@@ -14,16 +14,15 @@ export const DesktopForm = () => {
 
 
 
-
-        <div className="overlap">
+          <div className="overlap">
+          <textarea required name="message" placeholder="Message" className="rectangle-2">   </textarea>  
           <div className="overlap-wrapper">
             <div className="overlap-2">
-
-            <textarea required name="message" placeholder="Message" className="rectangle-2">   </textarea>            
-
-              </div>
-              <div className="text-wrapper-2">     Message</div>
+              <div className="rectangle-2" />
+              <div className="text-wrapper-2">Message</div>
+            </div>
           </div>
+
 
 
 
@@ -41,7 +40,8 @@ export const DesktopForm = () => {
 
 
         <div className="overlap-4">
-          <div className="rectangle-4" />
+          <input required type="text" className="rectangle-4" name="name" placeholder="   Cooper"/>
+
           <div className="group-2">
             <div className="overlap-5">
               <div className="text-wrapper-4">Last name</div>
