@@ -1,0 +1,1634 @@
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .celular {
+  background-color: #ffffff;
+  position: relative;
+}
+
+.index .text-wrapper-7 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 55px;
+  font-weight: 700;
+  left: 28px;
+  letter-spacing: 2.2px;
+  line-height: 80.3px;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  width: 366px;
+}
+
+.index .element-languages-that {
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  height: 199px;
+  left: 5px;
+  letter-spacing: 0.6px;
+  line-height: 66.3px;
+  position: absolute;
+  text-align: center;
+  top: 396px;
+  width: 421px;
+}
+
+.index .click-to-discover-wrapper {
+  background-color: #0536a8;
+  height: 266px;
+  left: 0;
+  position: absolute;
+  top: 646px;
+  width: 430px;
+}
+
+.index .click-to-discover {
+  color: #ffffff;
+  font-family: "Manrope", Helvetica;
+  font-size: 26.8px;
+  font-weight: 300;
+  height: 44px;
+  left: 81px;
+  letter-spacing: 1.34px;
+  line-height: 17.4px;
+  position: absolute;
+  text-align: center;
+  top: 110px;
+  width: 268px;
+}
+
+.index .overlap-6 {
+  position: absolute;
+}
+
+.index .rectangle-5 {
+  position: absolute;
+}
+
+.index .group-5 {
+  left: 0;
+  position: absolute;
+}
+
+.index .text-wrapper-8 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.index .element-languages-that-2 {
+  color: #383836;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  left: 0;
+  position: absolute;
+}
+
+.index .class {
+  font-size: 12.7px !important;
+  height: 6px !important;
+  left: 38px !important;
+  letter-spacing: 0.64px !important;
+  line-height: 8.3px !important;
+  top: 14px !important;
+  width: 127px !important;
+}
+
+.index .class-2 {
+  font-size: 17.1px !important;
+  height: 8px !important;
+  left: 52px !important;
+  letter-spacing: 0.85px !important;
+  line-height: 11.1px !important;
+  top: 19px !important;
+  width: 171px !important;
+}
+
+.index .group-instance {
+  font-size: 20.5px !important;
+  left: 62px !important;
+  letter-spacing: 1.03px !important;
+  line-height: 13.3px !important;
+  width: 205px !important;
+}
+
+.index .class-3 {
+  border-radius: 17.44px !important;
+  height: 35px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 216px !important;
+  width: 204px !important;
+}
+
+.index .class-4 {
+  border-radius: 23.45px !important;
+  height: 47px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 290px !important;
+  width: 274px !important;
+}
+
+.index .class-5 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 348px !important;
+  width: 329px !important;
+}
+
+.index .text-wrapper-9 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .text-wrapper-10 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .zapier-png {
+  position: absolute;
+}
+
+.index .overlap-7 {
+  background-size: 100% 100%;
+  position: absolute;
+}
+
+.index .text-wrapper-11 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .law {
+  position: absolute;
+}
+
+.index .overlap-8 {
+  background-size: 100% 100%;
+  position: absolute;
+}
+
+.index .media-films {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .next {
+  position: absolute;
+}
+
+.index .overlap-9 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-12 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .medical-bag {
+  position: absolute;
+}
+
+.index .overlap-group-3 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-13 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .MBA {
+  position: absolute;
+}
+
+.index .overlap-10 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-14 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .manufacturing {
+  position: absolute;
+}
+
+.index .overlap-11 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-15 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .tesla-model-x {
+  position: absolute;
+}
+
+.index .overlap-12 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-16 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .money-bag-pounds {
+  position: absolute;
+}
+
+.index .overlap-13 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-17 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .commercial {
+  position: absolute;
+}
+
+.index .overlap-14 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .IT-software {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .programming-flag {
+  position: absolute;
+}
+
+.index .overlap-15 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-18 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .biotech {
+  position: absolute;
+}
+
+.index .overlap-16 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-19 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .plane {
+  position: absolute;
+}
+
+.index .overlap-17 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-20 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .buy {
+  position: absolute;
+}
+
+.index .text-wrapper-21 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .text-wrapper-22 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+}
+
+.index .overlap-18 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .document-translation {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .PDF {
+  position: absolute;
+}
+
+.index .overlap-19 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .marketing-material {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .goal {
+  position: absolute;
+}
+
+.index .overlap-20 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .website-apps {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .website {
+  position: absolute;
+}
+
+.index .overlap-21 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-23 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .video-camera {
+  position: absolute;
+}
+
+.index .overlap-22 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-24 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .e-commerce {
+  position: absolute;
+}
+
+.index .overlap-23 {
+  border-color: #c8982a;
+  position: absolute;
+}
+
+.index .text-wrapper-25 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .biotech-2 {
+  position: absolute;
+}
+
+.index .class-6 {
+  border-radius: 17.44px !important;
+  height: 35px !important;
+  left: 268px !important;
+  position: absolute !important;
+  top: 1077px !important;
+  width: 204px !important;
+}
+
+.index .class-7 {
+  border-radius: 23.45px !important;
+  height: 47px !important;
+  left: 361px !important;
+  position: absolute !important;
+  top: 1448px !important;
+  width: 274px !important;
+}
+
+.index .class-8 {
+  border-radius: 17.44px !important;
+  height: 35px !important;
+  left: 268px !important;
+  position: absolute !important;
+  top: 1945px !important;
+  width: 204px !important;
+}
+
+.index .class-9 {
+  border-radius: 23.45px !important;
+  height: 47px !important;
+  left: 361px !important;
+  position: absolute !important;
+  top: 2614px !important;
+  width: 274px !important;
+}
+
+.index .our-growth-would-not {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+}
+
+.index .text-wrapper-26 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+}
+
+.index .we-are-a-german {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+}
+
+.index .text-wrapper-27 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+}
+
+.index .every-translation {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+}
+
+.index .text-wrapper-28 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-29 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-30 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-31 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-32 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-33 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.index .ellipse {
+  object-fit: cover;
+  position: absolute;
+}
+
+.index .ellipse-2 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.index .ellipse-3 {
+  object-fit: cover;
+  position: absolute;
+}
+
+.index .star {
+  position: absolute;
+}
+
+.index .star-2 {
+  position: absolute;
+}
+
+.index .star-3 {
+  position: absolute;
+}
+
+.index .crowdin-png {
+  position: absolute;
+}
+
+.index .star-4 {
+  position: absolute;
+}
+
+.index .star-5 {
+  position: absolute;
+}
+
+.index .star-6 {
+  position: absolute;
+}
+
+.index .star-7 {
+  position: absolute;
+}
+
+.index .star-8 {
+  position: absolute;
+}
+
+.index .star-9 {
+  position: absolute;
+}
+
+.index .star-10 {
+  position: absolute;
+}
+
+.index .star-11 {
+  position: absolute;
+}
+
+.index .star-12 {
+  position: absolute;
+}
+
+.index .star-13 {
+  position: absolute;
+}
+
+.index .star-14 {
+  position: absolute;
+}
+
+.index .magma-translation-3 {
+  position: absolute;
+}
+
+.index .text-wrapper-34 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  text-align: center;
+}
+
+.index .text-wrapper-35 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.index .magma-translation-4 {
+  position: absolute;
+}
+
+.index .rectangle-6 {
+  height: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.index .cloudwords-png {
+  height: 70px;
+  position: absolute;
+  top: 837px;
+  width: 101px;
+}
+
+.index .rectangle-7 {
+  height: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.index .rectangle-8 {
+  height: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 837px;
+  width: 111px;
+}
+
+.index .rectangle-9 {
+  height: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.index .rectangle-10 {
+  height: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 837px;
+  width: 101px;
+}
+
+.index .evoltz-png {
+  height: 70px;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.index .rectangle-11 {
+  height: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 837px;
+  width: 107px;
+}
+
+.index .jungheinrich-png {
+  height: 70px;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.index .rectangle-12 {
+  height: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 837px;
+  width: 115px;
+}
+
+.index .shopee-png {
+  height: 70px;
+  position: absolute;
+  top: 953px;
+  width: 101px;
+}
+
+.index .overlap-24 {
+  background-image: url(../../../static/img/rectangle-19-6.png);
+  background-size: 100% 100%;
+  height: 139px;
+  position: absolute;
+  top: 1317px;
+  width: 152px;
+}
+
+.index .text-wrapper-36 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 51px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.index .law-2 {
+  height: 38px;
+  left: 57px;
+  position: absolute;
+  top: 31px;
+  width: 38px;
+}
+
+.index .overlap-25 {
+  background-image: url(../../../static/img/rectangle-19-6.png);
+  background-size: 100% 100%;
+  height: 139px;
+  position: absolute;
+  top: 1524px;
+  width: 152px;
+}
+
+.index .media-films-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 8px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 95px;
+  white-space: nowrap;
+}
+
+.index .next-2 {
+  height: 38px;
+  left: 57px;
+  position: absolute;
+  top: 28px;
+  width: 38px;
+}
+
+.index .overlap-26 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  position: absolute;
+  top: 1317px;
+  width: 152px;
+}
+
+.index .text-wrapper-37 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 37px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.index .img-2 {
+  height: 38px;
+  left: 56px;
+  position: absolute;
+  top: 27px;
+  width: 38px;
+}
+
+.index .overlap-group-4 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  position: absolute;
+  top: 1524px;
+  width: 152px;
+}
+
+.index .text-wrapper-38 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.index .overlap-27 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  position: absolute;
+  top: 1317px;
+  width: 152px;
+}
+
+.index .text-wrapper-39 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 4px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.index .overlap-28 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  position: absolute;
+  top: 1524px;
+  width: 152px;
+}
+
+.index .text-wrapper-40 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 19px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.index .overlap-29 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  position: absolute;
+  top: 1317px;
+  width: 152px;
+}
+
+.index .text-wrapper-41 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 32px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.index .money-bag-pounds-2 {
+  height: 38px;
+  left: 49px;
+  position: absolute;
+  top: 27px;
+  width: 38px;
+}
+
+.index .overlap-30 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  position: absolute;
+  top: 1524px;
+  width: 152px;
+}
+
+.index .text-wrapper-42 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 26px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 102px;
+  white-space: nowrap;
+}
+
+.index .overlap-31 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  position: absolute;
+  top: 1317px;
+  width: 152px;
+}
+
+.index .overlap-32 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  position: absolute;
+  top: 1524px;
+  width: 152px;
+}
+
+.index .text-wrapper-43 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 12px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.index .overlap-33 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  position: absolute;
+  top: 1317px;
+  width: 152px;
+}
+
+.index .overlap-group-5 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 139px;
+  position: absolute;
+  top: 1524px;
+  width: 152px;
+}
+
+.index .text-wrapper-44 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 16px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-45 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 37.7px;
+  font-weight: 700;
+  letter-spacing: 1.51px;
+  line-height: normal;
+  position: absolute;
+  top: 2591px;
+  width: 468px;
+}
+
+.index .text-wrapper-46 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 2736px;
+  width: 939px;
+}
+
+.index .overlap-34 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 205px;
+  position: absolute;
+  top: 2851px;
+  width: 138px;
+}
+
+.index .document-translation-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  left: 31px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  position: absolute;
+  top: 101px;
+  width: 106px;
+}
+
+.index .img-3 {
+  height: 38px;
+  left: 49px;
+  position: absolute;
+  top: 38px;
+  width: 38px;
+}
+
+.index .overlap-35 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 205px;
+  position: absolute;
+  top: 2851px;
+  width: 138px;
+}
+
+.index .marketing-material-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  left: 21px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  position: absolute;
+  top: 101px;
+  width: 93px;
+}
+
+.index .overlap-36 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 205px;
+  position: absolute;
+  top: 2851px;
+  width: 138px;
+}
+
+.index .website-apps-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  left: 35px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  position: absolute;
+  top: 101px;
+  width: 77px;
+}
+
+.index .overlap-37 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 205px;
+  position: absolute;
+  top: 2851px;
+  width: 138px;
+}
+
+.index .text-wrapper-47 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  position: absolute;
+  top: 101px;
+  width: 97px;
+}
+
+.index .overlap-38 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 205px;
+  position: absolute;
+  top: 2851px;
+  width: 138px;
+}
+
+.index .text-wrapper-48 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  left: 18px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  position: absolute;
+  top: 101px;
+  width: 117px;
+}
+
+.index .overlap-39 {
+  border: 1px solid;
+  border-color: #c8982a;
+  height: 205px;
+  position: absolute;
+  top: 2851px;
+  width: 138px;
+}
+
+.index .text-wrapper-49 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 17px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  width: 117px;
+}
+
+.index .biotech-3 {
+  height: 38px;
+  left: 41px;
+  position: absolute;
+  top: 38px;
+  width: 38px;
+}
+
+.index .class-10 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 433px !important;
+  position: absolute !important;
+  top: 1739px !important;
+  width: 329px !important;
+}
+
+.index .class-11 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 482px !important;
+  position: absolute !important;
+  top: 1739px !important;
+  width: 329px !important;
+}
+
+.index .class-12 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 582px !important;
+  position: absolute !important;
+  top: 1739px !important;
+  width: 329px !important;
+}
+
+.index .class-13 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 532px !important;
+  position: absolute !important;
+  top: 1739px !important;
+  width: 329px !important;
+}
+
+.index .class-14 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 532px !important;
+  position: absolute !important;
+  top: 3139px !important;
+  width: 329px !important;
+}
+
+.index .class-15 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 433px !important;
+  position: absolute !important;
+  top: 3139px !important;
+  width: 329px !important;
+}
+
+.index .class-16 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 482px !important;
+  position: absolute !important;
+  top: 3139px !important;
+  width: 329px !important;
+}
+
+.index .class-17 {
+  border-radius: 28.16px !important;
+  height: 56px !important;
+  left: 582px !important;
+  position: absolute !important;
+  top: 3139px !important;
+  width: 329px !important;
+}
+
+.index .our-growth-would-not-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.64px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: center;
+  top: 2310px;
+  width: 285px;
+}
+
+.index .text-wrapper-50 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.64px;
+  line-height: 26.2px;
+  position: absolute;
+  text-align: center;
+  top: 2309px;
+  width: 285px;
+}
+
+.index .we-are-a-german-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.64px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 2309px;
+  width: 285px;
+}
+
+.index .span {
+  line-height: 21.4px;
+}
+
+.index .text-wrapper-51 {
+  line-height: 26.2px;
+}
+
+.index .text-wrapper-52 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 37px;
+  font-weight: 700;
+  letter-spacing: 1.48px;
+  line-height: normal;
+  position: absolute;
+  top: 1916px;
+  width: 537px;
+}
+
+.index .every-translation-2 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+  line-height: 27px;
+  position: absolute;
+  text-align: center;
+  top: 1994px;
+}
+
+.index .text-wrapper-53 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
+  position: absolute;
+  text-align: center;
+  top: 2240px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-54 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
+  position: absolute;
+  text-align: center;
+  top: 2240px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-55 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
+  position: absolute;
+  text-align: center;
+  top: 2240px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-56 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
+  position: absolute;
+  text-align: center;
+  top: 2202px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-57 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
+  position: absolute;
+  text-align: center;
+  top: 2202px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-58 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
+  position: absolute;
+  text-align: center;
+  top: 2202px;
+  white-space: nowrap;
+}
+
+.index .ellipse-4 {
+  height: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 2092px;
+  width: 84px;
+}
+
+.index .ellipse-5 {
+  height: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 2090px;
+  width: 84px;
+}
+
+.index .ellipse-6 {
+  height: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 2092px;
+  width: 84px;
+}
+
+.index .star-15 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-16 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-17 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-18 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-19 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-20 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-21 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-22 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-23 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-24 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-25 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-26 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-27 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-28 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .star-29 {
+  height: 19px;
+  position: absolute;
+  top: 2476px;
+  width: 23px;
+}
+
+.index .magma-translation-5 {
+  height: 54px;
+  position: absolute;
+  width: 194px;
+}
+
+.index .text-wrapper-59 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
+  position: absolute;
+  text-align: center;
+  width: 816px;
+}
+
+.index .text-wrapper-60 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.72px;
+  line-height: 29.7px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.index .magma-translation-6 {
+  height: 54px;
+  position: absolute;
+  width: 194px;
+}
