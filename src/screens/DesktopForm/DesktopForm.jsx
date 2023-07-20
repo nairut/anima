@@ -12,10 +12,16 @@ export const DesktopForm = () => {
           <div className="rectangle" />
           <div className="overlap-wrapper">
             <div className="overlap-group">
+
+              <input type="text" name="name"  />
               <div className="text-wrapper">First name</div>
             </div>
           </div>
         </div>
+
+
+
+
         <div className="overlap-2">
           <div className="rectangle-2" />
           <div className="overlap-group-wrapper">
@@ -47,6 +53,7 @@ export const DesktopForm = () => {
           </div>
         </div>
         </form>
+        
         <img className="line" alt="Line" src="/img/line-1-1.png" />
         <Lady className="lady-instance" />
         <img className="magma-translation" alt="Magma translation" src="/img/magma-translation-png.png" />
