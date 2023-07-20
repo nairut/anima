@@ -14,135 +14,69 @@
   width: 1014px;
 }
 
-.desktop-form .overlap {
-  height: 64px;
-  left: 471px;
+.desktop-form .group {
+  height: 50px;
+  left: 472px;
   position: absolute;
-  top: 243px;
-  width: 197px;
+  top: 556px;
+  width: 431px;
+}
+
+.desktop-form .overlap-group {
+  background-color: #ffe061;
+  border-radius: 5.38px;
+  height: 50px;
+  position: relative;
+  width: 429px;
+}
+
+.desktop-form .text-wrapper {
+  color: #0a3749;
+  font-family: "Inter", Helvetica;
+  font-size: 20.8px;
+  font-weight: 400;
+  left: 182px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 129px;
+}
+
+.desktop-form .overlap {
+  height: 99px;
+  left: 470px;
+  position: absolute;
+  top: 437px;
+  width: 431px;
 }
 
 .desktop-form .rectangle {
   background-color: #ffffff;
   border: 0.54px solid;
   border-color: #000000;
-  border-radius: 3.08px;
-  height: 50px;
+  height: 85px;
   left: 0;
   position: absolute;
   top: 14px;
-  width: 197px;
+  width: 431px;
 }
 
 .desktop-form .overlap-wrapper {
   height: 28px;
-  left: 13px;
-  position: absolute;
-  top: 0;
-  width: 97px;
-}
-
-.desktop-form .overlap-group {
-  background-color: #ffffff;
-  height: 28px;
-  position: relative;
-  width: 95px;
-}
-
-.desktop-form .text-wrapper {
-  color: #0a3749;
-  font-family: "Nunito", Helvetica;
-  font-size: 16.9px;
-  font-weight: 500;
-  left: 2px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 93px;
-}
-
-.desktop-form .overlap-2 {
-  height: 65px;
-  left: 472px;
-  position: absolute;
-  top: 336px;
-  width: 430px;
-}
-
-.desktop-form .rectangle-2 {
-  background-color: #ffffff;
-  border: 0.54px solid;
-  border-color: #000000;
-  border-radius: 3.08px;
-  height: 50px;
-  left: 0;
-  position: absolute;
-  top: 15px;
-  width: 430px;
-}
-
-.desktop-form .overlap-group-wrapper {
-  height: 28px;
-  left: 18px;
-  position: absolute;
-  top: 0;
-  width: 60px;
-}
-
-.desktop-form .div-wrapper {
-  background-color: #ffffff;
-  height: 28px;
-  position: relative;
-  width: 58px;
-}
-
-.desktop-form .text-wrapper-2 {
-  color: #0a3749;
-  font-family: "Nunito", Helvetica;
-  font-size: 16.9px;
-  font-weight: 500;
-  left: 2px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 4px;
-  white-space: nowrap;
-  width: 52px;
-}
-
-.desktop-form .overlap-3 {
-  height: 103px;
-  left: 472px;
-  position: absolute;
-  top: 426px;
-  width: 430px;
-}
-
-.desktop-form .img {
-  height: 89px;
-  left: 0;
-  position: absolute;
-  top: 14px;
-  width: 430px;
-}
-
-.desktop-form .group-2 {
-  height: 28px;
-  left: 18px;
+  left: 10px;
   position: absolute;
   top: 0;
   width: 108px;
 }
 
-.desktop-form .overlap-4 {
+.desktop-form .overlap-2 {
   height: 28px;
   position: relative;
   width: 106px;
 }
 
-.desktop-form .rectangle-3 {
+.desktop-form .rectangle-2 {
   background-color: #ffffff;
   height: 28px;
   left: 0;
@@ -151,7 +85,7 @@
   width: 95px;
 }
 
-.desktop-form .text-wrapper-3 {
+.desktop-form .text-wrapper-2 {
   color: #0a3749;
   font-family: "Nunito", Helvetica;
   font-size: 16.9px;
@@ -165,7 +99,56 @@
   width: 94px;
 }
 
-.desktop-form .overlap-5 {
+.desktop-form .overlap-3 {
+  height: 63px;
+  left: 472px;
+  position: absolute;
+  top: 338px;
+  width: 430px;
+}
+
+.desktop-form .rectangle-3 {
+  background-color: #ffffff;
+  border: 0.54px solid;
+  border-color: #000000;
+  border-radius: 3.08px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 430px;
+}
+
+.desktop-form .overlap-group-wrapper {
+  height: 28px;
+  left: 19px;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.desktop-form .div-wrapper {
+  background-color: #ffffff;
+  height: 28px;
+  position: relative;
+  width: 58px;
+}
+
+.desktop-form .text-wrapper-3 {
+  color: #0a3749;
+  font-family: "Nunito", Helvetica;
+  font-size: 16.9px;
+  font-weight: 500;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.desktop-form .overlap-4 {
   height: 64px;
   left: 695px;
   position: absolute;
@@ -185,12 +168,19 @@
   width: 208px;
 }
 
-.desktop-form .group-3 {
+.desktop-form .group-2 {
   height: 28px;
   left: 11px;
   position: absolute;
   top: 0;
   width: 97px;
+}
+
+.desktop-form .overlap-5 {
+  background-color: #ffffff;
+  height: 28px;
+  position: relative;
+  width: 95px;
 }
 
 .desktop-form .text-wrapper-4 {
@@ -207,33 +197,46 @@
   width: 81px;
 }
 
-.desktop-form .group-4 {
-  height: 50px;
-  left: 472px;
+.desktop-form .overlap-6 {
+  height: 64px;
+  left: 471px;
   position: absolute;
-  top: 556px;
-  width: 431px;
+  top: 243px;
+  width: 197px;
 }
 
-.desktop-form .overlap-group-2 {
-  background-color: #ffe061;
-  border-radius: 5.38px;
+.desktop-form .rectangle-5 {
+  background-color: #ffffff;
+  border: 0.54px solid;
+  border-color: #000000;
+  border-radius: 3.08px;
   height: 50px;
-  position: relative;
-  width: 429px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 197px;
+}
+
+.desktop-form .group-3 {
+  height: 28px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 97px;
 }
 
 .desktop-form .text-wrapper-5 {
   color: #0a3749;
-  font-family: "Inter", Helvetica;
-  font-size: 20.8px;
-  font-weight: 400;
-  left: 182px;
+  font-family: "Nunito", Helvetica;
+  font-size: 16.9px;
+  font-weight: 500;
+  left: 2px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 12px;
-  width: 129px;
+  top: 4px;
+  white-space: nowrap;
+  width: 93px;
 }
 
 .desktop-form .line {
@@ -302,7 +305,7 @@
   width: 444px;
 }
 
-.desktop-form .magma-translation-2 {
+.desktop-form .img {
   height: 54px;
   left: 410px;
   position: absolute;
