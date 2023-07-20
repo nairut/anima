@@ -7,9 +7,12 @@ export const DesktopForm = () => {
     
     
     
-    <button type="submit" className="text-wrapper-5">
+    
     <div className="desktop-form">
       <div className="div">
+
+
+      <button type="submit" className="text-wrapper-5">
         <div className="group">
           <div className="overlap-group">
             <div className="text-wrapper">Send</div>
@@ -18,10 +21,8 @@ export const DesktopForm = () => {
         </button>
 
 
-
-
           <div className="overlap">
-          <textarea required name="message" placeholder="    Message        " className="rectangle"  cols="30"   rols="10"> AAAAAA  </textarea>  
+          <textarea required name="message" placeholder="    Message        " className="rectangle"  cols="30"   rols="10">   </textarea>  
           <div className="overlap-wrapper">
             <div className="overlap-2">
               <div className="rectangle-2" />
