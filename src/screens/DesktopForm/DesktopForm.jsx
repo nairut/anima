@@ -24,18 +24,22 @@ export const DesktopForm = () => {
               <div className="text-wrapper-2">Message</div>
             </div>
           </div>
-
-
-
         </div>
+
+
+
         <div className="overlap-3">
-          <div className="rectangle-3" />
+        <input required type="email" className="rectangle-3" name="email" placeholder="Your E-mail"/>
           <div className="overlap-group-wrapper">
             <div className="div-wrapper">
               <div className="text-wrapper-3">Email</div>
             </div>
           </div>
         </div>
+
+
+
+
         <div className="overlap-4">
           <div className="rectangle-4" />
           <div className="group-2">
