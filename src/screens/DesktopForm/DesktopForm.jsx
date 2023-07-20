@@ -13,15 +13,19 @@ export const DesktopForm = () => {
         </div>
 
 
-
           <div className="overlap">
-          <textarea required name="message" placeholder="Message" className="rectangle-2">   </textarea>  
+          <textarea required name="message" placeholder="Message" className="rectangle">   </textarea>  
           <div className="overlap-wrapper">
             <div className="overlap-2">
               <div className="rectangle-2" />
               <div className="text-wrapper-2">Message</div>
             </div>
           </div>
+
+
+
+
+
 
 
 
