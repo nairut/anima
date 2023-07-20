@@ -33,22 +33,15 @@ export const DesktopForm = () => {
         </div>
 
 
-          <div className="overlap-3">
-          <img className="img" alt="Rectangle" src="/img/rectangle-6.png" />
+        
+        <div className="overlap-3">
+        <textarea required name="message" placeholder="Message" className="rectangle-3"></textarea>
+          <img className="img" alt="Rectangle" src="/img/rectangle-6-1.png" />
           <div className="group-2">
             <div className="overlap-4">
-              <div className="rectangle-3" />
+
+    
               <div className="text-wrapper-3">Message</div>
-            </div>
-          </div>
-
-
-        <div className="overlap-5">
-        <input required type="text" className="rectangle-4" name="Last-name" placeholder="   Cooper"/>
-
-          <div className="group-3">
-            <div className="overlap-group">
-              <div className="text-wrapper-4">Last name</div>
             </div>
           </div>
         </div>
@@ -56,9 +49,41 @@ export const DesktopForm = () => {
 
 
 
+        <div className="overlap-3">
+        <textarea required name="message" placeholder="Message" className="rectangle-3">
+          <img className="img" alt="Rectangle" src="/img/rectangle-6.png" />
+          <div className="group-2">
+            <div className="overlap-4">
+            </textarea>
+              <div className="text-wrapper-3">Message</div>
+            </div>
+          </div>
 
 
 
+
+
+
+
+
+
+        <div className="overlap-5">
+        <input required type="text" className="rectangle-4" name="name" placeholder="   Cooper"/>
+
+          <div className="group-3">
+            <div className="overlap-group">
+              <div className="text-wrapper-4">Last name</div>
+            </div>
+          </div>
+        </div>
+        <div className="group-4">
+          <div className="overlap-group-2">
+            <button type="submit">         
+            <div className="text-wrapper-5">Send</div>
+            </button>
+          </div>
+        </div>
+        </form>
 
         <img className="line" alt="Line" src="/img/line-1-1.png" />
         <Lady className="lady-instance" />
