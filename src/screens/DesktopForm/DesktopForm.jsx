@@ -33,11 +33,6 @@ export const DesktopForm = () => {
         </div>
 
 
-  
-
-
-
-
           <div className="overlap-3">
           <img className="img" alt="Rectangle" src="/img/rectangle-6.png" />
           <div className="group-2">
@@ -49,7 +44,7 @@ export const DesktopForm = () => {
 
 
         <div className="overlap-5">
-        <input required type="text" className="rectangle-4" name="name" placeholder="   Cooper"/>
+        <input required type="text" className="rectangle-4" name="Last-name" placeholder="   Cooper"/>
 
           <div className="group-3">
             <div className="overlap-group">
@@ -60,13 +55,6 @@ export const DesktopForm = () => {
 
 
 
-
-        <div className="group-4">
-          <div className="overlap-group-2">
-            <button type="submit" className="text-wrapper-5">Send</button>
-          </div>
-        </div>
-        </form>
 
 
 
