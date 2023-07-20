@@ -25,7 +25,7 @@ export const DesktopForm = () => {
 
 
           <div className="overlap">
-          <textarea required name="message" placeholder="Message" style="margin-bottom: 10px; line-height: 1.5;" className="rectangle" cols="30" rows="10"></textarea>
+          <textarea required name="message" placeholder="Message" className="rectangle" cols="30" rows="10"></textarea>
           <div className="overlap-wrapper">
             <div className="overlap-2">
               <div className="rectangle-2" />
