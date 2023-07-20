@@ -11,8 +11,6 @@ export const DesktopForm = () => {
     <div className="desktop-form">
       <div className="div">
 
-        <form>
-
 
 
         <div className="group">
@@ -20,6 +18,9 @@ export const DesktopForm = () => {
             <div className="text-wrapper">Send</div>
           </div>
         </div>
+
+
+
   
 
 
@@ -69,8 +70,6 @@ export const DesktopForm = () => {
           </div>
         </div>
 
-
-        </form>
 
 
 
