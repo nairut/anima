@@ -55,7 +55,9 @@ export const DesktopForm = () => {
         </div>
         <div className="group-4">
           <div className="overlap-group-2">
+            <button type="submit">         
             <div className="text-wrapper-5">Send</div>
+            </button>
           </div>
         </div>
         </form>
