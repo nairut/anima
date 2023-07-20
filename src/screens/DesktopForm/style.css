@@ -43,6 +43,10 @@
   width: 129px;
 }
 
+.desktop-form .text-wrapper:hover {
+  color: #000000;
+}
+
 .desktop-form .overlap {
   height: 99px;
   left: 470px;
