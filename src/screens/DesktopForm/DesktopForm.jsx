@@ -11,17 +11,17 @@ export const DesktopForm = () => {
     <div className="desktop-form">
       <div className="div">
 
-
+        <form>
 
         <div className="group">
+          <button type="submit">
           <div className="overlap-group">
             <div className="text-wrapper">Send</div>
           </div>
+          </button>
         </div>
 
 
-
-  
 
 
           <div className="overlap">
@@ -71,7 +71,7 @@ export const DesktopForm = () => {
         </div>
 
 
-
+        </form>
 
         <img className="line" alt="Line" src="/img/line-1.png" />
         <Lady className="lady-instance" />
