@@ -6,8 +6,6 @@ export const DesktopForm = () => {
   return (
     <div className="desktop-form">
       <div className="div">
-
-        <form>
         <div className="overlap">
           <div className="rectangle" />
           <div className="overlap-wrapper">
@@ -46,7 +44,6 @@ export const DesktopForm = () => {
             <div className="text-wrapper-5">Send</div>
           </div>
         </div>
-        </form>
         <img className="line" alt="Line" src="/img/line-1-1.png" />
         <Lady className="lady-instance" />
         <img className="magma-translation" alt="Magma translation" src="/img/magma-translation-png.png" />
