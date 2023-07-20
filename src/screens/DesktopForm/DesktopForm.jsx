@@ -4,6 +4,10 @@ import "./style.css";
 
 export const DesktopForm = () => {
   return (
+    
+    
+    
+    
     <div className="desktop-form">
       <div className="div">
         <div className="group">
@@ -13,20 +17,17 @@ export const DesktopForm = () => {
         </div>
 
 
+
+
+
           <div className="overlap">
-          <textarea required name="message" placeholder="Message" className="rectangle">   </textarea>  
+          <textarea required name="message" placeholder="    Message        " className="rectangle"  cols="30"   rols="10">   </textarea>  
           <div className="overlap-wrapper">
             <div className="overlap-2">
               <div className="rectangle-2" />
               <div className="text-wrapper-2">Message</div>
             </div>
           </div>
-
-
-
-
-
-
 
 
 
