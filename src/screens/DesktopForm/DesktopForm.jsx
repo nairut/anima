@@ -13,13 +13,12 @@ export const DesktopForm = () => {
 
         <form>
 
+
+
         <div className="group">
           <div className="overlap-group">
-          <button type="submit">
             <div className="text-wrapper">Send</div>
-            </button>
           </div>
-
         </div>
   
 
@@ -74,7 +73,7 @@ export const DesktopForm = () => {
         </form>
 
 
-        
+
         <img className="line" alt="Line" src="/img/line-1.png" />
         <Lady className="lady-instance" />
         <img className="magma-translation" alt="Magma translation" src="/img/magma-translation-png.png" />
