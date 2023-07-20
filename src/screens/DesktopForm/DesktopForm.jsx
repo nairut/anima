@@ -16,11 +16,11 @@ export const DesktopForm = () => {
 
 
         <div className="overlap">
-          
           <div className="overlap-wrapper">
             <div className="overlap-2">
-            <div className="rectangle" />            </div>
+            <div className="rectangle" />            
               <div className="rectangle-2" />
+              </div>
               <div className="text-wrapper-2">Message</div>
           </div>
 
