@@ -46,8 +46,6 @@ export const DesktopForm = () => {
           </div>
         </div>
 
-        <textarea required name="message" placeholder="Message" className="rectangle-3">   </textarea>
-
 
 
         
