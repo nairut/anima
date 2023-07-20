@@ -14,10 +14,10 @@ export const DesktopForm = () => {
         <form>
 
         <div className="group">
-          <button type="submit">
-          <div className="overlap-group">
+          <button className="overlap-group" type="submit">
+
             <div className="text-wrapper">Send</div>
-          </div>
+
           </button>
         </div>
 
