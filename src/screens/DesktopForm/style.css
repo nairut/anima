@@ -30,6 +30,10 @@
   width: 429px;
 }
 
+.desktop-form .overlap-group:hover {
+  color: #000000;
+}
+
 .desktop-form .text-wrapper {
   color: #0a3749;
   font-family: "Inter", Helvetica;
@@ -43,9 +47,7 @@
   width: 129px;
 }
 
-.desktop-form .text-wrapper:hover {
-  color: #000000;
-}
+
 
 .desktop-form .overlap {
   height: 99px;
