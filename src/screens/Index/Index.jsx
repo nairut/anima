@@ -3,7 +3,7 @@ import { useWindowWidth } from "../../breakpoints";
 import { Group } from "../../components/Group";
 import "./style.css";
 
-export const Index = (): JSX.Element => {
+export const Index = () => {
   const screenWidth = useWindowWidth();
 
   return (

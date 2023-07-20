@@ -2,7 +2,7 @@ import React from "react";
 import { Lady } from "../../components/Lady";
 import "./style.css";
 
-export const DesktopForm = (): JSX.Element => {
+export const DesktopForm = () => {
   return (
     <div className="desktop-form">
       <div className="div">

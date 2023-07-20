@@ -9,14 +9,7 @@ import { useReducer } from "react";
 import { Link } from "react-router-dom";
 import "./style.css";
 
-interface Props {
-  property1: "variant-2" | "default";
-  className: any;
-  talkToAnExpertClassName: any;
-  to: string;
-}
-
-export const Group = ({ property1, className, talkToAnExpertClassName, to }: Props): JSX.Element => {
+export const Group = ({ property1, className, talkToAnExpertClassName, to }) => {
   const [state, dispatch] = useReducer(reducer, {
     property1: property1 || "default",
   });
@@ -37,7 +30,7 @@ export const Group = ({ property1, className, talkToAnExpertClassName, to }: Pro
   );
 };
 
-function reducer(state: any, action: any) {
+function reducer(state, action) {
   switch (action) {
     case "mouse_enter":
       return {
