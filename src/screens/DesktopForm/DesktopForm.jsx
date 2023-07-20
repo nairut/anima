@@ -7,7 +7,7 @@ export const DesktopForm = () => {
     
     
     
-    
+    <button type="submit" className="text-wrapper-5">
     <div className="desktop-form">
       <div className="div">
         <div className="group">
@@ -15,6 +15,9 @@ export const DesktopForm = () => {
             <div className="text-wrapper">Send</div>
           </div>
         </div>
+        </button>
+
+
 
 
 
@@ -28,7 +31,6 @@ export const DesktopForm = () => {
               <div className="text-wrapper-2">Message</div>
             </div>
           </div>
-
 
 
         </div>
