@@ -316,11 +316,12 @@
 
 .desktop-form .textarea-style {
   /* Add your custom styles here */
-
-  padding: 20px; /* Adjust the padding as needed */
+  width: 100%; /* Adjust the width as needed */
+  height: 50px; /* Adjust the height as needed */
+  padding: 15px; /* Adjust the padding as needed */
+  border: 1px solid gray; /* Adjust the border properties as needed */
+  border-radius: 2px; /* Adjust the border radius as needed */
   font-size: 16px; /* Adjust the font size as needed */
   color: #333; /* Adjust the text color as needed */
 
 }
-
-
