@@ -10,45 +10,15 @@ export const DesktopForm = () => {
     
     <div className="desktop-form">
       <div className="div">
-  
-      <form  name="contact" action="/desktop-form" method="post">
+
+      <form  name="contact" action="/contact" method="post">
       <input type="hidden" name="form-name" value="contact" />
 
-
-      <div className="overlap-6">
-          <input required type="text" className="rectangle-5" name="name" placeholder="   Sheldon"/>
-
-          <div className="group-3">
-            <div className="overlap-5">
-              <div className="text-wrapper-5">First name</div>
-            </div>
-          </div>
+        <div className="group">
+          <button className="overlap-group" type="submit">
+            <div className="text-wrapper">Send</div>
+          </button>
         </div>
-
-
-        <div className="overlap-4">
-          <input required type="text" className="rectangle-4" name="name" placeholder="   Cooper"/>
-
-          <div className="group-2">
-            <div className="overlap-5">
-              <div className="text-wrapper-4">Last name</div>
-            </div>
-          </div>
-        </div>
-
-
-
-      </div>
-        <div className="overlap-3">
-        <input required type="email" className="rectangle-3" name="email" placeholder="Your E-mail"/>
-
-          <div className="overlap-group-wrapper">
-            <div className="div-wrapper">
-              <div className="text-wrapper-3">Email</div>
-            </div>
-          </div>
-        </div>
-
 
 
 
@@ -63,20 +33,41 @@ export const DesktopForm = () => {
           </div>
 
 
+        </div>
+        <div className="overlap-3">
+        <input required type="email" className="rectangle-3" name="email" placeholder="Your E-mail"/>
 
-          <div className="group">
-          <button className="overlap-group" type="submit">
-            <div className="text-wrapper">Send</div>
-          </button>
+          <div className="overlap-group-wrapper">
+            <div className="div-wrapper">
+              <div className="text-wrapper-3">Email</div>
+            </div>
+          </div>
+        </div>
+
+
+
+        <div className="overlap-4">
+          <input required type="text" className="rectangle-4" name="name" placeholder="   Cooper"/>
+
+          <div className="group-2">
+            <div className="overlap-5">
+              <div className="text-wrapper-4">Last name</div>
+            </div>
+          </div>
         </div>
 
 
 
 
+        <div className="overlap-6">
+          <input required type="text" className="rectangle-5" name="name" placeholder="   Sheldon"/>
 
-
-
-
+          <div className="group-3">
+            <div className="overlap-5">
+              <div className="text-wrapper-5">First name</div>
+            </div>
+          </div>
+        </div>
 
 
         </form>
