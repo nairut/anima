@@ -9,9 +9,10 @@ export const DesktopForm = () => {
 
         <form>
         <div className="overlap">
+        <input type="text" name="name" placeholder="Your name" />
           <div className="rectangle" />
-          <input type="text" name="name"  />
           <div className="overlap-wrapper">
+          <input type="text" name="name" placeholder="Your name" />
             <div className="overlap-group">
               <div className="text-wrapper">First name</div>
 
