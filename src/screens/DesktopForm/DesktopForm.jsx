@@ -37,10 +37,10 @@ export const DesktopForm = () => {
 
         <div className="overlap-3">
           <img className="img" alt="Rectangle" src="/img/rectangle-6.png" />
-          <textarea required name="message" placeholder="Message" className="rectangle-3">   </textarea>
           <div className="group-2">
             <div className="overlap-4">
-              <div className="rectangle-3" />
+              <textarea required name="message" placeholder="Message" className="rectangle-3">   </textarea>
+
               <div className="text-wrapper-3">Message</div>
             </div>
           </div>
